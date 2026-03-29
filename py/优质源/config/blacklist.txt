@@ -35,3 +35,6 @@ pull-hls-f11.douyincdn.com
 l.cztvcloud.com
 ali-xwl.cztv.com
 nn.7x9d.cn
+218.15.183.23
+61.184.46.85
+218.13.170.98
