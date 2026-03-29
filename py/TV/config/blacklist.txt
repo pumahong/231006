@@ -191,3 +191,8 @@ jwcdnqx.hebyun.com.cn:443
 pull-hls-f11.douyincdn.com:80
 live-auth.51kandianshi.com:443
 txmov2.a.kwimgs.com:443
+221.13.234.36:9901
+115.48.160.62:9901
+221.13.235.17:9901
+221.13.234.78:9901
+vip1.xinketongxun.fun:8082
