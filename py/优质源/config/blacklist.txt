@@ -19,3 +19,9 @@ play.kankanlive.com
 36.32.174.67
 120.198.95.220
 gxlive.snrtv.com
+1.24.39.180
+pull-hls-f11.douyincdn.com
+222.214.208.34
+lbds.us.ci
+183.223.157.33
+222.169.85.8
