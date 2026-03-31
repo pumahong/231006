@@ -157,3 +157,7 @@ pull-hls-f11.douyincdn.com:80
 nn.7x9d.cn:80
 120.198.95.220:9901
 smt.1678520.xyz:443
+huhu11.a1.luyouxia.net:26894
+221.229.212.86:14979
+125.42.148.11:9901
+bcovlive-a.akamaihd.net:443
