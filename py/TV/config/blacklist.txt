@@ -138,3 +138,10 @@ video.epaper.pybtv.cn:8080
 utv1.hqtvzb.com:9999
 5ddce30eb4b55.streamlock.net:443
 221.229.212.86:14909
+221.229.212.86:14993
+www.lwfz.fun:8800
+cdn.jdshipin.com:8880
+goodiptv.club:443
+221.229.212.86:14902
+221.229.212.86:14989
+cdn3.163189.xyz:80
