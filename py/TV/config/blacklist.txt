@@ -162,3 +162,11 @@ utv1.hqtvzb.com:9999
 221.229.212.86:14972
 101.66.194.203:9901
 gcwbndali.v.myalicdn.com:443
+cdn12.178.indevs.in:443
+english-livetx.cgtn.com:80
+1.24.39.180:9003
+185.44.67.64:53874
+p2.vzan.com:80
+221.229.212.86:14906
+english-livetx.cgtn.com:443
+183.223.157.33:9901
