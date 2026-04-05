@@ -140,3 +140,6 @@ v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com:443
 221.229.212.86:14897
 221.229.212.86:14977
 tvfile.swrmt.com:80
+m3u8.channel.dzsm.com:443
+153.0.171.163:85
+5ddce30eb4b55.streamlock.net:443
