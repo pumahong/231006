@@ -137,3 +137,9 @@ edgeone.passwdword.xyz:443
 221.229.212.86:14904
 l.cztvcloud.com:80
 124.116.183.146:9901
+hkstv.tv:443
+cdn13.178.indevs.in:443
+webcast.hkstv.tv:80
+221.229.212.86:14923
+153.0.171.163:9901
+1.94.31.214:80
