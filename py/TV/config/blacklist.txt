@@ -173,3 +173,8 @@ hwapi.yntv.net:443
 101.66.194.249:9901
 stream.ads.ottera.tv:443
 101.66.198.203:9901
+kakaxi.indevs.in:80
+tencentplay.gztv.com:443
+php.jdshipin.com:8880
+61.136.172.236:9901
+43.156.8.127:5050
