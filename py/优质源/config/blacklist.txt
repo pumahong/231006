@@ -23,3 +23,5 @@ stream.hrbtv.net
 1.24.39.180
 play-a2.quklive.com
 goodiptv.club
+epg.pw
+101.66.198.255
