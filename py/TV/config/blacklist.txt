@@ -159,3 +159,7 @@ udinlaw.sytes.net:8000
 221.13.235.162:9901
 p.ytelc.com:80
 my9.ltd:443
+112.123.243.37:50085
+gctxyc.liveplay.myqcloud.com:443
+pili-live-hls.wdit.com.cn:443
+hwapi.yntv.net:443
