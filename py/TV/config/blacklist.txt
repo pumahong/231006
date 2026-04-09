@@ -172,3 +172,13 @@ channel.wcrmt.cn:80
 bxtv.3a.ink:80
 gfr.x3322.net:9901
 183.223.157.33:9901
+goodiptv.club:443
+www.goodiptv.club:80
+119.39.9.8:9901
+58.46.202.137:4023
+live.ottiptv.cc:443
+171.120.189.21:89
+test.946985.filegear-sg.me:443
+118.251.98.63:8888
+smt.pixman.us.ci:443
+112.123.243.37:50085
