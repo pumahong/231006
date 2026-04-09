@@ -185,3 +185,6 @@ smt.pixman.us.ci:443
 116.233.67.80:8899
 other.ottiptv.cc:443
 123.129.70.178:9901
+r.jdshipin.com:80
+pixman.passwdwork.cc.cd:443
+udinlaw.sytes.net:8000
