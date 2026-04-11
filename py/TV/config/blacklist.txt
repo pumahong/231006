@@ -142,3 +142,6 @@ iptv.vip-tptv.xyz:443
 scdytv.cn:1935
 gdcucc.v1.mk:443
 2409:8087:4c0a:22:1::11:6410
+live.ottiptv.cc:443
+php.jdshipin.com:2096
+116.233.67.80:8899
