@@ -178,3 +178,5 @@ goodiptv.club:443
 hsplay-360.v.btime.com:443
 183.141.122.171:9999
 liveout.btzx.com.cn:80
+v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com:443
+116.233.67.80:8899
