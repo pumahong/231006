@@ -171,3 +171,4 @@ stream.sun0769.com:443
 live.jinchuanrmt.com:90
 p2.vzan.com:80
 112.234.23.157:9901
+stream.hrbtv.net:80
