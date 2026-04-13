@@ -157,3 +157,7 @@ www.goodiptv.club:80
 live.jinchuanrmt.com:90
 tpc.x3322.net:9901
 124.228.160.14:9901
+183.223.157.33:9901
+test.946985.filegear-sg.me:443
+p.ytelc.com:80
+goodiptv.club:443
