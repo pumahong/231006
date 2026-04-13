@@ -161,3 +161,8 @@ tpc.x3322.net:9901
 test.946985.filegear-sg.me:443
 p.ytelc.com:80
 goodiptv.club:443
+61.163.181.78:85
+video.bread-tv.com:8091
+43.156.8.127:5050
+live.ottiptv.cc:443
+175.0.64.97:8888
