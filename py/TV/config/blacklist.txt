@@ -166,3 +166,4 @@ video.bread-tv.com:8091
 43.156.8.127:5050
 live.ottiptv.cc:443
 175.0.64.97:8888
+www.lwfz.fun:8800
