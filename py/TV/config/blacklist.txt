@@ -183,3 +183,5 @@ live.ottiptv.cc:443
 p.ytelc.com:80
 124.116.183.146:9901
 61.216.67.119:1935
+5ddce30eb4b55.streamlock.net:443
+cnpull.sccnfb.com:80
