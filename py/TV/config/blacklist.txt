@@ -126,3 +126,5 @@ live.jinchuanrmt.com:90
 153.0.171.163:85
 116.233.67.80:8899
 114.233.242.79:4000
+webcast.hkstv.tv:80
+v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com:443
