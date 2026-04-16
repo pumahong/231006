@@ -111,3 +111,5 @@ php.jdshipin.com:2096
 218.17.33.178:53290
 goodiptv.club:443
 153.0.171.163:9901
+183.223.157.33:9901
+tvfile.swrmt.com:80
