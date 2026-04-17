@@ -124,3 +124,4 @@ liveout.xntv.tv:443
 116.233.67.80:8899
 pili-live-hls-sjxgz2024.sobeylive.com:443
 123.129.70.178:9901
+5ddce30eb4b55.streamlock.net:443
