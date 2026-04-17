@@ -116,3 +116,6 @@ live.tvfix.org:443
 183.10.180.192:9901
 154.37.212.176:80
 183.10.180.44:9901
+other.ottiptv.cc:443
+hkstv.tv:443
+webcast.hkstv.tv:80
