@@ -37,3 +37,5 @@ pull-hls-f11.douyincdn.com
 1.197.204.20
 221.226.51.220
 154.37.212.176
+l.cztvcloud.com
+stream.hrbtv.net
