@@ -101,3 +101,6 @@ smjdenny.eu.org:35455
 125.42.150.236:9901
 122.117.71.103:8559
 litv.zapi.us.kg:80
+php.jdshipin.com:2096
+125.43.244.73:9901
+goodiptv.club:443
