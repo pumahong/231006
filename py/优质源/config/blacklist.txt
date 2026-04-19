@@ -40,3 +40,4 @@ pull-hls-f11.douyincdn.com
 l.cztvcloud.com
 stream.hrbtv.net
 61.221.215.25
+182.114.49.159
