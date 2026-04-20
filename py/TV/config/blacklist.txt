@@ -131,3 +131,6 @@ hkstv.tv:443
 183.188.22.54:6000
 other.ottiptv.cc:443
 49.234.31.101:7033
+webcast.hkstv.tv:80
+106.111.244.12:58099
+pull-hls-f11.douyincdn.com:80
