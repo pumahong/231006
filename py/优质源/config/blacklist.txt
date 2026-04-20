@@ -27,3 +27,9 @@ jellyfin.cyruslee.top
 125.43.244.73
 tvcdn.stream3.hndt.com
 goodiptv.club
+198.204.228.26
+webcast.hkstv.tv
+69.30.246.194
+hkstv.tv
+183.223.157.33
+111.221.137.234
