@@ -17,3 +17,13 @@ lbds.us.ci
 pull-hls-f11.douyincdn.com
 148.113.160.49
 222.169.85.8
+153.0.171.163
+171.116.254.184
+123.129.70.178
+plex.cyruslee.top
+t.freetv.fun
+jellyfin.cyruslee.top
+112.123.243.37
+125.43.244.73
+tvcdn.stream3.hndt.com
+goodiptv.club
