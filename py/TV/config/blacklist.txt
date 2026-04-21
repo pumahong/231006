@@ -158,3 +158,5 @@ kbsworld-ott.akamaized.net:443
 live1.gatv.com.cn:85
 120.220.44.46:80
 183.223.157.33:9901
+36.40.237.172:9999
+www.lwfz.fun:8800
