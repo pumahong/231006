@@ -40,3 +40,4 @@ stream.freetv.fun
 hlsztemgsplive.miguvideo.com
 l.cztvcloud.com
 221.226.51.220
+218.13.170.98
