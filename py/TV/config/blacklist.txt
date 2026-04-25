@@ -102,3 +102,8 @@ tencentplay.gztv.com:443
 153.0.171.163:85
 dassby.qqff.top:99
 livestream-bt.nmtv.cn:443
+101.66.198.74:9901
+101.66.199.161:9901
+222.214.208.34:59901
+101.66.194.102:9901
+goodiptv.club:443
