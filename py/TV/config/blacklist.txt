@@ -113,3 +113,6 @@ gcalic.v.myalicdn.com:443
 218.104.239.114:9901
 gcwbndali.v.myalicdn.com:443
 153.0.171.163:9901
+59.175.226.142:280
+livepull.myntv.cn:80
+115.48.160.52:9901
