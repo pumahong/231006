@@ -122,3 +122,5 @@ p.ytelc.com:80
 101.66.199.127:9901
 hkstv.tv:443
 t.freetv.fun:443
+stream.sun0769.com:443
+175.0.64.97:8888
