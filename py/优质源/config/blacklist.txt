@@ -16,3 +16,6 @@ live.dxhmt.cn
 148.113.160.49
 liveout.gstv.com.cn
 grandprix2023.asuscomm.com
+153.0.171.163
+218.104.239.114
+fei01.kmdns.net
