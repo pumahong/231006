@@ -120,3 +120,5 @@ tencentplay.gztv.com:443
 101.66.194.140:9901
 p.ytelc.com:80
 101.66.199.127:9901
+hkstv.tv:443
+t.freetv.fun:443
