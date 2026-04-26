@@ -101,3 +101,8 @@ livestream-bt.nmtv.cn:443
 153.0.171.163:9901
 61.216.67.119:1935
 5ddce30eb4b55.streamlock.net:443
+218.104.239.114:9901
+r.jdshipin.com:80
+123.129.70.178:9901
+fei01.kmdns.net:8807
+www.cdnstv.com:6398
