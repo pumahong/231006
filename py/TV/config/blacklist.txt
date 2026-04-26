@@ -96,3 +96,8 @@ sansat.net:88
 live.tvfix.org:443
 e2.woc.iiiya.cn:28888
 1.197.249.160:9901
+livestream-bt.nmtv.cn:443
+117.86.49.60:7777
+153.0.171.163:9901
+61.216.67.119:1935
+5ddce30eb4b55.streamlock.net:443
