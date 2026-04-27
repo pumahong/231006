@@ -22,3 +22,5 @@ fei01.kmdns.net
 221.7.175.154
 pull-hls-f11.douyincdn.com
 61.184.46.85
+112.123.243.37
+lbds.us.ci
