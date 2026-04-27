@@ -119,3 +119,7 @@ goodiptv.club:443
 218.104.239.114:9901
 1.197.249.160:9901
 tencentplay.gztv.com:443
+gmxw.7766.org:808
+liveout.btzx.com.cn:80
+txmov2.a.kwimgs.com:80
+livestream-bt.nmtv.cn:443
