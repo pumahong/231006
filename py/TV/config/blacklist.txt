@@ -140,3 +140,5 @@ espanol-liveali.cgtn.com:80
 pili-live-hls.wdit.com.cn:443
 38.75.136.137:98
 vip1.xinketongxun.fun:8082
+106.111.244.12:58099
+218.94.90.74:57585
