@@ -163,3 +163,8 @@ v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com:443
 101.66.198.169:9901
 182.114.49.128:9901
 play-qukan.cztv.com:443
+pull-hls-f11.douyincdn.com:80
+bp-resource-dfl.bestv.cn:443
+218.15.183.23:9901
+t.freetv.fun:443
+36.40.237.166:9999
