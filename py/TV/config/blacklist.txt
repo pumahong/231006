@@ -158,3 +158,5 @@ tylive.kan0512.com:443
 m3u8.channel.dzsm.com:443
 74.91.26.218:82
 183.220.20.17:4321
+fl2.moveonjoy.com:80
+v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com:443
