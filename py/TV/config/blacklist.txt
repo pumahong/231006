@@ -110,3 +110,5 @@ pili-live-hls.wdit.com.cn:443
 dxtx.hntv.tv:443
 tencentplay.gztv.com:80
 livestream-bt.nmtv.cn:443
+www.lwfz.fun:8800
+my9.ltd:443
