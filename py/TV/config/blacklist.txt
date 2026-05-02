@@ -108,3 +108,5 @@ pili-live-hls.wdit.com.cn:443
 113.25.252.226:9901
 183.223.157.33:9901
 dxtx.hntv.tv:443
+tencentplay.gztv.com:80
+livestream-bt.nmtv.cn:443
