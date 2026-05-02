@@ -107,3 +107,4 @@ gd202.tv1288.xyz:443
 pili-live-hls.wdit.com.cn:443
 113.25.252.226:9901
 183.223.157.33:9901
+dxtx.hntv.tv:443
