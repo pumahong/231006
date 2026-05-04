@@ -132,3 +132,6 @@ live.ottiptv.cc:443
 livestream-bt.nmtv.cn:443
 182.150.115.21:8030
 124.116.183.146:9901
+bxtv.3a.ink:80
+live.264788.xyz:443
+svip.high24-playback.com:443
