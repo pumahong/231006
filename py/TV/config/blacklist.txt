@@ -135,3 +135,4 @@ livestream-bt.nmtv.cn:443
 bxtv.3a.ink:80
 live.264788.xyz:443
 svip.high24-playback.com:443
+tencentplay.gztv.com:80
