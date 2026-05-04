@@ -124,3 +124,8 @@ goodiptv.club:443
 lb.streaming.sk:80
 61.184.46.85:9901
 jwcdnqx.hebyun.com.cn:443
+ali-xwl.cztv.com:80
+www.lwfz.fun:8800
+other.ottiptv.cc:443
+live.ottiptv.cc:443
+61.184.46.85:85
