@@ -136,3 +136,8 @@ bxtv.3a.ink:80
 live.264788.xyz:443
 svip.high24-playback.com:443
 tencentplay.gztv.com:80
+36.40.237.100:9999
+tencentplay.gztv.com:443
+l.cztvcloud.com:80
+183.47.2.156:16883
+live12.xiazhix1.top:443
