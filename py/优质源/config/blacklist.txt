@@ -31,3 +31,4 @@ lb.streaming.sk
 hkstv.tv
 l.cztvcloud.com
 r.jdshipin.com
+ali-xwl.cztv.com
