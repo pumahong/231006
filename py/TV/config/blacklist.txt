@@ -144,3 +144,7 @@ live12.xiazhix1.top:443
 218.81.49.34:10010
 epg.pw:443
 stream1.freetv.fun:443
+m3u8channel-yj.yunxya.com:443
+kbsworld-ott.akamaized.net:443
+182.114.48.48:9901
+218.13.170.98:9901
