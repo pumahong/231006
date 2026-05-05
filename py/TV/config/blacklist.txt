@@ -141,3 +141,6 @@ tencentplay.gztv.com:443
 l.cztvcloud.com:80
 183.47.2.156:16883
 live12.xiazhix1.top:443
+218.81.49.34:10010
+epg.pw:443
+stream1.freetv.fun:443
