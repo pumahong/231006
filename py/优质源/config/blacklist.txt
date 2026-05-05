@@ -29,3 +29,5 @@ lb.streaming.sk
 124.116.183.146
 183.129.255.66
 hkstv.tv
+l.cztvcloud.com
+r.jdshipin.com
