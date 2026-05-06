@@ -32,3 +32,6 @@ hkstv.tv
 l.cztvcloud.com
 r.jdshipin.com
 ali-xwl.cztv.com
+119.29.13.205
+112.132.10.54
+hlsal-ldvt.qing.mgtv.com
