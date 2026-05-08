@@ -13,3 +13,8 @@ goodiptv.club
 masterpull.hljtv.com
 live.ynurl.com
 rmplive.hljtv.com
+221.226.51.220
+153.0.171.163
+pull-hls-f11.douyincdn.com
+119.39.9.8
+112.132.10.54
