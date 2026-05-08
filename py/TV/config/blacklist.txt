@@ -96,3 +96,6 @@ nhkwlive-ojp.akamaized.net:443
 liveout.gstv.com.cn:443
 ottrrs.hl.chinamobile.com:80
 tv-trtworld.live.trt.com.tr:443
+qcfile.qcrmt.com:80
+101.66.198.11:9901
+r.jdshipin.com:80
