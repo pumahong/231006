@@ -200,3 +200,5 @@ pull-hls-f11.douyincdn.com:80
 49.234.31.101:7033
 vip1.xinketongxun.fun:8082
 112.132.10.54:9901
+jsmov2.a.yximgs.com:80
+dassby.qqff.top:99
