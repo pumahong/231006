@@ -113,3 +113,7 @@ t.freetv.fun:443
 111.221.137.234:44330
 121.19.134.244:808
 www.cdnstv.com:6398
+stream.freetv.fun:443
+www.lwfz.fun:8800
+124.116.183.146:9901
+fl2.moveonjoy.com:80
