@@ -129,3 +129,8 @@ rihou.cc:555
 182.114.48.199:9901
 iptv.kakacq.com:8888
 47.108.228.131:12193
+other.ottiptv.cc:443
+125.43.244.199:9901
+live.264788.xyz:443
+php.jdshipin.com:80
+liveflash.sxrtv.com:80
