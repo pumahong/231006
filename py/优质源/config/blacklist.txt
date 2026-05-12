@@ -38,3 +38,7 @@ t.freetv.fun
 122.100.242.52
 59.62.1.50
 iptv.kakacq.com
+live.264788.xyz
+haimen-tv-hls.cm.jstv.com
+120.238.94.82
+play-a2.quklive.com
