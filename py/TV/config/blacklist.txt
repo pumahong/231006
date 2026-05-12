@@ -134,3 +134,4 @@ other.ottiptv.cc:443
 live.264788.xyz:443
 php.jdshipin.com:80
 liveflash.sxrtv.com:80
+120.76.248.139:80
