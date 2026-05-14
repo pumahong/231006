@@ -166,3 +166,5 @@ my9.ltd:443
 hkstv.tv:443
 tylive.kan0512.com:443
 221.193.168.237:9901
+d12a2vxqkkh1bo.cloudfront.net:443
+111.167.32.120:5002
