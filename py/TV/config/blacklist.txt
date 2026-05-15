@@ -175,3 +175,6 @@ d12a2vxqkkh1bo.cloudfront.net:443
 36.40.237.59:9999
 1.197.249.239:9901
 zby.130519.xyz:443
+182.114.48.42:9901
+pili-live-hls-sjxgz2024.sobeylive.com:443
+dxtx.hntv.tv:443
