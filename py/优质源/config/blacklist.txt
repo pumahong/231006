@@ -31,3 +31,4 @@ play-a2.quklive.com
 l.cztvcloud.com
 dafeng-tv-hls.cm.jstv.com
 112.132.10.54
+live.264788.xyz
