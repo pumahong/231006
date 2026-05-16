@@ -180,3 +180,4 @@ pili-live-hls-sjxgz2024.sobeylive.com:443
 dxtx.hntv.tv:443
 120.238.94.82:9901
 124.228.160.176:9901
+cdn.jdshipin.com:8880
