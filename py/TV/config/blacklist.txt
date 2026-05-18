@@ -92,3 +92,8 @@ www.lizhinas.top:1009
 d18dyiwu97wm6q.cloudfront.net:443
 livepull.myntv.cn:80
 itv.iptv1688.top:2016
+153.0.171.163:9901
+123.129.70.178:9901
+36.40.237.98:9999
+hao6688.3322.org:30066
+tpc.x3322.net:9901
