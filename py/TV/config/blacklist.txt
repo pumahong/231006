@@ -132,3 +132,5 @@ bp-resource-dfl.bestv.cn:443
 101.66.199.80:9901
 101.66.199.215:9901
 www.lwfz.fun:8800
+www.cdnstv.com:6398
+49.77.20.134:8118
