@@ -21,3 +21,6 @@ lbds.us.ci
 epg.pw
 119.39.9.8
 78962588856486165751857.iepose.cn
+l.cztvcloud.com
+110.154.192.40
+hkstv.tv
