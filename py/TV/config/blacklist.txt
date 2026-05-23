@@ -197,3 +197,5 @@ gcalic.v.myalicdn.com:443
 www.goodiptv.club:80
 113.25.252.226:9901
 live.ottiptv.cc:443
+116.236.204.18:1234
+223.247.25.205:1234
