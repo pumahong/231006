@@ -137,3 +137,5 @@ my9.ltd:443
 zmgd.zyrnet.com:8888
 play.yunxya.com:443
 event.pull.hebtv.com:443
+74.91.26.218:82
+182.114.48.246:9901
