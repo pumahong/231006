@@ -162,3 +162,6 @@ txmov2.a.kwimgs.com:443
 cssbyd.imwork.net:8082
 gctxyc.liveplay.myqcloud.com:443
 live-auth.51kandianshi.com:443
+113.241.133.180:85
+14.153.176.89:1234
+47.104.178.59:3566
