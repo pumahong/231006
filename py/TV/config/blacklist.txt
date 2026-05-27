@@ -167,3 +167,7 @@ live-auth.51kandianshi.com:443
 47.104.178.59:3566
 218.104.239.114:9901
 fuxin.yunjifei.top:999
+stream.hrbtv.net:80
+222.130.32.44:7788
+www.cdnstv.com:6398
+221.13.235.33:9901
