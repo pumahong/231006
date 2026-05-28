@@ -179,3 +179,4 @@ php.jdshipin.com:2096
 1.197.249.39:9901
 gd202.tv1288.xyz:443
 live.qthnews.org.cn:1935
+d12a2vxqkkh1bo.cloudfront.net:443
