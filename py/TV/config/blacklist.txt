@@ -176,3 +176,6 @@ www.cdnstv.com:6398
 kakaxi.indevs.in:80
 php.jdshipin.com:2096
 110.154.192.30:7788
+1.197.249.39:9901
+gd202.tv1288.xyz:443
+live.qthnews.org.cn:1935
