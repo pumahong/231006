@@ -1,1306 +1,1268 @@
-测速日志 2026-05-29 21:43:14
+测速日志 2026-05-30 06:52:36
 速度阈值: 150KB/s
-运行次数: 7
+运行次数: 8
 HTTPS验证: False
 
-[2026-05-29 21:43:20] ✅ 通过阈值 HTTP测速: http://69.30.245.50/live/cctv1.m3u8
-   速度: 189.45KB/s | 数据量: 0.2KB | 总耗时: 0.08s | 阈值: 150KB/s
-[2026-05-29 21:43:20] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
-   速度: 208.01KB/s | 数据量: 0.2KB | 总耗时: 0.11s | 阈值: 150KB/s
-[2026-05-29 21:43:21] ✅ 通过阈值 HTTP测速: http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-   速度: 225.59KB/s | 数据量: 0.2KB | 总耗时: 1.19s | 阈值: 150KB/s
-[2026-05-29 21:43:27] ✅ HTTPS测速成功: https://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?&HlsSubType=&encrypt=
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.60s | 证书: 有效
-[2026-05-29 21:43:27] ✅ HTTPS测速成功: https://hlsbkmgsplive.miguvideo.com/migu/kailu/btws/51/20250804/01.m3u8?&HlsSubType=&encrypt=
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.60s | 证书: 有效
-[2026-05-29 21:43:27] ✅ HTTPS测速成功: https://hlsbkmgsplive.miguvideo.com/migu/kailu/lnwshd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.63s | 证书: 有效
-[2026-05-29 21:43:27] ✅ HTTPS测速成功: https://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/01.m3u8?&HlsSubType=&encrypt=
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.63s | 证书: 有效
-[2026-05-29 21:43:27] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
-   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.10s | 阈值: 150KB/s
-[2026-05-29 21:43:27] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
-   速度: 206.05KB/s | 数据量: 0.2KB | 总耗时: 0.10s | 阈值: 150KB/s
-[2026-05-29 21:43:27] ✅ HTTPS测速成功: https://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/01.m3u8?&HlsSubType=&encrypt=
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.66s | 证书: 有效
-[2026-05-29 21:43:27] ✅ HTTPS测速成功: https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.66s | 证书: 有效
-[2026-05-29 21:43:27] ✅ HTTPS测速成功: https://hlsbkmgsplive.miguvideo.com/migu/kailu/dongnanws/51/20230724/01.m3u8?&HlsSubType=&encrypt=
+[2026-05-30 06:52:39] ✅ 通过阈值 HTTP测速: http://69.30.245.50/live/cctv1.m3u8
+   速度: 191.41KB/s | 数据量: 0.2KB | 总耗时: 0.09s | 阈值: 150KB/s
+[2026-05-30 06:52:40] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+   速度: 200.20KB/s | 数据量: 0.2KB | 总耗时: 0.20s | 阈值: 150KB/s
+[2026-05-30 06:52:41] ✅ 通过阈值 HTTP测速: http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+   速度: 225.59KB/s | 数据量: 0.2KB | 总耗时: 2.06s | 阈值: 150KB/s
+[2026-05-30 06:52:42] ✅ HTTPS测速成功: https://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?&HlsSubType=&encrypt=
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.71s | 证书: 有效
+[2026-05-30 06:52:42] ✅ HTTPS测速成功: https://hlsbkmgsplive.miguvideo.com/wd-shandonghd-1200/01.m3u8?&HlsSubType=&encrypt=
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.74s | 证书: 有效
+[2026-05-30 06:52:42] ✅ HTTPS测速成功: https://hlsbkmgsplive.miguvideo.com/migu/kailu/lnwshd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=
    速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.75s | 证书: 有效
-[2026-05-29 21:43:27] ✅ HTTPS测速成功: https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.72s | 证书: 有效
-[2026-05-29 21:43:27] ✅ HTTPS测速成功: https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-1200/01.m3u8?&HlsSubType=&encrypt=
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.73s | 证书: 有效
-[2026-05-29 21:43:27] ✅ HTTPS测速成功: https://hlsbkmgsplive.miguvideo.com/wd-shandonghd-1200/01.m3u8?&HlsSubType=&encrypt=
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 1.10s | 证书: 有效
-[2026-05-29 21:43:28] ✅ HTTPS测速成功: https://hlsbkmgsplive.miguvideo.com/wd_r1/2018/nfmedia/nfys/1000/01.m3u8?&HlsSubType=&encrypt=
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.55s | 证书: 有效
-[2026-05-29 21:43:29] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/148_feda2f.m3u8
-   速度: 310.55KB/s | 数据量: 0.3KB | 总耗时: 1.13s | 证书: 有效
-[2026-05-29 21:43:29] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/174_6ab9f8.m3u8
-   速度: 378.91KB/s | 数据量: 0.4KB | 总耗时: 1.13s | 证书: 有效
-[2026-05-29 21:43:29] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/203_10cdf5.m3u8
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 1.19s | 证书: 有效
-[2026-05-29 21:43:29] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/168_ce2a0c.m3u8
-   速度: 537.11KB/s | 数据量: 0.5KB | 总耗时: 1.21s | 证书: 有效
-[2026-05-29 21:43:29] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/134_d590ee.m3u8
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 1.23s | 证书: 有效
-[2026-05-29 21:43:29] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/146_f067fe.m3u8
-   速度: 375.98KB/s | 数据量: 0.4KB | 总耗时: 1.22s | 证书: 有效
-[2026-05-29 21:43:29] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/161_8d2e76.m3u8
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 1.24s | 证书: 有效
-[2026-05-29 21:43:29] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/187_2abf84.m3u8
-   速度: 553.71KB/s | 数据量: 0.6KB | 总耗时: 1.24s | 证书: 有效
-[2026-05-29 21:43:30] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8
-   速度: 412.11KB/s | 数据量: 0.4KB | 总耗时: 1.23s | 证书: 有效
-[2026-05-29 21:43:30] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/170_49c556.m3u8
-   速度: 537.11KB/s | 数据量: 0.5KB | 总耗时: 0.98s | 证书: 有效
-[2026-05-29 21:43:31] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/163_2c7011.m3u8
-   速度: 453.12KB/s | 数据量: 0.5KB | 总耗时: 0.90s | 证书: 有效
-[2026-05-29 21:43:31] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/7_7c833e.m3u8
-   速度: 425.78KB/s | 数据量: 0.4KB | 总耗时: 0.90s | 证书: 有效
-[2026-05-29 21:43:31] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/20_68acda.m3u8
-   速度: 538.09KB/s | 数据量: 0.5KB | 总耗时: 0.95s | 证书: 有效
-[2026-05-29 21:43:31] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/26_370917.m3u8
-   速度: 128.91KB/s | 数据量: 0.1KB | 总耗时: 0.95s | 证书: 有效
-[2026-05-29 21:43:31] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/171_daca67.m3u8
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.96s | 证书: 有效
-[2026-05-29 21:43:31] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/40_1d0ed0.m3u8
-   速度: 485.35KB/s | 数据量: 0.5KB | 总耗时: 0.96s | 证书: 有效
-[2026-05-29 21:43:31] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/27_e9e1e5.m3u8
-   速度: 502.93KB/s | 数据量: 0.5KB | 总耗时: 0.98s | 证书: 有效
-[2026-05-29 21:43:31] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/167_0d6151.m3u8
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 1.02s | 证书: 有效
-[2026-05-29 21:43:31] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/34_5156ed.m3u8
-   速度: 514.65KB/s | 数据量: 0.5KB | 总耗时: 0.90s | 证书: 有效
-[2026-05-29 21:43:31] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/131_acfb72.m3u8
-   速度: 548.83KB/s | 数据量: 0.5KB | 总耗时: 0.90s | 证书: 有效
-[2026-05-29 21:43:33] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/184_e3af1a.m3u8
-   速度: 579.10KB/s | 数据量: 0.6KB | 总耗时: 0.99s | 证书: 有效
-[2026-05-29 21:43:33] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/169_b4d7a4.m3u8
-   速度: 475.59KB/s | 数据量: 0.5KB | 总耗时: 1.00s | 证书: 有效
-[2026-05-29 21:43:33] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/143_70175b.m3u8
-   速度: 513.67KB/s | 数据量: 0.5KB | 总耗时: 0.87s | 证书: 有效
-[2026-05-29 21:43:33] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/204_16cb0f.m3u8
-   速度: 548.83KB/s | 数据量: 0.5KB | 总耗时: 1.07s | 证书: 有效
-[2026-05-29 21:43:33] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/18_3aa230.m3u8
-   速度: 526.37KB/s | 数据量: 0.5KB | 总耗时: 1.07s | 证书: 有效
-[2026-05-29 21:43:34] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/144_4efb38.m3u8
-   速度: 453.12KB/s | 数据量: 0.5KB | 总耗时: 1.10s | 证书: 有效
-[2026-05-29 21:43:34] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/149_40cf24.m3u8
+[2026-05-30 06:52:42] ✅ HTTPS测速成功: https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.77s | 证书: 有效
+[2026-05-30 06:52:42] ✅ HTTPS测速成功: https://hlsbkmgsplive.miguvideo.com/migu/kailu/dongnanws/51/20230724/01.m3u8?&HlsSubType=&encrypt=
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.77s | 证书: 有效
+[2026-05-30 06:52:42] ✅ HTTPS测速成功: https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.75s | 证书: 有效
+[2026-05-30 06:52:42] ✅ HTTPS测速成功: https://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/01.m3u8?&HlsSubType=&encrypt=
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.74s | 证书: 有效
+[2026-05-30 06:52:42] ✅ HTTPS测速成功: https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-1200/01.m3u8?&HlsSubType=&encrypt=
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.82s | 证书: 有效
+[2026-05-30 06:52:42] ✅ HTTPS测速成功: https://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/01.m3u8?&HlsSubType=&encrypt=
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.83s | 证书: 有效
+[2026-05-30 06:52:42] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
+   速度: 195.31KB/s | 数据量: 0.2KB | 总耗时: 0.21s | 阈值: 150KB/s
+[2026-05-30 06:52:42] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
+   速度: 186.52KB/s | 数据量: 0.2KB | 总耗时: 0.20s | 阈值: 150KB/s
+[2026-05-30 06:52:43] ✅ HTTPS测速成功: https://hlsbkmgsplive.miguvideo.com/migu/kailu/btws/51/20250804/01.m3u8?&HlsSubType=&encrypt=
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.70s | 证书: 有效
+[2026-05-30 06:52:43] ✅ HTTPS测速成功: https://hlsbkmgsplive.miguvideo.com/wd_r1/2018/nfmedia/nfys/1000/01.m3u8?&HlsSubType=&encrypt=
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.70s | 证书: 有效
+[2026-05-30 06:52:45] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/148_feda2f.m3u8
+   速度: 310.55KB/s | 数据量: 0.3KB | 总耗时: 1.17s | 证书: 有效
+[2026-05-30 06:52:45] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/134_d590ee.m3u8
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 1.34s | 证书: 有效
+[2026-05-30 06:52:45] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/161_8d2e76.m3u8
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 1.46s | 证书: 有效
+[2026-05-30 06:52:45] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/168_ce2a0c.m3u8
+   速度: 537.11KB/s | 数据量: 0.5KB | 总耗时: 1.39s | 证书: 有效
+[2026-05-30 06:52:45] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/146_f067fe.m3u8
+   速度: 375.98KB/s | 数据量: 0.4KB | 总耗时: 1.39s | 证书: 有效
+[2026-05-30 06:52:45] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/203_10cdf5.m3u8
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 1.40s | 证书: 有效
+[2026-05-30 06:52:45] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/174_6ab9f8.m3u8
+   速度: 378.91KB/s | 数据量: 0.4KB | 总耗时: 1.27s | 证书: 有效
+[2026-05-30 06:52:45] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/187_2abf84.m3u8
+   速度: 553.71KB/s | 数据量: 0.6KB | 总耗时: 1.50s | 证书: 有效
+[2026-05-30 06:52:45] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8
+   速度: 403.32KB/s | 数据量: 0.4KB | 总耗时: 1.22s | 证书: 有效
+[2026-05-30 06:52:46] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/170_49c556.m3u8
+   速度: 525.39KB/s | 数据量: 0.5KB | 总耗时: 1.41s | 证书: 有效
+[2026-05-30 06:52:46] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/7_7c833e.m3u8
+   速度: 425.78KB/s | 数据量: 0.4KB | 总耗时: 1.06s | 证书: 有效
+[2026-05-30 06:52:46] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/167_0d6151.m3u8
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 1.06s | 证书: 有效
+[2026-05-30 06:52:46] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/171_daca67.m3u8
    速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 1.09s | 证书: 有效
-[2026-05-29 21:43:34] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/180_60f888.m3u8
-   速度: 548.83KB/s | 数据量: 0.5KB | 总耗时: 1.12s | 证书: 有效
-[2026-05-29 21:43:39] ✅ 通过阈值 HTTP测速: http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-   速度: 281.25KB/s | 数据量: 0.3KB | 总耗时: 5.12s | 阈值: 150KB/s
-[2026-05-29 21:43:39] ✅ 通过阈值 HTTP测速: http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
-   速度: 289.06KB/s | 数据量: 0.3KB | 总耗时: 5.99s | 阈值: 150KB/s
-[2026-05-29 21:43:39] ✅ 通过阈值 HTTP测速: http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
-   速度: 290.04KB/s | 数据量: 0.3KB | 总耗时: 5.98s | 阈值: 150KB/s
-[2026-05-29 21:43:39] ✅ 通过阈值 HTTP测速: http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
-   速度: 289.06KB/s | 数据量: 0.3KB | 总耗时: 5.19s | 阈值: 150KB/s
-[2026-05-29 21:43:39] ✅ 通过阈值 HTTP测速: http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
-   速度: 289.06KB/s | 数据量: 0.3KB | 总耗时: 7.22s | 阈值: 150KB/s
-[2026-05-29 21:43:39] ✅ 通过阈值 HTTP测速: http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
-   速度: 289.06KB/s | 数据量: 0.3KB | 总耗时: 5.20s | 阈值: 150KB/s
-[2026-05-29 21:43:39] ✅ 通过阈值 HTTP测速: http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
-   速度: 290.04KB/s | 数据量: 0.3KB | 总耗时: 5.42s | 阈值: 150KB/s
-[2026-05-29 21:43:39] ✅ 通过阈值 HTTP测速: http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-   速度: 289.06KB/s | 数据量: 0.3KB | 总耗时: 7.29s | 阈值: 150KB/s
-[2026-05-29 21:43:39] ✅ 通过阈值 HTTP测速: http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
-   速度: 289.06KB/s | 数据量: 0.3KB | 总耗时: 5.81s | 阈值: 150KB/s
-[2026-05-29 21:43:40] ✅ 通过阈值 HTTP测速: http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
-   速度: 289.06KB/s | 数据量: 0.3KB | 总耗时: 6.24s | 阈值: 150KB/s
-[2026-05-29 21:43:40] ✅ 通过阈值 HTTP测速: http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
-   速度: 559.57KB/s | 数据量: 0.6KB | 总耗时: 1.51s | 阈值: 150KB/s
-[2026-05-29 21:43:40] ✅ 通过阈值 HTTP测速: http://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
-   速度: 559.57KB/s | 数据量: 0.6KB | 总耗时: 0.90s | 阈值: 150KB/s
-[2026-05-29 21:43:40] ✅ 通过阈值 HTTP测速: http://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
-   速度: 559.57KB/s | 数据量: 0.6KB | 总耗时: 0.55s | 阈值: 150KB/s
-[2026-05-29 21:43:41] ✅ 通过阈值 HTTP测速: http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
-   速度: 257.81KB/s | 数据量: 0.3KB | 总耗时: 0.30s | 阈值: 150KB/s
-[2026-05-29 21:43:41] ✅ 通过阈值 HTTP测速: http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
-   速度: 559.57KB/s | 数据量: 0.6KB | 总耗时: 0.41s | 阈值: 150KB/s
-[2026-05-29 21:43:41] ✅ 通过阈值 HTTP测速: http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
-   速度: 559.57KB/s | 数据量: 0.6KB | 总耗时: 0.41s | 阈值: 150KB/s
-[2026-05-29 21:43:42] 🚫 未达阈值 HTTP测速: http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
-   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 1.15s | 阈值: 150KB/s
-[2026-05-29 21:43:42] 🚫 未达阈值 HTTP测速: http://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
-   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 1.14s | 阈值: 150KB/s
-[2026-05-29 21:43:42] 🚫 未达阈值 HTTP测速: http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
-   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 1.15s | 阈值: 150KB/s
-[2026-05-29 21:43:43] ✅ HTTPS测速成功: https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
-   速度: 514.65KB/s | 数据量: 0.5KB | 总耗时: 0.73s | 证书: 有效
-[2026-05-29 21:43:43] ✅ HTTPS测速成功: https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
-   速度: 507.81KB/s | 数据量: 0.5KB | 总耗时: 0.71s | 证书: 有效
-[2026-05-29 21:43:43] ✅ HTTPS测速成功: https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
-   速度: 506.84KB/s | 数据量: 0.5KB | 总耗时: 0.72s | 证书: 有效
-[2026-05-29 21:43:44] ✅ 通过阈值 HTTP测速: http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
-   速度: 289.06KB/s | 数据量: 0.3KB | 总耗时: 4.92s | 阈值: 150KB/s
-[2026-05-29 21:43:44] ✅ 通过阈值 HTTP测速: http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
-   速度: 289.06KB/s | 数据量: 0.3KB | 总耗时: 4.93s | 阈值: 150KB/s
-[2026-05-29 21:43:44] ✅ 通过阈值 HTTP测速: http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
-   速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 4.96s | 阈值: 150KB/s
-[2026-05-29 21:43:44] ✅ HTTPS测速成功: https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
-   速度: 136.28KB/s | 数据量: 0.5KB | 总耗时: 0.72s | 证书: 有效
-[2026-05-29 21:43:44] ✅ 通过阈值 HTTP测速: http://jwcdnqx.hebyun.com.cn/live/qxtvlive1/1500k/tzwj_video.m3u8
-   速度: 523.44KB/s | 数据量: 0.5KB | 总耗时: 0.51s | 阈值: 150KB/s
-[2026-05-29 21:43:44] ✅ HTTPS测速成功: https://jwcdnqx.hebyun.com.cn/live/qxzhpd/1500k/tzwj_video.m3u8
-   速度: 511.72KB/s | 数据量: 0.5KB | 总耗时: 0.72s | 证书: 有效
-[2026-05-29 21:43:44] ✅ 通过阈值 HTTP测速: http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
-   速度: 289.06KB/s | 数据量: 0.3KB | 总耗时: 5.55s | 阈值: 150KB/s
-[2026-05-29 21:43:44] ✅ HTTPS测速成功: https://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
-   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.81s | 证书: 有效
-[2026-05-29 21:43:44] ✅ 通过阈值 HTTP测速: http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
-   速度: 287.11KB/s | 数据量: 0.3KB | 总耗时: 5.58s | 阈值: 150KB/s
-[2026-05-29 21:43:44] ✅ 通过阈值 HTTP测速: http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
-   速度: 289.06KB/s | 数据量: 0.3KB | 总耗时: 5.65s | 阈值: 150KB/s
-[2026-05-29 21:43:44] ✅ 通过阈值 HTTP测速: http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
-   速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 5.66s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10728-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.48s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8
+[2026-05-30 06:52:47] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/26_370917.m3u8
+   速度: 128.91KB/s | 数据量: 0.1KB | 总耗时: 1.32s | 证书: 有效
+[2026-05-30 06:52:47] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/34_5156ed.m3u8
+   速度: 514.65KB/s | 数据量: 0.5KB | 总耗时: 1.31s | 证书: 有效
+[2026-05-30 06:52:47] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/40_1d0ed0.m3u8
+   速度: 485.35KB/s | 数据量: 0.5KB | 总耗时: 1.33s | 证书: 有效
+[2026-05-30 06:52:47] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/163_2c7011.m3u8
+   速度: 443.36KB/s | 数据量: 0.4KB | 总耗时: 1.35s | 证书: 有效
+[2026-05-30 06:52:47] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/20_68acda.m3u8
+   速度: 538.09KB/s | 数据量: 0.5KB | 总耗时: 1.38s | 证书: 有效
+[2026-05-30 06:52:47] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/27_e9e1e5.m3u8
+   速度: 502.93KB/s | 数据量: 0.5KB | 总耗时: 1.37s | 证书: 有效
+[2026-05-30 06:52:48] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/131_acfb72.m3u8
+   速度: 548.83KB/s | 数据量: 0.5KB | 总耗时: 1.16s | 证书: 有效
+[2026-05-30 06:52:48] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/184_e3af1a.m3u8
+   速度: 579.10KB/s | 数据量: 0.6KB | 总耗时: 1.22s | 证书: 有效
+[2026-05-30 06:52:49] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/18_3aa230.m3u8
+   速度: 526.37KB/s | 数据量: 0.5KB | 总耗时: 1.12s | 证书: 有效
+[2026-05-30 06:52:49] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/180_60f888.m3u8
+   速度: 548.83KB/s | 数据量: 0.5KB | 总耗时: 1.43s | 证书: 有效
+[2026-05-30 06:52:49] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/169_b4d7a4.m3u8
+   速度: 525.39KB/s | 数据量: 0.5KB | 总耗时: 1.42s | 证书: 有效
+[2026-05-30 06:52:49] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/143_70175b.m3u8
+   速度: 484.38KB/s | 数据量: 0.5KB | 总耗时: 1.08s | 证书: 有效
+[2026-05-30 06:52:50] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/204_16cb0f.m3u8
+   速度: 505.86KB/s | 数据量: 0.5KB | 总耗时: 1.39s | 证书: 有效
+[2026-05-30 06:52:50] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/144_4efb38.m3u8
+   速度: 453.12KB/s | 数据量: 0.5KB | 总耗时: 1.40s | 证书: 有效
+[2026-05-30 06:52:50] ✅ HTTPS测速成功: https://liveplay-srs.voc.com.cn/hls/tv/149_40cf24.m3u8
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 1.41s | 证书: 有效
+[2026-05-30 06:52:50] ✅ 通过阈值 HTTP测速: http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+   速度: 289.06KB/s | 数据量: 0.3KB | 总耗时: 0.77s | 阈值: 150KB/s
+[2026-05-30 06:52:50] ✅ 通过阈值 HTTP测速: http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
+   速度: 289.06KB/s | 数据量: 0.3KB | 总耗时: 1.24s | 阈值: 150KB/s
+[2026-05-30 06:52:50] ✅ 通过阈值 HTTP测速: http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+   速度: 289.06KB/s | 数据量: 0.3KB | 总耗时: 0.78s | 阈值: 150KB/s
+[2026-05-30 06:52:50] ✅ 通过阈值 HTTP测速: http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
+   速度: 289.06KB/s | 数据量: 0.3KB | 总耗时: 1.88s | 阈值: 150KB/s
+[2026-05-30 06:52:50] ✅ 通过阈值 HTTP测速: http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+   速度: 289.06KB/s | 数据量: 0.3KB | 总耗时: 3.20s | 阈值: 150KB/s
+[2026-05-30 06:52:50] ✅ 通过阈值 HTTP测速: http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+   速度: 289.06KB/s | 数据量: 0.3KB | 总耗时: 1.13s | 阈值: 150KB/s
+[2026-05-30 06:52:50] ✅ 通过阈值 HTTP测速: http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+   速度: 288.09KB/s | 数据量: 0.3KB | 总耗时: 0.78s | 阈值: 150KB/s
+[2026-05-30 06:52:50] ✅ 通过阈值 HTTP测速: http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
+   速度: 290.04KB/s | 数据量: 0.3KB | 总耗时: 1.26s | 阈值: 150KB/s
+[2026-05-30 06:52:50] ✅ 通过阈值 HTTP测速: http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
+   速度: 290.04KB/s | 数据量: 0.3KB | 总耗时: 1.27s | 阈值: 150KB/s
+[2026-05-30 06:52:50] ✅ 通过阈值 HTTP测速: http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
+   速度: 289.06KB/s | 数据量: 0.3KB | 总耗时: 2.42s | 阈值: 150KB/s
+[2026-05-30 06:52:51] ✅ 通过阈值 HTTP测速: http://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
+   速度: 559.57KB/s | 数据量: 0.6KB | 总耗时: 0.85s | 阈值: 150KB/s
+[2026-05-30 06:52:52] ✅ 通过阈值 HTTP测速: http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+   速度: 287.11KB/s | 数据量: 0.3KB | 总耗时: 1.25s | 阈值: 150KB/s
+[2026-05-30 06:52:52] ✅ 通过阈值 HTTP测速: http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
+   速度: 289.06KB/s | 数据量: 0.3KB | 总耗时: 1.26s | 阈值: 150KB/s
+[2026-05-30 06:52:52] ✅ 通过阈值 HTTP测速: http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
+   速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 1.26s | 阈值: 150KB/s
+[2026-05-30 06:52:52] ✅ 通过阈值 HTTP测速: http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
+   速度: 289.06KB/s | 数据量: 0.3KB | 总耗时: 1.29s | 阈值: 150KB/s
+[2026-05-30 06:52:52] ✅ 通过阈值 HTTP测速: http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
+   速度: 288.09KB/s | 数据量: 0.3KB | 总耗时: 1.27s | 阈值: 150KB/s
+[2026-05-30 06:52:52] ✅ 通过阈值 HTTP测速: http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
+   速度: 286.13KB/s | 数据量: 0.3KB | 总耗时: 1.31s | 阈值: 150KB/s
+[2026-05-30 06:52:52] ✅ 通过阈值 HTTP测速: http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
+   速度: 289.06KB/s | 数据量: 0.3KB | 总耗时: 1.32s | 阈值: 150KB/s
+[2026-05-30 06:52:52] ✅ 通过阈值 HTTP测速: http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
+   速度: 559.57KB/s | 数据量: 0.6KB | 总耗时: 0.49s | 阈值: 150KB/s
+[2026-05-30 06:52:53] 🚫 未达阈值 HTTP测速: http://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
+   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 1.33s | 阈值: 150KB/s
+[2026-05-30 06:52:53] 🚫 未达阈值 HTTP测速: http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
+   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 1.39s | 阈值: 150KB/s
+[2026-05-30 06:52:53] 🚫 未达阈值 HTTP测速: http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
+   速度: 138.62KB/s | 数据量: 0.1KB | 总耗时: 1.41s | 阈值: 150KB/s
+[2026-05-30 06:52:53] ✅ 通过阈值 HTTP测速: http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
+   速度: 559.57KB/s | 数据量: 0.6KB | 总耗时: 1.52s | 阈值: 150KB/s
+[2026-05-30 06:52:54] ✅ 通过阈值 HTTP测速: http://jwcdnqx.hebyun.com.cn/live/qxtvlive1/1500k/tzwj_video.m3u8
+   速度: 521.48KB/s | 数据量: 0.5KB | 总耗时: 0.54s | 阈值: 150KB/s
+[2026-05-30 06:52:54] ✅ 通过阈值 HTTP测速: http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
+   速度: 559.57KB/s | 数据量: 0.6KB | 总耗时: 3.35s | 阈值: 150KB/s
+[2026-05-30 06:52:54] ✅ HTTPS测速成功: https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
+   速度: 504.88KB/s | 数据量: 0.5KB | 总耗时: 0.87s | 证书: 有效
+[2026-05-30 06:52:54] ✅ HTTPS测速成功: https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
+   速度: 507.81KB/s | 数据量: 0.5KB | 总耗时: 0.88s | 证书: 有效
+[2026-05-30 06:52:54] ✅ HTTPS测速成功: https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
+   速度: 511.72KB/s | 数据量: 0.5KB | 总耗时: 0.88s | 证书: 有效
+[2026-05-30 06:52:54] ✅ HTTPS测速成功: https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
+   速度: 507.81KB/s | 数据量: 0.5KB | 总耗时: 0.89s | 证书: 有效
+[2026-05-30 06:52:54] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10329-1.m3u8
    速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.47s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.41s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.36s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10329-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.52s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.58s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.56s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.36s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ HTTPS测速成功: https://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/51/20230724/01.m3u8?&HlsSubType=&encrypt=
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.68s | 证书: 有效
-[2026-05-29 21:43:45] ✅ HTTPS测速成功: https://jwcdnqx.hebyun.com.cn/live/qxny/1500k/tzwj_video.m3u8
-   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.75s | 证书: 有效
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.12s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.13s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.12s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.13s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10526-2.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.10s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10523-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.14s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.14s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10622-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.14s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11527-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.14s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11426-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.10s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.09s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11330-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.10s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11723-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.09s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.09s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10222-1.m3u8
-   速度: 1967.77KB/s | 数据量: 2.0KB | 总耗时: 0.11s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11624-1.m3u8
-   速度: 1968.75KB/s | 数据量: 2.0KB | 总耗时: 0.11s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10922-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.13s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10381-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.11s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10106-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.11s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.33s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.33s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11521-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.34s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11722-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.33s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10581-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.33s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11003-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.33s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.33s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.35s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10727-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.34s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.35s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.21s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.22s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11324-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.21s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11121-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.21s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10823-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.21s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10621-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.22s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11381-1.m3u8
-   速度: 1967.77KB/s | 数据量: 2.0KB | 总耗时: 0.23s | 阈值: 150KB/s
-[2026-05-29 21:43:45] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.22s | 阈值: 150KB/s
-[2026-05-29 21:43:46] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11327-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.30s | 阈值: 150KB/s
-[2026-05-29 21:43:46] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10883-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.29s | 阈值: 150KB/s
-[2026-05-29 21:43:46] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.29s | 阈值: 150KB/s
-[2026-05-29 21:43:46] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.29s | 阈值: 150KB/s
-[2026-05-29 21:43:46] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10183-2.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.30s | 阈值: 150KB/s
-[2026-05-29 21:43:46] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.32s | 阈值: 150KB/s
-[2026-05-29 21:43:46] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10184-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.33s | 阈值: 150KB/s
-[2026-05-29 21:43:46] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10782-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.33s | 阈值: 150KB/s
-[2026-05-29 21:43:46] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10221-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.36s | 阈值: 150KB/s
-[2026-05-29 21:43:46] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.36s | 阈值: 150KB/s
-[2026-05-29 21:43:46] ✅ 通过阈值 HTTP测速: http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=9448374f0ee38ad867027f4191c7d42d&wsTime=1780070390
-   速度: 349.61KB/s | 数据量: 0.3KB | 总耗时: 0.58s | 阈值: 150KB/s
-[2026-05-29 21:43:46] RTMP检测异常: rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=cd68b7f363546c95000cdfe78353167b&wsTime=1780070390 | [Errno 2] No such file or directory: 'ffmpeg'
-[2026-05-29 21:43:47] ✅ 通过阈值 HTTP测速: http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-   速度: 225.59KB/s | 数据量: 0.2KB | 总耗时: 1.03s | 阈值: 150KB/s
-[2026-05-29 21:43:47] ✅ 通过阈值 HTTP测速: http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=d41a79ef7964c042a19fc435a7d0eb06&wsTime=1780070390
-   速度: 349.61KB/s | 数据量: 0.3KB | 总耗时: 1.13s | 阈值: 150KB/s
-[2026-05-29 21:43:47] ✅ 通过阈值 HTTP测速: http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=47b3fcfc64b84c45099c547c7799e876&wsTime=1780070390
-   速度: 349.61KB/s | 数据量: 0.3KB | 总耗时: 1.16s | 阈值: 150KB/s
-[2026-05-29 21:43:47] ✅ 通过阈值 HTTP测速: http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=0704579a3048955998d705a588ec72a1&wsTime=1780070390
-   速度: 348.63KB/s | 数据量: 0.3KB | 总耗时: 1.09s | 阈值: 150KB/s
-[2026-05-29 21:43:47] ✅ 通过阈值 HTTP测速: http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=64aad9bca7356fc4e505b849045ccef3&wsTime=1780070390
-   速度: 349.61KB/s | 数据量: 0.3KB | 总耗时: 1.14s | 阈值: 150KB/s
-[2026-05-29 21:43:47] ✅ 通过阈值 HTTP测速: http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=7bd21543d926140d5c42870ad3003879&wsTime=1780070390
-   速度: 349.61KB/s | 数据量: 0.3KB | 总耗时: 1.18s | 阈值: 150KB/s
-[2026-05-29 21:43:47] ✅ 通过阈值 HTTP测速: http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=1ad6baae60c943e404b891cc3e9ed903&wsTime=1780070390
-   速度: 348.63KB/s | 数据量: 0.3KB | 总耗时: 1.16s | 阈值: 150KB/s
-[2026-05-29 21:43:47] ✅ 通过阈值 HTTP测速: http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=425f13986c938d6db40f7230c75d7b36&wsTime=1780070390
-   速度: 348.63KB/s | 数据量: 0.3KB | 总耗时: 1.21s | 阈值: 150KB/s
-[2026-05-29 21:43:47] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
-   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.10s | 阈值: 150KB/s
-[2026-05-29 21:43:47] ✅ 通过阈值 HTTP测速: http://222.223.41.27:8888/hls/1/index.m3u8
-   速度: 240.23KB/s | 数据量: 0.2KB | 总耗时: 0.50s | 阈值: 150KB/s
-[2026-05-29 21:43:47] ✅ 通过阈值 HTTP测速: http://192.151.150.154/live/cctv3hd.m3u8
-   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.15s | 阈值: 150KB/s
-[2026-05-29 21:43:47] ✅ 通过阈值 HTTP测速: http://198.204.228.26/live/cctv2hd.m3u8
-   速度: 195.31KB/s | 数据量: 0.2KB | 总耗时: 0.25s | 阈值: 150KB/s
-[2026-05-29 21:43:47] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
-   速度: 208.01KB/s | 数据量: 0.2KB | 总耗时: 0.10s | 阈值: 150KB/s
-[2026-05-29 21:43:47] ✅ 通过阈值 HTTP测速: http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4k
-   速度: 202.15KB/s | 数据量: 0.2KB | 总耗时: 0.23s | 阈值: 150KB/s
-[2026-05-29 21:43:47] ✅ 通过阈值 HTTP测速: http://221.226.51.220:50081/newlive/live/hls/2/live.m3u8
-   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.41s | 阈值: 150KB/s
-[2026-05-29 21:43:47] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/1/index.m3u8
-   速度: 235.35KB/s | 数据量: 0.2KB | 总耗时: 0.43s | 阈值: 150KB/s
-[2026-05-29 21:43:47] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
-   速度: 201.17KB/s | 数据量: 0.2KB | 总耗时: 0.09s | 阈值: 150KB/s
-[2026-05-29 21:43:47] ✅ 通过阈值 HTTP测速: http://222.223.41.27:8888/hls/3/index.m3u8
-   速度: 240.23KB/s | 数据量: 0.2KB | 总耗时: 0.44s | 阈值: 150KB/s
-[2026-05-29 21:43:47] ✅ 通过阈值 HTTP测速: http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=0db9bdd15489e74bc685062b9ccd8eb5&wsTime=1780070390
-   速度: 349.61KB/s | 数据量: 0.3KB | 总耗时: 1.90s | 阈值: 150KB/s
-[2026-05-29 21:43:47] ✅ 通过阈值 HTTP测速: http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=75df0be3e0c7c4c7f7b9a45c54ad6008&wsTime=1780070390
-   速度: 349.61KB/s | 数据量: 0.3KB | 总耗时: 1.06s | 阈值: 150KB/s
-[2026-05-29 21:43:47] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
-   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.09s | 阈值: 150KB/s
-[2026-05-29 21:43:48] ✅ 通过阈值 HTTP测速: http://222.223.41.27:8888/hls/5/index.m3u8
-   速度: 240.23KB/s | 数据量: 0.2KB | 总耗时: 0.46s | 阈值: 150KB/s
-[2026-05-29 21:43:48] ✅ 通过阈值 HTTP测速: http://222.223.41.27:8888/hls/6/index.m3u8
-   速度: 240.23KB/s | 数据量: 0.2KB | 总耗时: 0.46s | 阈值: 150KB/s
-[2026-05-29 21:43:48] ✅ 通过阈值 HTTP测速: http://222.223.41.27:8888/hls/7/index.m3u8
-   速度: 240.23KB/s | 数据量: 0.2KB | 总耗时: 0.47s | 阈值: 150KB/s
-[2026-05-29 21:43:48] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/cctv12.m3u8
-   速度: 392.58KB/s | 数据量: 0.4KB | 总耗时: 0.40s | 阈值: 150KB/s
-[2026-05-29 21:43:48] ✅ 通过阈值 HTTP测速: http://222.223.41.27:8888/hls/11/index.m3u8
-   速度: 240.23KB/s | 数据量: 0.2KB | 总耗时: 0.45s | 阈值: 150KB/s
-[2026-05-29 21:43:48] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/cctv7.m3u8
+[2026-05-30 06:52:54] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8
+   速度: 1968.75KB/s | 数据量: 2.0KB | 总耗时: 0.45s | 阈值: 150KB/s
+[2026-05-30 06:52:54] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
+   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.55s | 阈值: 150KB/s
+[2026-05-30 06:52:54] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
+   速度: 1968.75KB/s | 数据量: 2.0KB | 总耗时: 0.47s | 阈值: 150KB/s
+[2026-05-30 06:52:54] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10728-1.m3u8
+   速度: 1968.75KB/s | 数据量: 2.0KB | 总耗时: 0.46s | 阈值: 150KB/s
+[2026-05-30 06:52:54] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10622-1.m3u8
+   速度: 1968.75KB/s | 数据量: 2.0KB | 总耗时: 0.02s | 阈值: 150KB/s
+[2026-05-30 06:52:54] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8
+   速度: 1971.68KB/s | 数据量: 2.0KB | 总耗时: 0.02s | 阈值: 150KB/s
+[2026-05-30 06:52:54] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10523-1.m3u8
+   速度: 1971.68KB/s | 数据量: 2.0KB | 总耗时: 0.02s | 阈值: 150KB/s
+[2026-05-30 06:52:54] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
+   速度: 1971.68KB/s | 数据量: 2.0KB | 总耗时: 0.03s | 阈值: 150KB/s
+[2026-05-30 06:52:54] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8
+   速度: 1970.70KB/s | 数据量: 2.0KB | 总耗时: 0.03s | 阈值: 150KB/s
+[2026-05-30 06:52:54] ✅ 通过阈值 HTTP测速: http://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
+   速度: 559.57KB/s | 数据量: 0.6KB | 总耗时: 3.94s | 阈值: 150KB/s
+[2026-05-30 06:52:54] ✅ HTTPS测速成功: https://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
+   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.83s | 证书: 有效
+[2026-05-30 06:52:54] ✅ HTTPS测速成功: https://jwcdnqx.hebyun.com.cn/live/qxzhpd/1500k/tzwj_video.m3u8
+   速度: 510.74KB/s | 数据量: 0.5KB | 总耗时: 0.87s | 证书: 有效
+[2026-05-30 06:52:54] ✅ HTTPS测速成功: https://jwcdnqx.hebyun.com.cn/live/qxny/1500k/tzwj_video.m3u8
+   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.89s | 证书: 有效
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8
+   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.25s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8
+   速度: 1970.70KB/s | 数据量: 2.0KB | 总耗时: 0.23s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10922-1.m3u8
+   速度: 1968.75KB/s | 数据量: 2.0KB | 总耗时: 0.12s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11527-1.m3u8
+   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.25s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10222-1.m3u8
+   速度: 1971.68KB/s | 数据量: 2.0KB | 总耗时: 0.11s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10526-2.m3u8
+   速度: 1971.68KB/s | 数据量: 2.0KB | 总耗时: 0.23s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8
+   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.25s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
+   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.25s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8
+   速度: 1971.68KB/s | 数据量: 2.0KB | 总耗时: 0.25s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10381-1.m3u8
+   速度: 1968.75KB/s | 数据量: 2.0KB | 总耗时: 0.02s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11426-1.m3u8
+   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.03s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
+   速度: 1971.68KB/s | 数据量: 2.0KB | 总耗时: 0.02s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10106-1.m3u8
+   速度: 1971.68KB/s | 数据量: 2.0KB | 总耗时: 0.02s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11330-1.m3u8
+   速度: 1970.70KB/s | 数据量: 2.0KB | 总耗时: 0.03s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11723-1.m3u8
+   速度: 1968.75KB/s | 数据量: 2.0KB | 总耗时: 0.03s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11624-1.m3u8
+   速度: 1971.68KB/s | 数据量: 2.0KB | 总耗时: 0.03s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8
+   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.02s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8
+   速度: 1971.68KB/s | 数据量: 2.0KB | 总耗时: 0.02s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ HTTPS测速成功: https://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/51/20230724/01.m3u8?&HlsSubType=&encrypt=
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.70s | 证书: 有效
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11521-1.m3u8
+   速度: 1968.75KB/s | 数据量: 2.0KB | 总耗时: 0.48s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11003-1.m3u8
+   速度: 1971.68KB/s | 数据量: 2.0KB | 总耗时: 0.48s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8
+   速度: 1968.75KB/s | 数据量: 2.0KB | 总耗时: 0.48s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8
+   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.48s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10581-1.m3u8
+   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.48s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8
+   速度: 1968.75KB/s | 数据量: 2.0KB | 总耗时: 0.48s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11722-1.m3u8
+   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.48s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10727-1.m3u8
+   速度: 1971.68KB/s | 数据量: 2.0KB | 总耗时: 0.48s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
+   速度: 1968.75KB/s | 数据量: 2.0KB | 总耗时: 0.20s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8
+   速度: 1970.70KB/s | 数据量: 2.0KB | 总耗时: 0.49s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8
+   速度: 1968.75KB/s | 数据量: 2.0KB | 总耗时: 0.04s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11327-1.m3u8
+   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.04s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10184-1.m3u8
+   速度: 1971.68KB/s | 数据量: 2.0KB | 总耗时: 0.04s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10621-1.m3u8
+   速度: 1970.70KB/s | 数据量: 2.0KB | 总耗时: 0.04s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10823-1.m3u8
+   速度: 1968.75KB/s | 数据量: 2.0KB | 总耗时: 0.04s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10883-1.m3u8
+   速度: 1971.68KB/s | 数据量: 2.0KB | 总耗时: 0.04s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11381-1.m3u8
+   速度: 1970.70KB/s | 数据量: 2.0KB | 总耗时: 0.05s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11324-1.m3u8
+   速度: 1970.70KB/s | 数据量: 2.0KB | 总耗时: 0.05s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8
+   速度: 1971.68KB/s | 数据量: 2.0KB | 总耗时: 0.04s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11121-1.m3u8
+   速度: 1971.68KB/s | 数据量: 2.0KB | 总耗时: 0.04s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10782-1.m3u8
+   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.03s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8
+   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.03s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8
+   速度: 1971.68KB/s | 数据量: 2.0KB | 总耗时: 0.02s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10183-2.m3u8
+   速度: 1971.68KB/s | 数据量: 2.0KB | 总耗时: 0.02s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
+   速度: 1968.75KB/s | 数据量: 2.0KB | 总耗时: 0.02s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/10221-1.m3u8
+   速度: 1968.75KB/s | 数据量: 2.0KB | 总耗时: 0.02s | 阈值: 150KB/s
+[2026-05-30 06:52:55] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
+   速度: 1968.75KB/s | 数据量: 2.0KB | 总耗时: 0.03s | 阈值: 150KB/s
+[2026-05-30 06:52:56] ✅ 通过阈值 HTTP测速: http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=5f25b6feb54ac5540d80de2a9ac1e95b&wsTime=1780106366
+   速度: 348.63KB/s | 数据量: 0.3KB | 总耗时: 1.02s | 阈值: 150KB/s
+[2026-05-30 06:52:56] RTMP检测异常: rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=46cf6a0e6d737f3bf8b424c540b3ff88&wsTime=1780106366 | [Errno 2] No such file or directory: 'ffmpeg'
+[2026-05-30 06:52:56] ✅ 通过阈值 HTTP测速: http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=4e60057ced0f88620fd04fc6f5ba284f&wsTime=1780106366
+   速度: 348.63KB/s | 数据量: 0.3KB | 总耗时: 1.02s | 阈值: 150KB/s
+[2026-05-30 06:52:56] ✅ 通过阈值 HTTP测速: http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=e9adc86e16a40012ae3924850eedbba2&wsTime=1780106366
+   速度: 348.63KB/s | 数据量: 0.3KB | 总耗时: 1.05s | 阈值: 150KB/s
+[2026-05-30 06:52:56] ✅ 通过阈值 HTTP测速: http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=2c5d5cad29c8a297ba796f3a8f621b55&wsTime=1780106366
+   速度: 348.63KB/s | 数据量: 0.3KB | 总耗时: 1.03s | 阈值: 150KB/s
+[2026-05-30 06:52:56] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
+   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.20s | 阈值: 150KB/s
+[2026-05-30 06:52:57] ✅ 通过阈值 HTTP测速: http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=70af9a7ff5d3b08e7a6e97e11d84e201&wsTime=1780106366
+   速度: 348.63KB/s | 数据量: 0.3KB | 总耗时: 1.55s | 阈值: 150KB/s
+[2026-05-30 06:52:57] ✅ 通过阈值 HTTP测速: http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=df355b59ebdcf4a9a957e4b463687445&wsTime=1780106366
+   速度: 348.63KB/s | 数据量: 0.3KB | 总耗时: 1.53s | 阈值: 150KB/s
+[2026-05-30 06:52:57] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/1/index.m3u8
+   速度: 235.35KB/s | 数据量: 0.2KB | 总耗时: 0.52s | 阈值: 150KB/s
+[2026-05-30 06:52:57] ✅ 通过阈值 HTTP测速: http://222.223.41.27:8888/hls/1/index.m3u8
+   速度: 240.23KB/s | 数据量: 0.2KB | 总耗时: 0.56s | 阈值: 150KB/s
+[2026-05-30 06:52:57] ✅ 通过阈值 HTTP测速: http://198.204.228.26/live/cctv2hd.m3u8
+   速度: 193.36KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:52:57] ✅ 通过阈值 HTTP测速: http://192.151.150.154/live/cctv3hd.m3u8
+   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:52:57] ✅ 通过阈值 HTTP测速: http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+   速度: 225.59KB/s | 数据量: 0.2KB | 总耗时: 1.80s | 阈值: 150KB/s
+[2026-05-30 06:52:57] ✅ 通过阈值 HTTP测速: http://222.223.41.27:8888/hls/2/index.m3u8
+   速度: 240.23KB/s | 数据量: 0.2KB | 总耗时: 0.56s | 阈值: 150KB/s
+[2026-05-30 06:52:57] ✅ 通过阈值 HTTP测速: http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4k
+   速度: 202.15KB/s | 数据量: 0.2KB | 总耗时: 0.24s | 阈值: 150KB/s
+[2026-05-30 06:52:57] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
+   速度: 208.01KB/s | 数据量: 0.2KB | 总耗时: 0.21s | 阈值: 150KB/s
+[2026-05-30 06:52:57] ✅ 通过阈值 HTTP测速: http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=8b7f038f72fcec168f295d7e19197108&wsTime=1780106366
+   速度: 348.63KB/s | 数据量: 0.3KB | 总耗时: 2.03s | 阈值: 150KB/s
+[2026-05-30 06:52:57] ✅ 通过阈值 HTTP测速: http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=35a3418faff7ec4717fa6275be4765ce&wsTime=1780106366
+   速度: 347.66KB/s | 数据量: 0.3KB | 总耗时: 2.03s | 阈值: 150KB/s
+[2026-05-30 06:52:57] ✅ 通过阈值 HTTP测速: http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=46f513ccabb23c010088531c60f7d6f3&wsTime=1780106366
+   速度: 348.63KB/s | 数据量: 0.3KB | 总耗时: 1.01s | 阈值: 150KB/s
+[2026-05-30 06:52:57] ✅ 通过阈值 HTTP测速: http://221.226.51.220:50081/newlive/live/hls/2/live.m3u8
+   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.51s | 阈值: 150KB/s
+[2026-05-30 06:52:57] ✅ 通过阈值 HTTP测速: http://222.223.41.27:8888/hls/3/index.m3u8
+   速度: 240.23KB/s | 数据量: 0.2KB | 总耗时: 0.56s | 阈值: 150KB/s
+[2026-05-30 06:52:57] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+   速度: 201.17KB/s | 数据量: 0.2KB | 总耗时: 0.21s | 阈值: 150KB/s
+[2026-05-30 06:52:57] ✅ 通过阈值 HTTP测速: http://222.223.41.27:8888/hls/4/index.m3u8
+   速度: 240.23KB/s | 数据量: 0.2KB | 总耗时: 0.53s | 阈值: 150KB/s
+[2026-05-30 06:52:57] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
+   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.21s | 阈值: 150KB/s
+[2026-05-30 06:52:57] ✅ 通过阈值 HTTP测速: http://222.223.41.27:8888/hls/5/index.m3u8
+   速度: 240.23KB/s | 数据量: 0.2KB | 总耗时: 0.52s | 阈值: 150KB/s
+[2026-05-30 06:52:58] ✅ 通过阈值 HTTP测速: http://222.223.41.27:8888/hls/6/index.m3u8
+   速度: 240.23KB/s | 数据量: 0.2KB | 总耗时: 0.57s | 阈值: 150KB/s
+[2026-05-30 06:52:58] ✅ 通过阈值 HTTP测速: http://222.223.41.27:8888/hls/10/index.m3u8
+   速度: 240.23KB/s | 数据量: 0.2KB | 总耗时: 0.53s | 阈值: 150KB/s
+[2026-05-30 06:52:58] ✅ 通过阈值 HTTP测速: http://222.223.41.27:8888/hls/7/index.m3u8
+   速度: 240.23KB/s | 数据量: 0.2KB | 总耗时: 0.57s | 阈值: 150KB/s
+[2026-05-30 06:52:58] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/cctv7.m3u8
    速度: 386.72KB/s | 数据量: 0.4KB | 总耗时: 0.60s | 阈值: 150KB/s
-[2026-05-29 21:43:48] ✅ 通过阈值 HTTP测速: http://222.223.41.27:8888/hls/12/index.m3u8
-   速度: 240.23KB/s | 数据量: 0.2KB | 总耗时: 0.48s | 阈值: 150KB/s
-[2026-05-29 21:43:48] ✅ 通过阈值 HTTP测速: http://222.223.41.27:8888/hls/13/index.m3u8
-   速度: 240.23KB/s | 数据量: 0.2KB | 总耗时: 0.43s | 阈值: 150KB/s
-[2026-05-29 21:43:48] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
-   速度: 208.01KB/s | 数据量: 0.2KB | 总耗时: 0.10s | 阈值: 150KB/s
-[2026-05-29 21:43:48] ✅ 通过阈值 HTTP测速: http://222.223.41.27:8888/hls/2/index.m3u8
-   速度: 240.23KB/s | 数据量: 0.2KB | 总耗时: 1.20s | 阈值: 150KB/s
-[2026-05-29 21:43:48] ✅ 通过阈值 HTTP测速: http://221.226.51.220:50081/newlive/live/hls/1/live.m3u8
-   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.43s | 阈值: 150KB/s
-[2026-05-29 21:43:48] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/cctv17.m3u8
-   速度: 389.65KB/s | 数据量: 0.4KB | 总耗时: 0.40s | 阈值: 150KB/s
-[2026-05-29 21:43:48] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/cctv5p.m3u8
-   速度: 389.65KB/s | 数据量: 0.4KB | 总耗时: 0.42s | 阈值: 150KB/s
-[2026-05-29 21:43:49] ✅ 通过阈值 HTTP测速: http://120.202.94.181:9446/tsfile/live/0006_1.m3u8?key=txiptv
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 0.38s | 阈值: 150KB/s
-[2026-05-29 21:43:49] ✅ 通过阈值 HTTP测速: http://222.223.41.27:8888/hls/10/index.m3u8
-   速度: 240.23KB/s | 数据量: 0.2KB | 总耗时: 1.48s | 阈值: 150KB/s
-[2026-05-29 21:43:49] ✅ 通过阈值 HTTP测速: http://221.226.51.220:50081/newlive/live/hls/6/live.m3u8
-   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.45s | 阈值: 150KB/s
-[2026-05-29 21:43:49] ✅ 通过阈值 HTTP测速: http://222.223.41.27:8888/hls/14/index.m3u8
-   速度: 240.23KB/s | 数据量: 0.2KB | 总耗时: 1.14s | 阈值: 150KB/s
-[2026-05-29 21:43:49] ✅ 通过阈值 HTTP测速: http://222.223.41.27:8888/hls/4/index.m3u8
-   速度: 240.23KB/s | 数据量: 0.2KB | 总耗时: 1.94s | 阈值: 150KB/s
-[2026-05-29 21:43:49] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
-   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.10s | 阈值: 150KB/s
-[2026-05-29 21:43:49] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.90s | 阈值: 150KB/s
-[2026-05-29 21:43:49] ✅ 通过阈值 HTTP测速: http://107.150.60.122/live/cctv6hd.m3u8
-   速度: 199.22KB/s | 数据量: 0.2KB | 总耗时: 0.15s | 阈值: 150KB/s
-[2026-05-29 21:43:49] ✅ 通过阈值 HTTP测速: http://222.223.41.27:8888/hls/15/index.m3u8
-   速度: 240.23KB/s | 数据量: 0.2KB | 总耗时: 1.50s | 阈值: 150KB/s
-[2026-05-29 21:43:49] ✅ 通过阈值 HTTP测速: http://59.39.89.130:60901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.51s | 阈值: 150KB/s
-[2026-05-29 21:43:50] ✅ 通过阈值 HTTP测速: http://118.193.115.2:9901/tsfile/live/0006_1.m3u8?key=txiptv
-   速度: 408.20KB/s | 数据量: 0.4KB | 总耗时: 0.48s | 阈值: 150KB/s
-[2026-05-29 21:43:50] ✅ HTTPS测速成功: https://event.pull.hebtv.com/jishi/cp1.m3u8
-   速度: 319.34KB/s | 数据量: 0.3KB | 总耗时: 0.74s | 证书: 有效
-[2026-05-29 21:43:50] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/608807420
-   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.53s | 阈值: 150KB/s
-[2026-05-29 21:43:50] ✅ 通过阈值 HTTP测速: http://120.202.94.181:9446/tsfile/live/0001_1.m3u8?key=txiptv
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 0.42s | 阈值: 150KB/s
-[2026-05-29 21:43:51] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.90s | 阈值: 150KB/s
-[2026-05-29 21:43:51] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
-   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.10s | 阈值: 150KB/s
-[2026-05-29 21:43:51] ✅ 通过阈值 HTTP测速: http://74.91.26.218:82/live/cctv1hd.m3u8
-   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.15s | 阈值: 150KB/s
-[2026-05-29 21:43:51] ✅ HTTPS测速成功: https://event.pull.hebtv.com/jishi/cp2.m3u8
-   速度: 319.34KB/s | 数据量: 0.3KB | 总耗时: 1.47s | 证书: 有效
-[2026-05-29 21:43:51] ✅ 通过阈值 HTTP测速: http://118.193.115.2:9901/tsfile/live/0001_1.m3u8?key=txiptv
-   速度: 408.20KB/s | 数据量: 0.4KB | 总耗时: 0.43s | 阈值: 150KB/s
-[2026-05-29 21:43:52] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/624878271
-   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.46s | 阈值: 150KB/s
-[2026-05-29 21:43:52] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.73s | 阈值: 150KB/s
-[2026-05-29 21:43:52] ✅ 通过阈值 HTTP测速: http://120.202.94.181:9446/tsfile/live/0003_1.m3u8?key=txiptv
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 0.36s | 阈值: 150KB/s
-[2026-05-29 21:43:54] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/608807420
-   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 4.30s | 阈值: 150KB/s
-[2026-05-29 21:43:54] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/608807420
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 4.85s | 阈值: 150KB/s
-[2026-05-29 21:43:54] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/624878396
-   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 5.87s | 阈值: 150KB/s
-[2026-05-29 21:43:54] ✅ 通过阈值 HTTP测速: http://223.247.25.205:1234/608807420
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 4.67s | 阈值: 150KB/s
-[2026-05-29 21:43:54] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/624878396
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 5.32s | 阈值: 150KB/s
-[2026-05-29 21:43:54] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/624878271
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 2.04s | 阈值: 150KB/s
-[2026-05-29 21:43:54] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/624878271
-   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 2.21s | 阈值: 150KB/s
-[2026-05-29 21:43:54] ✅ 通过阈值 HTTP测速: http://111.228.4.117:6789/migu720p.php?id=624878396
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 5.64s | 阈值: 150KB/s
-[2026-05-29 21:43:54] ✅ 通过阈值 HTTP测速: http://27.12.12.31:1234/624878396
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 5.59s | 阈值: 150KB/s
-[2026-05-29 21:43:55] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/3/index.m3u8
-   速度: 235.35KB/s | 数据量: 0.2KB | 总耗时: 0.42s | 阈值: 150KB/s
-[2026-05-29 21:43:55] ✅ 通过阈值 HTTP测速: http://101.66.199.183:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 2863.28KB/s | 数据量: 2.9KB | 总耗时: 0.48s | 阈值: 150KB/s
-[2026-05-29 21:43:55] ✅ 通过阈值 HTTP测速: http://59.39.89.130:60901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.58s | 阈值: 150KB/s
-[2026-05-29 21:43:55] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub
-   速度: 200.20KB/s | 数据量: 0.2KB | 总耗时: 0.10s | 阈值: 150KB/s
-[2026-05-29 21:43:55] ✅ 通过阈值 HTTP测速: http://223.247.25.205:1234/624878396
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 6.06s | 阈值: 150KB/s
-[2026-05-29 21:43:55] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.76s | 阈值: 150KB/s
-[2026-05-29 21:43:55] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/96/index.m3u8
-   速度: 235.35KB/s | 数据量: 0.2KB | 总耗时: 0.43s | 阈值: 150KB/s
-[2026-05-29 21:43:55] ✅ 通过阈值 HTTP测速: http://120.202.94.181:9446/tsfile/live/0011_1.m3u8?key=txiptv
-   速度: 647.46KB/s | 数据量: 0.6KB | 总耗时: 0.39s | 阈值: 150KB/s
-[2026-05-29 21:43:55] ✅ 通过阈值 HTTP测速: http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
-   速度: 272.46KB/s | 数据量: 0.3KB | 总耗时: 1.11s | 阈值: 150KB/s
-[2026-05-29 21:43:56] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/667987558
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.14s | 阈值: 150KB/s
-[2026-05-29 21:43:56] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/667987558
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.22s | 阈值: 150KB/s
-[2026-05-29 21:43:56] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.71s | 阈值: 150KB/s
-[2026-05-29 21:43:56] ✅ 通过阈值 HTTP测速: http://74.91.26.218:82/live/cctv12hd.m3u8
-   速度: 208.01KB/s | 数据量: 0.2KB | 总耗时: 0.15s | 阈值: 150KB/s
-[2026-05-29 21:43:56] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/11/index.m3u8
-   速度: 235.35KB/s | 数据量: 0.2KB | 总耗时: 0.41s | 阈值: 150KB/s
-[2026-05-29 21:43:56] ✅ 通过阈值 HTTP测速: http://107.150.60.122/live/cctv12hd.m3u8
-   速度: 202.15KB/s | 数据量: 0.2KB | 总耗时: 0.15s | 阈值: 150KB/s
-[2026-05-29 21:43:56] ✅ 通过阈值 HTTP测速: http://192.151.150.154/live/cctv12hd.m3u8
-   速度: 192.38KB/s | 数据量: 0.2KB | 总耗时: 0.15s | 阈值: 150KB/s
-[2026-05-29 21:43:56] ✅ 通过阈值 HTTP测速: http://118.193.115.2:9901/tsfile/live/0011_1.m3u8?key=txiptv
-   速度: 413.09KB/s | 数据量: 0.4KB | 总耗时: 1.54s | 阈值: 150KB/s
-[2026-05-29 21:43:56] ✅ 通过阈值 HTTP测速: http://120.202.94.181:9446/tsfile/live/0012_1.m3u8?key=txiptv
-   速度: 647.46KB/s | 数据量: 0.6KB | 总耗时: 0.36s | 阈值: 150KB/s
-[2026-05-29 21:43:57] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/673168185
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.08s | 阈值: 150KB/s
-[2026-05-29 21:43:57] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/673168185
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.23s | 阈值: 150KB/s
-[2026-05-29 21:43:57] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/608807423
-   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.46s | 阈值: 150KB/s
-[2026-05-29 21:43:57] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.79s | 阈值: 150KB/s
-[2026-05-29 21:43:57] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/12/index.m3u8
-   速度: 235.35KB/s | 数据量: 0.2KB | 总耗时: 0.43s | 阈值: 150KB/s
-[2026-05-29 21:43:57] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/667987558
-   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 2.66s | 阈值: 150KB/s
-[2026-05-29 21:43:57] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/667987558
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 2.79s | 阈值: 150KB/s
-[2026-05-29 21:43:57] ✅ 通过阈值 HTTP测速: http://120.202.94.181:9446/tsfile/live/0013_1.m3u8?key=txiptv
-   速度: 647.46KB/s | 数据量: 0.6KB | 总耗时: 0.36s | 阈值: 150KB/s
-[2026-05-29 21:43:58] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/673168185
-   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 2.26s | 阈值: 150KB/s
-[2026-05-29 21:43:58] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/673168185
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 2.64s | 阈值: 150KB/s
-[2026-05-29 21:43:58] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/673168121
-   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.45s | 阈值: 150KB/s
-[2026-05-29 21:43:58] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/608807423
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.10s | 阈值: 150KB/s
-[2026-05-29 21:43:58] ✅ 通过阈值 HTTP测速: http://223.247.25.205:1234/608807423
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.66s | 阈值: 150KB/s
-[2026-05-29 21:43:58] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/608807423
-   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.29s | 阈值: 150KB/s
-[2026-05-29 21:43:58] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
-   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.10s | 阈值: 150KB/s
-[2026-05-29 21:43:58] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/673168121
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.18s | 阈值: 150KB/s
-[2026-05-29 21:43:58] ✅ 通过阈值 HTTP测速: http://www.negative.top:50000/rtp/233.50.200.132:5140
-   速度: 377.88KB/s | 数据量: 954.9KB | 总耗时: 3.43s | 阈值: 150KB/s
-[2026-05-29 21:43:59] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
-   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.10s | 阈值: 150KB/s
-[2026-05-29 21:43:59] ✅ 通过阈值 HTTP测速: http://120.202.94.181:9446/tsfile/live/0007_1.m3u8?key=txiptv
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 0.41s | 阈值: 150KB/s
-[2026-05-29 21:43:59] ✅ 通过阈值 HTTP测速: http://198.204.228.26/live/cctv7hd.m3u8
-   速度: 189.45KB/s | 数据量: 0.2KB | 总耗时: 0.15s | 阈值: 150KB/s
-[2026-05-29 21:43:59] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/673168121
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.16s | 阈值: 150KB/s
-[2026-05-29 21:43:59] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.88s | 阈值: 150KB/s
-[2026-05-29 21:43:59] ✅ 通过阈值 HTTP测速: http://222.214.208.34:59901/tsfile/live/0007_1.m3u8
-   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.45s | 阈值: 150KB/s
-[2026-05-29 21:43:59] ✅ 通过阈值 HTTP测速: http://101.66.199.183:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 2868.16KB/s | 数据量: 2.9KB | 总耗时: 0.56s | 阈值: 150KB/s
-[2026-05-29 21:43:59] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/608807423
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 2.13s | 阈值: 150KB/s
-[2026-05-29 21:43:59] ✅ 通过阈值 HTTP测速: http://101.66.199.101:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 2868.16KB/s | 数据量: 2.9KB | 总耗时: 0.49s | 阈值: 150KB/s
-[2026-05-29 21:43:59] ✅ 通过阈值 HTTP测速: http://221.226.51.220:50081/newlive/live/hls/5/live.m3u8
-   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.41s | 阈值: 150KB/s
-[2026-05-29 21:43:59] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/641886683
-   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.52s | 阈值: 150KB/s
-[2026-05-29 21:43:59] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/608807423
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 2.57s | 阈值: 150KB/s
-[2026-05-29 21:43:59] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/673168121
-   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.30s | 阈值: 150KB/s
-[2026-05-29 21:43:59] ✅ 通过阈值 HTTP测速: http://113.25.252.226:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 422.85KB/s | 数据量: 0.4KB | 总耗时: 0.43s | 阈值: 150KB/s
-[2026-05-29 21:44:00] ✅ 通过阈值 HTTP测速: http://221.226.51.220:50081/newlive/live/hls/4/live.m3u8
-   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.45s | 阈值: 150KB/s
-[2026-05-29 21:44:00] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.89s | 阈值: 150KB/s
-[2026-05-29 21:44:00] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/631780421
-   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.46s | 阈值: 150KB/s
-[2026-05-29 21:44:00] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/641886683
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.13s | 阈值: 150KB/s
-[2026-05-29 21:44:00] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/608807416
-   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.47s | 阈值: 150KB/s
-[2026-05-29 21:44:00] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.83s | 阈值: 150KB/s
-[2026-05-29 21:44:00] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/641886683
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.17s | 阈值: 150KB/s
-[2026-05-29 21:44:00] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
-   速度: 197.27KB/s | 数据量: 0.2KB | 总耗时: 0.10s | 阈值: 150KB/s
-[2026-05-29 21:44:00] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/631780421
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.13s | 阈值: 150KB/s
-[2026-05-29 21:44:01] ✅ 通过阈值 HTTP测速: http://101.6.130.52:1234/631780421
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.27s | 阈值: 150KB/s
-[2026-05-29 21:44:01] ✅ 通过阈值 HTTP测速: http://223.247.25.205:1234/673168121
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 3.13s | 阈值: 150KB/s
-[2026-05-29 21:44:01] ✅ 通过阈值 HTTP测速: http://27.12.12.31:1234/631780421
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.18s | 阈值: 150KB/s
-[2026-05-29 21:44:01] ✅ 通过阈值 HTTP测速: http://101.6.130.52:1234/641886683
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 2.07s | 阈值: 150KB/s
-[2026-05-29 21:44:01] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/608807419
-   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.45s | 阈值: 150KB/s
-[2026-05-29 21:44:01] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/608807419
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.11s | 阈值: 150KB/s
-[2026-05-29 21:44:01] ✅ 通过阈值 HTTP测速: http://120.202.94.181:9446/tsfile/live/0004_1.m3u8?key=txiptv
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 0.38s | 阈值: 150KB/s
-[2026-05-29 21:44:02] ✅ 通过阈值 HTTP测速: http://101.6.130.52:1234/608807419
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.12s | 阈值: 150KB/s
-[2026-05-29 21:44:02] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/631780421
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.60s | 阈值: 150KB/s
-[2026-05-29 21:44:02] ✅ 通过阈值 HTTP测速: http://120.202.94.181:9446/tsfile/live/0010_1.m3u8?key=txiptv
-   速度: 647.46KB/s | 数据量: 0.6KB | 总耗时: 0.37s | 阈值: 150KB/s
-[2026-05-29 21:44:02] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/608807419
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 2.26s | 阈值: 150KB/s
-[2026-05-29 21:44:02] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/631780421
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 2.22s | 阈值: 150KB/s
-[2026-05-29 21:44:02] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.74s | 阈值: 150KB/s
-[2026-05-29 21:44:02] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/624878405
-   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.43s | 阈值: 150KB/s
-[2026-05-29 21:44:02] ✅ 通过阈值 HTTP测速: http://74.91.26.218:82/live/cctv10hd.m3u8
-   速度: 204.10KB/s | 数据量: 0.2KB | 总耗时: 0.15s | 阈值: 150KB/s
-[2026-05-29 21:44:03] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/608807416
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.12s | 阈值: 150KB/s
-[2026-05-29 21:44:03] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/624878405
-   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.26s | 阈值: 150KB/s
-[2026-05-29 21:44:03] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/10/index.m3u8
-   速度: 235.35KB/s | 数据量: 0.2KB | 总耗时: 1.44s | 阈值: 150KB/s
-[2026-05-29 21:44:03] ✅ 通过阈值 HTTP测速: http://223.247.25.205:1234/608807419
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 2.11s | 阈值: 150KB/s
-[2026-05-29 21:44:03] ✅ 通过阈值 HTTP测速: http://192.151.150.154/live/cctv10hd.m3u8
-   速度: 197.27KB/s | 数据量: 0.2KB | 总耗时: 0.15s | 阈值: 150KB/s
-[2026-05-29 21:44:03] ✅ 通过阈值 HTTP测速: http://183.223.157.123:85/tsfile/live/0010_1.m3u8?key=txiptv
-   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.54s | 阈值: 150KB/s
-[2026-05-29 21:44:03] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/624878405
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.22s | 阈值: 150KB/s
-[2026-05-29 21:44:03] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/624878440
-   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.45s | 阈值: 150KB/s
-[2026-05-29 21:44:03] ✅ 通过阈值 HTTP测速: http://120.202.94.181:9446/tsfile/live/0014_1.m3u8?key=txiptv
-   速度: 647.46KB/s | 数据量: 0.6KB | 总耗时: 0.36s | 阈值: 150KB/s
-[2026-05-29 21:44:04] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/13/index.m3u8
-   速度: 235.35KB/s | 数据量: 0.2KB | 总耗时: 0.42s | 阈值: 150KB/s
-[2026-05-29 21:44:04] ✅ 通过阈值 HTTP测速: http://223.247.25.205:1234/624878405
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.61s | 阈值: 150KB/s
-[2026-05-29 21:44:04] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/631780421
-   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 3.93s | 阈值: 150KB/s
-[2026-05-29 21:44:04] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/608807419
-   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 2.94s | 阈值: 150KB/s
-[2026-05-29 21:44:04] ✅ 通过阈值 HTTP测速: http://192.151.150.154/live/cctv14hd.m3u8
-   速度: 200.20KB/s | 数据量: 0.2KB | 总耗时: 0.15s | 阈值: 150KB/s
-[2026-05-29 21:44:04] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/624878440
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.15s | 阈值: 150KB/s
-[2026-05-29 21:44:04] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/624878405
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 2.09s | 阈值: 150KB/s
-[2026-05-29 21:44:04] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/631780532
-   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.46s | 阈值: 150KB/s
-[2026-05-29 21:44:05] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/2/index.m3u8
-   速度: 235.35KB/s | 数据量: 0.2KB | 总耗时: 0.42s | 阈值: 150KB/s
-[2026-05-29 21:44:05] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.86s | 阈值: 150KB/s
-[2026-05-29 21:44:05] ✅ 通过阈值 HTTP测速: http://107.150.60.122/live/cctv2hd.m3u8
-   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.15s | 阈值: 150KB/s
-[2026-05-29 21:44:05] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/624878440
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 2.07s | 阈值: 150KB/s
-[2026-05-29 21:44:05] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/624878440
-   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.80s | 阈值: 150KB/s
-[2026-05-29 21:44:05] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/624878440
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 2.09s | 阈值: 150KB/s
-[2026-05-29 21:44:05] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/624878405
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 2.86s | 阈值: 150KB/s
-[2026-05-29 21:44:05] ✅ 通过阈值 HTTP测速: http://222.214.208.34:59901/tsfile/live/0002_1.m3u8
-   速度: 408.20KB/s | 数据量: 0.4KB | 总耗时: 0.46s | 阈值: 150KB/s
-[2026-05-29 21:44:05] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/631780532
-   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.35s | 阈值: 150KB/s
-[2026-05-29 21:44:05] ✅ 通过阈值 HTTP测速: http://101.66.199.101:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 2868.16KB/s | 数据量: 2.9KB | 总耗时: 0.51s | 阈值: 150KB/s
-[2026-05-29 21:44:06] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/641886773
-   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.44s | 阈值: 150KB/s
-[2026-05-29 21:44:06] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/631780532
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.61s | 阈值: 150KB/s
-[2026-05-29 21:44:06] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/631780532
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.64s | 阈值: 150KB/s
-[2026-05-29 21:44:06] ✅ 通过阈值 HTTP测速: http://101.66.199.183:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 2873.05KB/s | 数据量: 2.9KB | 总耗时: 0.42s | 阈值: 150KB/s
-[2026-05-29 21:44:06] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/673168223
-   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.43s | 阈值: 150KB/s
-[2026-05-29 21:44:06] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.93s | 阈值: 150KB/s
-[2026-05-29 21:44:06] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.88s | 阈值: 150KB/s
-[2026-05-29 21:44:07] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/641886773
-   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.25s | 阈值: 150KB/s
-[2026-05-29 21:44:07] ✅ HTTPS测速成功: https://xykt-fix.github.io/play/a02e/index.m3u8
-   速度: 2456.05KB/s | 数据量: 2.5KB | 总耗时: 0.16s | 证书: 有效
-[2026-05-29 21:44:07] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/641886773
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.61s | 阈值: 150KB/s
-[2026-05-29 21:44:07] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/673168223
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.19s | 阈值: 150KB/s
-[2026-05-29 21:44:07] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/631780532
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 2.78s | 阈值: 150KB/s
-[2026-05-29 21:44:07] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/673168223
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.33s | 阈值: 150KB/s
-[2026-05-29 21:44:07] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/641886773
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 2.26s | 阈值: 150KB/s
-[2026-05-29 21:44:07] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/673168223
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.12s | 阈值: 150KB/s
-[2026-05-29 21:44:08] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.78s | 阈值: 150KB/s
-[2026-05-29 21:44:08] ✅ 通过阈值 HTTP测速: http://27.12.12.31:1234/673168140
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.21s | 阈值: 150KB/s
-[2026-05-29 21:44:08] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/673168140
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.10s | 阈值: 150KB/s
-[2026-05-29 21:44:08] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/673168140
-   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.50s | 阈值: 150KB/s
-[2026-05-29 21:44:08] ✅ 通过阈值 HTTP测速: http://120.202.94.181:9446/tsfile/live/0009_1.m3u8?key=txiptv
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 0.38s | 阈值: 150KB/s
-[2026-05-29 21:44:08] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/673168140
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.09s | 阈值: 150KB/s
-[2026-05-29 21:44:08] ✅ 通过阈值 HTTP测速: http://183.11.239.36:808/hls/27/index.m3u8
-   速度: 229.49KB/s | 数据量: 0.2KB | 总耗时: 0.41s | 阈值: 150KB/s
-[2026-05-29 21:44:08] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/8/index.m3u8
-   速度: 235.35KB/s | 数据量: 0.2KB | 总耗时: 0.42s | 阈值: 150KB/s
-[2026-05-29 21:44:08] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/624878356
-   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.43s | 阈值: 150KB/s
-[2026-05-29 21:44:08] ✅ 通过阈值 HTTP测速: http://222.223.41.27:8888/hls/8/index.m3u8
-   速度: 240.23KB/s | 数据量: 0.2KB | 总耗时: 0.51s | 阈值: 150KB/s
-[2026-05-29 21:44:09] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/673168223
-   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 2.38s | 阈值: 150KB/s
-[2026-05-29 21:44:09] ✅ 通过阈值 HTTP测速: http://222.223.41.27:8888/hls/9/index.m3u8
-   速度: 240.23KB/s | 数据量: 0.2KB | 总耗时: 1.52s | 阈值: 150KB/s
-[2026-05-29 21:44:09] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/673168140
-   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 2.41s | 阈值: 150KB/s
-[2026-05-29 21:44:09] ✅ HTTPS测速成功: https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-   速度: 237.22KB/s | 数据量: 103.6KB | 总耗时: 1.55s | 证书: 有效
-[2026-05-29 21:44:09] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
-   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.10s | 阈值: 150KB/s
-[2026-05-29 21:44:09] ✅ 通过阈值 HTTP测速: http://74.91.26.218:82/live/cctv8hd.m3u8
-   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.15s | 阈值: 150KB/s
-[2026-05-29 21:44:09] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
-   速度: 164.06KB/s | 数据量: 0.2KB | 总耗时: 0.51s | 阈值: 150KB/s
-[2026-05-29 21:44:10] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/624878356
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.20s | 阈值: 150KB/s
-[2026-05-29 21:44:10] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/624878356
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.15s | 阈值: 150KB/s
-[2026-05-29 21:44:10] ✅ 通过阈值 HTTP测速: http://118.193.115.2:9901/tsfile/live/0008_1.m3u8?key=txiptv
-   速度: 408.20KB/s | 数据量: 0.4KB | 总耗时: 0.44s | 阈值: 150KB/s
-[2026-05-29 21:44:10] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/673168140
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 3.11s | 阈值: 150KB/s
-[2026-05-29 21:44:10] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/673168256
-   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.48s | 阈值: 150KB/s
-[2026-05-29 21:44:10] ✅ 通过阈值 HTTP测速: http://101.6.130.52:1234/624878356
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.27s | 阈值: 150KB/s
-[2026-05-29 21:44:10] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.94s | 阈值: 150KB/s
-[2026-05-29 21:44:10] ✅ 通过阈值 HTTP测速: http://27.12.12.31:1234/624878356
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 2.04s | 阈值: 150KB/s
-[2026-05-29 21:44:10] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/98/index.m3u8
-   速度: 235.35KB/s | 数据量: 0.2KB | 总耗时: 0.42s | 阈值: 150KB/s
-[2026-05-29 21:44:10] 🚫 未达阈值 HTTP测速: http://192.151.150.154/live/sjdl.m3u8
-   速度: 148.44KB/s | 数据量: 0.1KB | 总耗时: 0.14s | 阈值: 150KB/s
-[2026-05-29 21:44:11] 🚫 未达阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
-   速度: 148.44KB/s | 数据量: 0.1KB | 总耗时: 0.10s | 阈值: 150KB/s
-[2026-05-29 21:44:11] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/624878356
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 2.19s | 阈值: 150KB/s
-[2026-05-29 21:44:11] ✅ 通过阈值 HTTP测速: http://107.150.60.122/live/ysjp.m3u8
-   速度: 186.52KB/s | 数据量: 0.2KB | 总耗时: 0.15s | 阈值: 150KB/s
-[2026-05-29 21:44:11] ✅ 通过阈值 HTTP测速: http://107.150.60.122/live/fyzq.m3u8
-   速度: 186.52KB/s | 数据量: 0.2KB | 总耗时: 0.15s | 阈值: 150KB/s
-[2026-05-29 21:44:11] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
-   速度: 192.38KB/s | 数据量: 0.2KB | 总耗时: 0.09s | 阈值: 150KB/s
-[2026-05-29 21:44:11] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/673168256
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.12s | 阈值: 150KB/s
-[2026-05-29 21:44:11] ✅ 通过阈值 HTTP测速: http://27.12.12.31:1234/673168256
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.23s | 阈值: 150KB/s
-[2026-05-29 21:44:11] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/673168256
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.10s | 阈值: 150KB/s
-[2026-05-29 21:44:11] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
-   速度: 185.55KB/s | 数据量: 0.2KB | 总耗时: 0.10s | 阈值: 150KB/s
-[2026-05-29 21:44:11] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/624878356
-   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 2.37s | 阈值: 150KB/s
-[2026-05-29 21:44:11] ✅ 通过阈值 HTTP测速: http://107.150.60.122/live/fyjc.m3u8
-   速度: 185.55KB/s | 数据量: 0.2KB | 总耗时: 0.15s | 阈值: 150KB/s
-[2026-05-29 21:44:11] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/lgs.m3u8?auth=testpub
-   速度: 193.36KB/s | 数据量: 0.2KB | 总耗时: 0.09s | 阈值: 150KB/s
-[2026-05-29 21:44:11] ✅ 通过阈值 HTTP测速: http://192.151.150.154/live/dszn.m3u8
-   速度: 187.50KB/s | 数据量: 0.2KB | 总耗时: 0.15s | 阈值: 150KB/s
-[2026-05-29 21:44:11] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
-   速度: 187.50KB/s | 数据量: 0.2KB | 总耗时: 0.09s | 阈值: 150KB/s
-[2026-05-29 21:44:11] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
-   速度: 186.52KB/s | 数据量: 0.2KB | 总耗时: 0.10s | 阈值: 150KB/s
-[2026-05-29 21:44:11] ✅ 通过阈值 HTTP测速: http://107.150.60.122/live/fyyy.m3u8
-   速度: 190.43KB/s | 数据量: 0.2KB | 总耗时: 0.14s | 阈值: 150KB/s
-[2026-05-29 21:44:11] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
-   速度: 186.52KB/s | 数据量: 0.2KB | 总耗时: 0.09s | 阈值: 150KB/s
-[2026-05-29 21:44:11] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/fyjc.m3u8
-   速度: 379.88KB/s | 数据量: 0.4KB | 总耗时: 0.48s | 阈值: 150KB/s
-[2026-05-29 21:44:11] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/ystq.m3u8
-   速度: 379.88KB/s | 数据量: 0.4KB | 总耗时: 0.40s | 阈值: 150KB/s
-[2026-05-29 21:44:11] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/608807416
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.16s | 阈值: 150KB/s
-[2026-05-29 21:44:11] ✅ 通过阈值 HTTP测速: http://107.150.60.122/live/cctv4k.m3u8
-   速度: 202.15KB/s | 数据量: 0.2KB | 总耗时: 0.15s | 阈值: 150KB/s
-[2026-05-29 21:44:11] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/dyjc.m3u8
-   速度: 379.88KB/s | 数据量: 0.4KB | 总耗时: 0.49s | 阈值: 150KB/s
-[2026-05-29 21:44:11] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
-   速度: 195.31KB/s | 数据量: 0.2KB | 总耗时: 0.09s | 阈值: 150KB/s
-[2026-05-29 21:44:11] ✅ HTTPS测速成功: https://xykt-fix.github.io/Y77.m3u8
-   速度: 1623.05KB/s | 数据量: 1.6KB | 总耗时: 0.16s | 证书: 有效
-[2026-05-29 21:44:11] ✅ 通过阈值 HTTP测速: http://192.151.150.154/live/nxss.m3u8
-   速度: 186.52KB/s | 数据量: 0.2KB | 总耗时: 0.15s | 阈值: 150KB/s
-[2026-05-29 21:44:11] ✅ 通过阈值 HTTP测速: http://192.151.150.154/live/cctv4k.m3u8
-   速度: 202.15KB/s | 数据量: 0.2KB | 总耗时: 0.15s | 阈值: 150KB/s
-[2026-05-29 21:44:11] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/gefwq.m3u8
-   速度: 382.81KB/s | 数据量: 0.4KB | 总耗时: 0.82s | 阈值: 150KB/s
-[2026-05-29 21:44:11] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/673168256
-   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.38s | 阈值: 150KB/s
-[2026-05-29 21:44:11] ✅ 通过阈值 HTTP测速: http://198.204.228.26/live/chcjt.m3u8
-   速度: 195.31KB/s | 数据量: 0.2KB | 总耗时: 0.15s | 阈值: 150KB/s
-[2026-05-29 21:44:11] ✅ 通过阈值 HTTP测速: http://192.151.150.154/live/chcdz.m3u8
-   速度: 195.31KB/s | 数据量: 0.2KB | 总耗时: 0.15s | 阈值: 150KB/s
-[2026-05-29 21:44:11] ✅ 通过阈值 HTTP测速: http://198.204.228.26/live/chcdz.m3u8
-   速度: 195.31KB/s | 数据量: 0.2KB | 总耗时: 0.14s | 阈值: 150KB/s
-[2026-05-29 21:44:12] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/fyyy.m3u8
-   速度: 379.88KB/s | 数据量: 0.4KB | 总耗时: 0.40s | 阈值: 150KB/s
-[2026-05-29 21:44:12] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
-   速度: 195.31KB/s | 数据量: 0.2KB | 总耗时: 0.10s | 阈值: 150KB/s
-[2026-05-29 21:44:12] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/952383261
-   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.44s | 阈值: 150KB/s
-[2026-05-29 21:44:12] ✅ 通过阈值 HTTP测速: http://192.151.150.154/live/chchd.m3u8
-   速度: 195.31KB/s | 数据量: 0.2KB | 总耗时: 0.15s | 阈值: 150KB/s
-[2026-05-29 21:44:12] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/608807419
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.29s | 阈值: 150KB/s
-[2026-05-29 21:44:12] ✅ HTTPS测速成功: https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001580/index.m3u8?streamid=87c13b6e841ed5039d4c2ce8f266f9ef&streamkey=0gNYRWDeQgJcsRRVxgX7CXzeeNfbK5b6jgfx2dUMMXpSOjJ6HaVTnXNZIvUs7ZjMVIipZGwSqsLBoB1csVGKjUersUPcVyHJvvzH9lv6u5pQ0BcM1SFtompQvPNMFD09b&token=1775754577-a16c17c5548559fa-0-23e1bb39b278d07d81f7441cf04c41ce
-   速度: 345.70KB/s | 数据量: 0.3KB | 总耗时: 0.36s | 证书: 有效
-[2026-05-29 21:44:13] ✅ 通过阈值 HTTP测速: http://101.6.130.52:1234/952383261
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.13s | 阈值: 150KB/s
-[2026-05-29 21:44:13] ✅ HTTPS测速成功: https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-   速度: 832.03KB/s | 数据量: 0.8KB | 总耗时: 0.31s | 证书: 有效
-[2026-05-29 21:44:13] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/952383261
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.11s | 阈值: 150KB/s
-[2026-05-29 21:44:13] ✅ HTTPS测速成功: https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
-   速度: 1394.46KB/s | 数据量: 106.5KB | 总耗时: 0.36s | 证书: 有效
-[2026-05-29 21:44:13] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/952383261
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.11s | 阈值: 150KB/s
-[2026-05-29 21:44:13] ✅ 通过阈值 HTTP测速: http://120.211.62.180:8000/hls/35/index.m3u8
-   速度: 229.49KB/s | 数据量: 0.2KB | 总耗时: 0.84s | 阈值: 150KB/s
-[2026-05-29 21:44:13] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/99/index.m3u8
-   速度: 236.33KB/s | 数据量: 0.2KB | 总耗时: 0.43s | 阈值: 150KB/s
-[2026-05-29 21:44:13] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/20/index.m3u8
-   速度: 235.35KB/s | 数据量: 0.2KB | 总耗时: 0.43s | 阈值: 150KB/s
-[2026-05-29 21:44:13] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/630287636
-   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.43s | 阈值: 150KB/s
-[2026-05-29 21:44:13] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/673168256
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 3.25s | 阈值: 150KB/s
-[2026-05-29 21:44:13] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.61s | 阈值: 150KB/s
-[2026-05-29 21:44:14] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/952383261
-   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 2.02s | 阈值: 150KB/s
-[2026-05-29 21:44:14] ✅ 通过阈值 HTTP测速: http://223.75.149.129:9906/tsfile/live/0122_1.m3u8?key=txiptv
-   速度: 641.60KB/s | 数据量: 0.6KB | 总耗时: 0.46s | 阈值: 150KB/s
-[2026-05-29 21:44:14] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.65s | 阈值: 150KB/s
-[2026-05-29 21:44:14] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/956923145
-   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.44s | 阈值: 150KB/s
-[2026-05-29 21:44:14] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/630287636
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.09s | 阈值: 150KB/s
-[2026-05-29 21:44:14] ✅ 通过阈值 HTTP测速: http://27.12.12.31:1234/630287636
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.72s | 阈值: 150KB/s
-[2026-05-29 21:44:15] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/952383261
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 3.28s | 阈值: 150KB/s
-[2026-05-29 21:44:15] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/630287636
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 2.30s | 阈值: 150KB/s
-[2026-05-29 21:44:15] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/btws.m3u8?auth=testpub
-   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.10s | 阈值: 150KB/s
-[2026-05-29 21:44:15] ✅ 通过阈值 HTTP测速: http://27.12.12.31:1234/956923145
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.15s | 阈值: 150KB/s
-[2026-05-29 21:44:15] ✅ 通过阈值 HTTP测速: http://192.151.150.154/live/btws.m3u8
-   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.14s | 阈值: 150KB/s
-[2026-05-29 21:44:15] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/956923145
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.09s | 阈值: 150KB/s
-[2026-05-29 21:44:15] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/630287636
-   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 2.16s | 阈值: 150KB/s
-[2026-05-29 21:44:15] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/630287636
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 2.30s | 阈值: 150KB/s
-[2026-05-29 21:44:16] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/956923145
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 2.11s | 阈值: 150KB/s
-[2026-05-29 21:44:16] 🚫 未达阈值 HTTP测速: http://47.104.178.59:3566/738910914
-   速度: 53.71KB/s | 数据量: 0.1KB | 总耗时: 0.55s | 阈值: 150KB/s
-[2026-05-29 21:44:16] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/31/index.m3u8
-   速度: 235.35KB/s | 数据量: 0.2KB | 总耗时: 0.44s | 阈值: 150KB/s
-[2026-05-29 21:44:16] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.73s | 阈值: 150KB/s
-[2026-05-29 21:44:16] ✅ 通过阈值 HTTP测速: http://218.13.170.98:9901/tsfile/live/0115_1.m3u8
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 1.04s | 阈值: 150KB/s
-[2026-05-29 21:44:16] 🚫 未达阈值 HTTP测速: http://101.6.130.52:1234/738910914
-   速度: 53.71KB/s | 数据量: 0.1KB | 总耗时: 0.60s | 阈值: 150KB/s
-[2026-05-29 21:44:16] ✅ 通过阈值 HTTP测速: http://101.6.130.52:1234/956923145
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.68s | 阈值: 150KB/s
-[2026-05-29 21:44:16] 🚫 未达阈值 HTTP测速: http://119.118.88.58:7788/738910914
-   速度: 53.71KB/s | 数据量: 0.1KB | 总耗时: 0.65s | 阈值: 150KB/s
-[2026-05-29 21:44:16] ✅ HTTPS测速成功: https://liveout.xntv.tv/a65jur/96iln2.m3u8
-   速度: 265.62KB/s | 数据量: 0.3KB | 总耗时: 2.12s | 证书: 有效
-[2026-05-29 21:44:17] ✅ 通过阈值 HTTP测速: http://221.226.51.220:50081/newlive/live/hls/28/live.m3u8
-   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.41s | 阈值: 150KB/s
-[2026-05-29 21:44:17] 🚫 未达阈值 HTTP测速: http://110.154.192.30:7788/738910914
-   速度: 53.71KB/s | 数据量: 0.1KB | 总耗时: 0.88s | 阈值: 150KB/s
-[2026-05-29 21:44:17] 🚫 未达阈值 HTTP测速: http://223.247.25.205:1234/738910914
-   速度: 53.71KB/s | 数据量: 0.1KB | 总耗时: 1.59s | 阈值: 150KB/s
-[2026-05-29 21:44:17] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/956923145
-   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 2.37s | 阈值: 150KB/s
-[2026-05-29 21:44:17] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/651632648
-   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.43s | 阈值: 150KB/s
-[2026-05-29 21:44:17] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/956923145
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 3.21s | 阈值: 150KB/s
-[2026-05-29 21:44:17] ✅ HTTPS测速成功: https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
-   速度: 10411.42KB/s | 数据量: 165.3KB | 总耗时: 0.09s | 证书: 有效
-[2026-05-29 21:44:17] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/849116810
-   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.44s | 阈值: 150KB/s
-[2026-05-29 21:44:17] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.77s | 阈值: 150KB/s
-[2026-05-29 21:44:18] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/651632648
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.23s | 阈值: 150KB/s
-[2026-05-29 21:44:18] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/651632648
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.10s | 阈值: 150KB/s
-[2026-05-29 21:44:18] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/21/index.m3u8
-   速度: 238.28KB/s | 数据量: 0.2KB | 总耗时: 0.45s | 阈值: 150KB/s
-[2026-05-29 21:44:18] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/651632648
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.63s | 阈值: 150KB/s
-[2026-05-29 21:44:18] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/738910914
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 2.13s | 阈值: 150KB/s
-[2026-05-29 21:44:18] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/608917627
-   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.44s | 阈值: 150KB/s
-[2026-05-29 21:44:18] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/849116810
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.13s | 阈值: 150KB/s
-[2026-05-29 21:44:19] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/651632648
-   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 2.09s | 阈值: 150KB/s
-[2026-05-29 21:44:19] ✅ 通过阈值 HTTP测速: http://218.206.193.218:8888/hls/67/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.34s | 阈值: 150KB/s
-[2026-05-29 21:44:19] ✅ 通过阈值 HTTP测速: http://221.7.175.154:8445/tsfile/live/1020_1.m3u8
-   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.43s | 阈值: 150KB/s
-[2026-05-29 21:44:19] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/608917627
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.14s | 阈值: 150KB/s
-[2026-05-29 21:44:19] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/608917627
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.18s | 阈值: 150KB/s
-[2026-05-29 21:44:19] ✅ 通过阈值 HTTP测速: http://122.152.202.33/s/81a8a44f/index.m3u8?id=15
-   速度: 187.50KB/s | 数据量: 0.2KB | 总耗时: 0.48s | 阈值: 150KB/s
-[2026-05-29 21:44:19] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/849116810
-   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 2.28s | 阈值: 150KB/s
-[2026-05-29 21:44:20] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/849116810
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 2.60s | 阈值: 150KB/s
-[2026-05-29 21:44:20] ✅ 通过阈值 HTTP测速: http://183.237.95.108:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.43s | 阈值: 150KB/s
-[2026-05-29 21:44:20] ✅ 通过阈值 HTTP测速: http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.44s | 阈值: 150KB/s
-[2026-05-29 21:44:20] ✅ 通过阈值 HTTP测速: http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.86s | 阈值: 150KB/s
-[2026-05-29 21:44:20] ✅ 通过阈值 HTTP测速: http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 0.53s | 阈值: 150KB/s
-[2026-05-29 21:44:20] ✅ HTTPS测速成功: https://gcalic.v.myalicdn.com/gc/fhgcdnhs_1/index.m3u8
-   速度: 340.82KB/s | 数据量: 0.3KB | 总耗时: 1.36s | 证书: 有效
-[2026-05-29 21:44:21] ✅ HTTPS测速成功: https://gcalic.v.myalicdn.com/gc/fhgcdgm_1/index.m3u8
-   速度: 324.22KB/s | 数据量: 0.3KB | 总耗时: 1.52s | 证书: 有效
-[2026-05-29 21:44:21] ✅ 通过阈值 HTTP测速: http://27.12.12.31:1234/849116810
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 4.21s | 阈值: 150KB/s
-[2026-05-29 21:44:21] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/849119120
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.18s | 阈值: 150KB/s
-[2026-05-29 21:44:21] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/849119120
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.09s | 阈值: 150KB/s
-[2026-05-29 21:44:21] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/608831231
-   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.43s | 阈值: 150KB/s
-[2026-05-29 21:44:22] ✅ 通过阈值 HTTP测速: http://14.153.176.89:1234/849119120
-   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.75s | 阈值: 150KB/s
-[2026-05-29 21:44:22] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.84s | 阈值: 150KB/s
-[2026-05-29 21:44:22] ✅ 通过阈值 HTTP测速: http://101.6.130.52:1234/608831231
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.18s | 阈值: 150KB/s
-[2026-05-29 21:44:22] ✅ 通过阈值 HTTP测速: http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 2.83s | 阈值: 150KB/s
-[2026-05-29 21:44:22] ✅ 通过阈值 HTTP测速: http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-   速度: 498.05KB/s | 数据量: 0.5KB | 总耗时: 4.98s | 阈值: 150KB/s
-[2026-05-29 21:44:22] ✅ 通过阈值 HTTP测速: http://192.151.150.154/live/gswshd.m3u8
-   速度: 187.50KB/s | 数据量: 0.2KB | 总耗时: 0.14s | 阈值: 150KB/s
-[2026-05-29 21:44:23] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/gsws.m3u8
-   速度: 383.79KB/s | 数据量: 0.4KB | 总耗时: 0.49s | 阈值: 150KB/s
-[2026-05-29 21:44:23] ✅ 通过阈值 HTTP测速: http://113.25.252.226:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 422.85KB/s | 数据量: 0.4KB | 总耗时: 0.43s | 阈值: 150KB/s
-[2026-05-29 21:44:23] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/608831231
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.15s | 阈值: 150KB/s
-[2026-05-29 21:44:24] ✅ 通过阈值 HTTP测速: http://223.247.25.205:1234/608831231
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.73s | 阈值: 150KB/s
-[2026-05-29 21:44:24] ✅ HTTPS测速成功: https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
-   速度: 179.69KB/s | 数据量: 0.2KB | 总耗时: 0.40s | 证书: 有效
-[2026-05-29 21:44:24] ✅ HTTPS测速成功: https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
-   速度: 179.69KB/s | 数据量: 0.2KB | 总耗时: 0.73s | 证书: 有效
-[2026-05-29 21:44:24] ✅ 通过阈值 HTTP测速: http://120.202.94.181:9446/tsfile/live/0132_1.m3u8?key=txiptv
-   速度: 652.34KB/s | 数据量: 0.7KB | 总耗时: 0.38s | 阈值: 150KB/s
-[2026-05-29 21:44:24] ✅ 通过阈值 HTTP测速: http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.79s | 阈值: 150KB/s
-[2026-05-29 21:44:24] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/29/index.m3u8
-   速度: 236.33KB/s | 数据量: 0.2KB | 总耗时: 0.46s | 阈值: 150KB/s
-[2026-05-29 21:44:25] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/947472496
-   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.43s | 阈值: 150KB/s
-[2026-05-29 21:44:25] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/608831231
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 3.76s | 阈值: 150KB/s
-[2026-05-29 21:44:25] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/947472496
-   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.28s | 阈值: 150KB/s
-[2026-05-29 21:44:25] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
-   速度: 186.52KB/s | 数据量: 0.2KB | 总耗时: 0.10s | 阈值: 150KB/s
-[2026-05-29 21:44:26] ✅ HTTPS测速成功: https://gd202.tv1288.xyz/tsfile/live/1023_1.m3u8
-   速度: 647.46KB/s | 数据量: 0.6KB | 总耗时: 1.84s | 证书: 有效
-[2026-05-29 21:44:26] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/hbws.m3u8
-   速度: 374.02KB/s | 数据量: 0.4KB | 总耗时: 0.40s | 阈值: 150KB/s
-[2026-05-29 21:44:27] ✅ HTTPS测速成功: https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
-   速度: 55772.95KB/s | 数据量: 280576.0KB | 总耗时: 5.30s | 证书: 有效
-[2026-05-29 21:44:28] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.83s | 阈值: 150KB/s
-[2026-05-29 21:44:29] ✅ 通过阈值 HTTP测速: http://59.39.89.130:60901/tsfile/live/0125_12.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 1.38s | 阈值: 150KB/s
-[2026-05-29 21:44:29] ✅ 通过阈值 HTTP测速: http://118.193.115.2:9901/tsfile/live/0132_1.m3u8?key=txiptv
-   速度: 417.97KB/s | 数据量: 0.4KB | 总耗时: 0.48s | 阈值: 150KB/s
-[2026-05-29 21:44:30] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/16/index.m3u8
-   速度: 235.35KB/s | 数据量: 0.2KB | 总耗时: 0.42s | 阈值: 150KB/s
-[2026-05-29 21:44:30] ✅ 通过阈值 HTTP测速: http://cssbyd.imwork.net:8082/hls/48/index.m3u8
-   速度: 234.38KB/s | 数据量: 0.2KB | 总耗时: 7.49s | 阈值: 150KB/s
-[2026-05-29 21:44:30] 🚫 未达阈值 HTTP测速: http://115.44.140.170:18180/TV00000000000000000009@HHZT
-   速度: 103.78KB/s | 数据量: 1024.0KB | 总耗时: 10.30s | 阈值: 150KB/s
-[2026-05-29 21:44:30] ✅ 通过阈值 HTTP测速: http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
-   速度: 383.79KB/s | 数据量: 0.4KB | 总耗时: 0.48s | 阈值: 150KB/s
-[2026-05-29 21:44:31] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/962042070
-   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.61s | 阈值: 150KB/s
-[2026-05-29 21:44:31] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/947472496
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 6.26s | 阈值: 150KB/s
-[2026-05-29 21:44:31] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.74s | 阈值: 150KB/s
-[2026-05-29 21:44:31] ✅ 通过阈值 HTTP测速: http://101.66.199.183:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 2867.19KB/s | 数据量: 2.9KB | 总耗时: 0.42s | 阈值: 150KB/s
-[2026-05-29 21:44:32] ✅ 通过阈值 HTTP测速: http://118.193.115.2:9901/tsfile/live/0117_1.m3u8?key=txiptv
-   速度: 417.97KB/s | 数据量: 0.4KB | 总耗时: 0.43s | 阈值: 150KB/s
-[2026-05-29 21:44:32] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/947472496
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 6.81s | 阈值: 150KB/s
-[2026-05-29 21:44:32] ✅ 通过阈值 HTTP测速: http://223.247.25.205:1234/947472496
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 5.99s | 阈值: 150KB/s
-[2026-05-29 21:44:32] ✅ 通过阈值 HTTP测速: http://101.6.130.52:1234/947472496
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 5.76s | 阈值: 150KB/s
-[2026-05-29 21:44:32] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/947472496
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 7.01s | 阈值: 150KB/s
-[2026-05-29 21:44:32] ✅ 通过阈值 HTTP测速: http://27.12.12.31:1234/962042070
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.77s | 阈值: 150KB/s
-[2026-05-29 21:44:32] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
-   速度: 197.27KB/s | 数据量: 0.2KB | 总耗时: 0.09s | 阈值: 150KB/s
-[2026-05-29 21:44:32] ✅ 通过阈值 HTTP测速: http://198.204.228.26/live/hljwshd.m3u8
-   速度: 197.27KB/s | 数据量: 0.2KB | 总耗时: 0.14s | 阈值: 150KB/s
-[2026-05-29 21:44:32] ✅ 通过阈值 HTTP测速: http://192.151.150.154/live/hljwshd.m3u8
-   速度: 197.27KB/s | 数据量: 0.2KB | 总耗时: 0.15s | 阈值: 150KB/s
-[2026-05-29 21:44:32] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.76s | 阈值: 150KB/s
-[2026-05-29 21:44:32] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
-   速度: 187.50KB/s | 数据量: 0.2KB | 总耗时: 0.10s | 阈值: 150KB/s
-[2026-05-29 21:44:32] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/27/index.m3u8
-   速度: 235.35KB/s | 数据量: 0.2KB | 总耗时: 0.42s | 阈值: 150KB/s
-[2026-05-29 21:44:32] ✅ 通过阈值 HTTP测速: http://223.75.149.129:9906/tsfile/live/0143_1.m3u8?key=txiptv
-   速度: 641.60KB/s | 数据量: 0.6KB | 总耗时: 0.44s | 阈值: 150KB/s
-[2026-05-29 21:44:32] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/17/index.m3u8
-   速度: 235.35KB/s | 数据量: 0.2KB | 总耗时: 0.42s | 阈值: 150KB/s
-[2026-05-29 21:44:32] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/962042070
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.63s | 阈值: 150KB/s
-[2026-05-29 21:44:32] ✅ 通过阈值 HTTP测速: http://115.44.140.170:18180/TV00000000000000000008@HHZT
-   速度: 159.47KB/s | 数据量: 2048.0KB | 总耗时: 13.25s | 阈值: 150KB/s
-[2026-05-29 21:44:32] ✅ 通过阈值 HTTP测速: http://222.214.208.34:59901/tsfile/live/0128_1.m3u8
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.45s | 阈值: 150KB/s
-[2026-05-29 21:44:33] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.92s | 阈值: 150KB/s
-[2026-05-29 21:44:33] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/947472502
-   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.45s | 阈值: 150KB/s
-[2026-05-29 21:44:33] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
-   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.13s | 阈值: 150KB/s
-[2026-05-29 21:44:33] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/lyws.m3u8
-   速度: 380.86KB/s | 数据量: 0.4KB | 总耗时: 0.40s | 阈值: 150KB/s
-[2026-05-29 21:44:33] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.94s | 阈值: 150KB/s
-[2026-05-29 21:44:33] ✅ 通过阈值 HTTP测速: http://221.226.51.220:50081/newlive/live/hls/31/live.m3u8
-   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 1.50s | 阈值: 150KB/s
-[2026-05-29 21:44:33] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/790187291
-   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.44s | 阈值: 150KB/s
-[2026-05-29 21:44:33] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/947472502
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.14s | 阈值: 150KB/s
-[2026-05-29 21:44:33] ✅ 通过阈值 HTTP测速: http://36.32.174.67:60080/newlive/live/hls/46/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.86s | 阈值: 150KB/s
-[2026-05-29 21:44:34] ✅ 通过阈值 HTTP测速: http://198.204.228.26/live/hawshd.m3u8
-   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.15s | 阈值: 150KB/s
-[2026-05-29 21:44:34] ✅ 通过阈值 HTTP测速: http://192.151.150.154/live/hawshd.m3u8
+[2026-05-30 06:52:58] ✅ 通过阈值 HTTP测速: http://222.223.41.27:8888/hls/11/index.m3u8
+   速度: 240.23KB/s | 数据量: 0.2KB | 总耗时: 0.53s | 阈值: 150KB/s
+[2026-05-30 06:52:58] ✅ 通过阈值 HTTP测速: http://222.223.41.27:8888/hls/12/index.m3u8
+   速度: 240.23KB/s | 数据量: 0.2KB | 总耗时: 0.57s | 阈值: 150KB/s
+[2026-05-30 06:52:58] ✅ 通过阈值 HTTP测速: http://222.223.41.27:8888/hls/13/index.m3u8
+   速度: 240.23KB/s | 数据量: 0.2KB | 总耗时: 0.57s | 阈值: 150KB/s
+[2026-05-30 06:52:58] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
+   速度: 204.10KB/s | 数据量: 0.2KB | 总耗时: 0.21s | 阈值: 150KB/s
+[2026-05-30 06:52:58] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/cctv12.m3u8
+   速度: 383.79KB/s | 数据量: 0.4KB | 总耗时: 0.85s | 阈值: 150KB/s
+[2026-05-30 06:52:58] ✅ 通过阈值 HTTP测速: http://222.223.41.27:8888/hls/14/index.m3u8
+   速度: 240.23KB/s | 数据量: 0.2KB | 总耗时: 0.56s | 阈值: 150KB/s
+[2026-05-30 06:52:58] ✅ 通过阈值 HTTP测速: http://221.226.51.220:50081/newlive/live/hls/1/live.m3u8
+   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.49s | 阈值: 150KB/s
+[2026-05-30 06:52:58] ✅ 通过阈值 HTTP测速: http://222.223.41.27:8888/hls/15/index.m3u8
+   速度: 240.23KB/s | 数据量: 0.2KB | 总耗时: 0.57s | 阈值: 150KB/s
+[2026-05-30 06:52:58] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/cctv17.m3u8
+   速度: 389.65KB/s | 数据量: 0.4KB | 总耗时: 0.51s | 阈值: 150KB/s
+[2026-05-30 06:52:58] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.52s | 阈值: 150KB/s
+[2026-05-30 06:52:59] ✅ 通过阈值 HTTP测速: http://120.202.94.181:9446/tsfile/live/0006_1.m3u8?key=txiptv
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 0.44s | 阈值: 150KB/s
+[2026-05-30 06:52:59] ✅ 通过阈值 HTTP测速: http://221.226.51.220:50081/newlive/live/hls/6/live.m3u8
+   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.52s | 阈值: 150KB/s
+[2026-05-30 06:52:59] ✅ 通过阈值 HTTP测速: http://107.150.60.122/live/cctv6hd.m3u8
+   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:52:59] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/cctv5p.m3u8
+   速度: 167.97KB/s | 数据量: 0.2KB | 总耗时: 1.02s | 阈值: 150KB/s
+[2026-05-30 06:52:59] ✅ 通过阈值 HTTP测速: http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=549e2d7fcb4d19214deeedc2211e436a&wsTime=1780106366
+   速度: 347.66KB/s | 数据量: 0.3KB | 总耗时: 4.01s | 阈值: 150KB/s
+[2026-05-30 06:52:59] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
+   速度: 168.95KB/s | 数据量: 0.2KB | 总耗时: 0.72s | 阈值: 150KB/s
+[2026-05-30 06:52:59] ✅ 通过阈值 HTTP测速: http://59.39.89.130:60901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.65s | 阈值: 150KB/s
+[2026-05-30 06:52:59] ✅ 通过阈值 HTTP测速: http://118.193.115.2:9901/tsfile/live/0006_1.m3u8?key=txiptv
+   速度: 408.20KB/s | 数据量: 0.4KB | 总耗时: 0.53s | 阈值: 150KB/s
+[2026-05-30 06:53:00] ✅ 通过阈值 HTTP测速: http://120.202.94.181:9446/tsfile/live/0001_1.m3u8?key=txiptv
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 0.45s | 阈值: 150KB/s
+[2026-05-30 06:53:00] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.49s | 阈值: 150KB/s
+[2026-05-30 06:53:00] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/608807420
+   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 1.04s | 阈值: 150KB/s
+[2026-05-30 06:53:00] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.21s | 阈值: 150KB/s
+[2026-05-30 06:53:01] ✅ HTTPS测速成功: https://event.pull.hebtv.com/jishi/cp1.m3u8
+   速度: 319.34KB/s | 数据量: 0.3KB | 总耗时: 0.82s | 证书: 有效
+[2026-05-30 06:53:01] ✅ HTTPS测速成功: https://event.pull.hebtv.com/jishi/cp2.m3u8
+   速度: 319.34KB/s | 数据量: 0.3KB | 总耗时: 0.97s | 证书: 有效
+[2026-05-30 06:53:01] ✅ 通过阈值 HTTP测速: http://118.193.115.2:9901/tsfile/live/0001_1.m3u8?key=txiptv
+   速度: 408.20KB/s | 数据量: 0.4KB | 总耗时: 0.52s | 阈值: 150KB/s
+[2026-05-30 06:53:01] ✅ 通过阈值 HTTP测速: http://74.91.26.218:82/live/cctv1hd.m3u8
+   速度: 167.97KB/s | 数据量: 0.2KB | 总耗时: 0.68s | 阈值: 150KB/s
+[2026-05-30 06:53:01] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.56s | 阈值: 150KB/s
+[2026-05-30 06:53:01] ✅ 通过阈值 HTTP测速: http://120.202.94.181:9446/tsfile/live/0003_1.m3u8?key=txiptv
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 0.43s | 阈值: 150KB/s
+[2026-05-30 06:53:02] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/624878271
+   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.83s | 阈值: 150KB/s
+[2026-05-30 06:53:02] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/3/index.m3u8
+   速度: 235.35KB/s | 数据量: 0.2KB | 总耗时: 0.53s | 阈值: 150KB/s
+[2026-05-30 06:53:02] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/624878396
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 3.20s | 阈值: 150KB/s
+[2026-05-30 06:53:02] ✅ 通过阈值 HTTP测速: http://27.12.12.31:1234/624878396
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 3.77s | 阈值: 150KB/s
+[2026-05-30 06:53:02] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/624878396
+   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 3.91s | 阈值: 150KB/s
+[2026-05-30 06:53:02] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/608807420
+   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 2.97s | 阈值: 150KB/s
+[2026-05-30 06:53:02] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/608807420
+   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 2.43s | 阈值: 150KB/s
+[2026-05-30 06:53:02] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.50s | 阈值: 150KB/s
+[2026-05-30 06:53:02] ✅ 通过阈值 HTTP测速: http://59.39.89.130:60901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.65s | 阈值: 150KB/s
+[2026-05-30 06:53:02] ✅ 通过阈值 HTTP测速: http://111.228.4.117:6789/migu720p.php?id=624878396
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 3.96s | 阈值: 150KB/s
+[2026-05-30 06:53:02] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/624878271
+   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.56s | 阈值: 150KB/s
+[2026-05-30 06:53:02] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub
+   速度: 204.10KB/s | 数据量: 0.2KB | 总耗时: 0.21s | 阈值: 150KB/s
+[2026-05-30 06:53:03] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/624878271
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.45s | 阈值: 150KB/s
+[2026-05-30 06:53:03] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/96/index.m3u8
+   速度: 235.35KB/s | 数据量: 0.2KB | 总耗时: 0.51s | 阈值: 150KB/s
+[2026-05-30 06:53:03] ✅ 通过阈值 HTTP测速: http://120.202.94.181:9446/tsfile/live/0011_1.m3u8?key=txiptv
+   速度: 647.46KB/s | 数据量: 0.6KB | 总耗时: 0.48s | 阈值: 150KB/s
+[2026-05-30 06:53:03] ✅ 通过阈值 HTTP测速: http://118.193.115.2:9901/tsfile/live/0011_1.m3u8?key=txiptv
+   速度: 413.09KB/s | 数据量: 0.4KB | 总耗时: 0.54s | 阈值: 150KB/s
+[2026-05-30 06:53:03] ✅ 通过阈值 HTTP测速: http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
+   速度: 272.46KB/s | 数据量: 0.3KB | 总耗时: 0.84s | 阈值: 150KB/s
+[2026-05-30 06:53:03] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.60s | 阈值: 150KB/s
+[2026-05-30 06:53:04] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/667987558
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.42s | 阈值: 150KB/s
+[2026-05-30 06:53:04] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/667987558
+   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.47s | 阈值: 150KB/s
+[2026-05-30 06:53:04] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/667987558
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.49s | 阈值: 150KB/s
+[2026-05-30 06:53:04] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/667987558
+   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.56s | 阈值: 150KB/s
+[2026-05-30 06:53:04] ✅ 通过阈值 HTTP测速: http://74.91.26.218:82/live/cctv12hd.m3u8
+   速度: 208.01KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:04] ✅ 通过阈值 HTTP测速: http://107.150.60.122/live/cctv12hd.m3u8
+   速度: 208.01KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:04] ✅ 通过阈值 HTTP测速: http://192.151.150.154/live/cctv12hd.m3u8
+   速度: 208.01KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:04] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/11/index.m3u8
+   速度: 235.35KB/s | 数据量: 0.2KB | 总耗时: 0.52s | 阈值: 150KB/s
+[2026-05-30 06:53:04] ✅ 通过阈值 HTTP测速: http://120.202.94.181:9446/tsfile/live/0012_1.m3u8?key=txiptv
+   速度: 647.46KB/s | 数据量: 0.6KB | 总耗时: 0.44s | 阈值: 150KB/s
+[2026-05-30 06:53:04] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.49s | 阈值: 150KB/s
+[2026-05-30 06:53:04] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/673168185
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.43s | 阈值: 150KB/s
+[2026-05-30 06:53:04] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/673168185
+   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.54s | 阈值: 150KB/s
+[2026-05-30 06:53:04] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/673168185
+   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.49s | 阈值: 150KB/s
+[2026-05-30 06:53:05] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/608807423
+   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.62s | 阈值: 150KB/s
+[2026-05-30 06:53:05] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/12/index.m3u8
+   速度: 235.35KB/s | 数据量: 0.2KB | 总耗时: 0.52s | 阈值: 150KB/s
+[2026-05-30 06:53:05] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/673168185
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.40s | 阈值: 150KB/s
+[2026-05-30 06:53:05] ✅ 通过阈值 HTTP测速: http://120.202.94.181:9446/tsfile/live/0013_1.m3u8?key=txiptv
+   速度: 647.46KB/s | 数据量: 0.6KB | 总耗时: 0.45s | 阈值: 150KB/s
+[2026-05-30 06:53:05] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.49s | 阈值: 150KB/s
+[2026-05-30 06:53:05] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/673168121
+   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.86s | 阈值: 150KB/s
+[2026-05-30 06:53:06] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/608807423
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.47s | 阈值: 150KB/s
+[2026-05-30 06:53:06] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/608807423
+   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.50s | 阈值: 150KB/s
+[2026-05-30 06:53:06] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/608807423
+   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.53s | 阈值: 150KB/s
+[2026-05-30 06:53:06] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
+   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.20s | 阈值: 150KB/s
+[2026-05-30 06:53:06] ✅ 通过阈值 HTTP测速: http://120.202.94.181:9446/tsfile/live/0007_1.m3u8?key=txiptv
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 0.47s | 阈值: 150KB/s
+[2026-05-30 06:53:06] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/673168121
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.43s | 阈值: 150KB/s
+[2026-05-30 06:53:06] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/608807423
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.50s | 阈值: 150KB/s
+[2026-05-30 06:53:06] ✅ 通过阈值 HTTP测速: http://198.204.228.26/live/cctv7hd.m3u8
+   速度: 189.45KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:06] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/673168121
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.40s | 阈值: 150KB/s
+[2026-05-30 06:53:06] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
+   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.21s | 阈值: 150KB/s
+[2026-05-30 06:53:06] ✅ 通过阈值 HTTP测速: http://222.214.208.34:59901/tsfile/live/0007_1.m3u8
+   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.54s | 阈值: 150KB/s
+[2026-05-30 06:53:06] ✅ 通过阈值 HTTP测速: http://221.226.51.220:50081/newlive/live/hls/5/live.m3u8
+   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.52s | 阈值: 150KB/s
+[2026-05-30 06:53:07] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.53s | 阈值: 150KB/s
+[2026-05-30 06:53:07] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/641886683
+   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.54s | 阈值: 150KB/s
+[2026-05-30 06:53:07] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/673168121
+   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.66s | 阈值: 150KB/s
+[2026-05-30 06:53:07] ✅ 通过阈值 HTTP测速: http://221.226.51.220:50081/newlive/live/hls/4/live.m3u8
+   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.52s | 阈值: 150KB/s
+[2026-05-30 06:53:07] ✅ 通过阈值 HTTP测速: http://113.25.252.226:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 422.85KB/s | 数据量: 0.4KB | 总耗时: 0.65s | 阈值: 150KB/s
+[2026-05-30 06:53:07] ❌ HTTP测速失败: http://101.66.199.183:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+   错误: HTTPConnectionPool(host='101.66.199.183', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.199.183
+[2026-05-30 06:53:08] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/641886683
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.43s | 阈值: 150KB/s
+[2026-05-30 06:53:08] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.53s | 阈值: 150KB/s
+[2026-05-30 06:53:08] ✅ 通过阈值 HTTP测速: http://101.6.130.52:1234/641886683
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.51s | 阈值: 150KB/s
+[2026-05-30 06:53:08] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/608807416
+   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.66s | 阈值: 150KB/s
+[2026-05-30 06:53:08] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/631780421
+   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.82s | 阈值: 150KB/s
+[2026-05-30 06:53:08] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/641886683
+   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.79s | 阈值: 150KB/s
+[2026-05-30 06:53:09] ✅ 通过阈值 HTTP测速: http://www.negative.top:50000/rtp/233.50.200.132:5140
+   速度: 400.40KB/s | 数据量: 2048.0KB | 总耗时: 5.94s | 阈值: 150KB/s
+[2026-05-30 06:53:09] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/631780421
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.38s | 阈值: 150KB/s
+[2026-05-30 06:53:09] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
+   速度: 201.17KB/s | 数据量: 0.2KB | 总耗时: 0.21s | 阈值: 150KB/s
+[2026-05-30 06:53:09] ✅ 通过阈值 HTTP测速: http://101.6.130.52:1234/631780421
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.47s | 阈值: 150KB/s
+[2026-05-30 06:53:09] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/608807419
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.56s | 阈值: 150KB/s
+[2026-05-30 06:53:09] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/631780421
+   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.44s | 阈值: 150KB/s
+[2026-05-30 06:53:09] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/631780421
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.40s | 阈值: 150KB/s
+[2026-05-30 06:53:10] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/608807419
+   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.55s | 阈值: 150KB/s
+[2026-05-30 06:53:10] ✅ 通过阈值 HTTP测速: http://27.12.12.31:1234/631780421
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.51s | 阈值: 150KB/s
+[2026-05-30 06:53:10] ✅ 通过阈值 HTTP测速: http://120.202.94.181:9446/tsfile/live/0004_1.m3u8?key=txiptv
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 0.44s | 阈值: 150KB/s
+[2026-05-30 06:53:10] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/631780421
+   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.52s | 阈值: 150KB/s
+[2026-05-30 06:53:10] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/608807419
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.36s | 阈值: 150KB/s
+[2026-05-30 06:53:10] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/10/index.m3u8
+   速度: 235.35KB/s | 数据量: 0.2KB | 总耗时: 0.53s | 阈值: 150KB/s
+[2026-05-30 06:53:10] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.49s | 阈值: 150KB/s
+[2026-05-30 06:53:10] ✅ 通过阈值 HTTP测速: http://120.202.94.181:9446/tsfile/live/0010_1.m3u8?key=txiptv
+   速度: 647.46KB/s | 数据量: 0.6KB | 总耗时: 0.46s | 阈值: 150KB/s
+[2026-05-30 06:53:10] ✅ 通过阈值 HTTP测速: http://101.6.130.52:1234/608807419
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.50s | 阈值: 150KB/s
+[2026-05-30 06:53:10] ✅ 通过阈值 HTTP测速: http://74.91.26.218:82/live/cctv10hd.m3u8
+   速度: 204.10KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:11] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/624878405
+   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.54s | 阈值: 150KB/s
+[2026-05-30 06:53:11] ✅ 通过阈值 HTTP测速: http://192.151.150.154/live/cctv10hd.m3u8
    速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
-[2026-05-29 21:44:34] ✅ 通过阈值 HTTP测速: http://cssbyd.imwork.net:8082/hls/31/index.m3u8
-   速度: 234.38KB/s | 数据量: 0.2KB | 总耗时: 1.16s | 阈值: 150KB/s
-[2026-05-29 21:44:34] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/32/index.m3u8
-   速度: 236.33KB/s | 数据量: 0.2KB | 总耗时: 0.45s | 阈值: 150KB/s
-[2026-05-29 21:44:34] ✅ 通过阈值 HTTP测速: http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
-   速度: 292.97KB/s | 数据量: 0.3KB | 总耗时: 2.09s | 阈值: 150KB/s
-[2026-05-29 21:44:34] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/haws.m3u8
-   速度: 373.05KB/s | 数据量: 0.4KB | 总耗时: 0.40s | 阈值: 150KB/s
-[2026-05-29 21:44:34] ✅ 通过阈值 HTTP测速: http://101.6.130.52:1234/790187291
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.25s | 阈值: 150KB/s
-[2026-05-29 21:44:34] ✅ 通过阈值 HTTP测速: http://1.94.31.214/php/hntv.php?id=hnws
-   速度: 348.63KB/s | 数据量: 0.3KB | 总耗时: 0.57s | 阈值: 150KB/s
-[2026-05-29 21:44:34] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/790187291
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.13s | 阈值: 150KB/s
-[2026-05-29 21:44:34] ✅ 通过阈值 HTTP测速: http://223.247.25.205:1234/947472502
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 2.26s | 阈值: 150KB/s
-[2026-05-29 21:44:35] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/947472500
-   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.44s | 阈值: 150KB/s
-[2026-05-29 21:44:35] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/790187291
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.11s | 阈值: 150KB/s
-[2026-05-29 21:44:35] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/790187291
-   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.35s | 阈值: 150KB/s
-[2026-05-29 21:44:35] ✅ 通过阈值 HTTP测速: http://192.151.150.154/live/jlwshd.m3u8
-   速度: 195.31KB/s | 数据量: 0.2KB | 总耗时: 0.15s | 阈值: 150KB/s
-[2026-05-29 21:44:35] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/38/index.m3u8
-   速度: 235.35KB/s | 数据量: 0.2KB | 总耗时: 0.43s | 阈值: 150KB/s
-[2026-05-29 21:44:35] ✅ 通过阈值 HTTP测速: http://107.150.60.122/live/jlwshd.m3u8
-   速度: 195.31KB/s | 数据量: 0.2KB | 总耗时: 0.15s | 阈值: 150KB/s
-[2026-05-29 21:44:35] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/947472500
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.21s | 阈值: 150KB/s
-[2026-05-29 21:44:35] ✅ 通过阈值 HTTP测速: http://113.25.252.226:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 422.85KB/s | 数据量: 0.4KB | 总耗时: 1.61s | 阈值: 150KB/s
-[2026-05-29 21:44:36] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/947472500
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.20s | 阈值: 150KB/s
-[2026-05-29 21:44:36] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/jlws.m3u8
-   速度: 382.81KB/s | 数据量: 0.4KB | 总耗时: 0.48s | 阈值: 150KB/s
-[2026-05-29 21:44:36] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/947472500
-   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.21s | 阈值: 150KB/s
-[2026-05-29 21:44:36] ✅ 通过阈值 HTTP测速: http://59.39.89.130:60901/tsfile/live/0125_19.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.53s | 阈值: 150KB/s
-[2026-05-29 21:44:36] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/623899368
-   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.44s | 阈值: 150KB/s
-[2026-05-29 21:44:36] ✅ 通过阈值 HTTP测速: http://223.247.25.205:1234/790187291
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 3.28s | 阈值: 150KB/s
-[2026-05-29 21:44:36] ❌ HTTP测速失败: http://58.17.116.69:9903/tsfile/live/0127_2.m3u8?key=txiptv&playlive=0&authid=0
-   错误: HTTPConnectionPool(host='58.17.116.69', port=9903): Max retries exceeded with url: /tsfile/live/0127_2.m3u8?key=txiptv&playlive=0&authid=0 (Caused by NewConnectionError("HTTPConnection(host='58.17.116.69', port=9903): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 58.17.116.69
-[2026-05-29 21:44:37] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/jsws.m3u8
-   速度: 169.92KB/s | 数据量: 0.2KB | 总耗时: 0.84s | 阈值: 150KB/s
-[2026-05-29 21:44:37] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/623899368
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.22s | 阈值: 150KB/s
-[2026-05-29 21:44:37] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/623899368
+[2026-05-30 06:53:11] ✅ 通过阈值 HTTP测速: http://183.223.157.123:85/tsfile/live/0010_1.m3u8?key=txiptv
+   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.56s | 阈值: 150KB/s
+[2026-05-30 06:53:11] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/608807419
+   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.56s | 阈值: 150KB/s
+[2026-05-30 06:53:11] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/608807416
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.48s | 阈值: 150KB/s
+[2026-05-30 06:53:11] ❌ HTTP测速失败: http://101.66.199.183:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+   错误: HTTPConnectionPool(host='101.66.199.183', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.199.183
+[2026-05-30 06:53:11] ❌ HTTP测速失败: http://101.66.199.101:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+   错误: HTTPConnectionPool(host='101.66.199.101', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.199.101
+[2026-05-30 06:53:11] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/624878440
+   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.57s | 阈值: 150KB/s
+[2026-05-30 06:53:11] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/624878405
+   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.60s | 阈值: 150KB/s
+[2026-05-30 06:53:11] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/624878405
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.52s | 阈值: 150KB/s
+[2026-05-30 06:53:11] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/624878405
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.37s | 阈值: 150KB/s
+[2026-05-30 06:53:12] ✅ 通过阈值 HTTP测速: http://192.151.150.154/live/cctv14hd.m3u8
+   速度: 204.10KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:12] ✅ 通过阈值 HTTP测速: http://120.202.94.181:9446/tsfile/live/0014_1.m3u8?key=txiptv
+   速度: 647.46KB/s | 数据量: 0.6KB | 总耗时: 0.44s | 阈值: 150KB/s
+[2026-05-30 06:53:12] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/624878405
+   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.41s | 阈值: 150KB/s
+[2026-05-30 06:53:12] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/13/index.m3u8
+   速度: 235.35KB/s | 数据量: 0.2KB | 总耗时: 0.52s | 阈值: 150KB/s
+[2026-05-30 06:53:12] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.50s | 阈值: 150KB/s
+[2026-05-30 06:53:12] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/631780532
+   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.65s | 阈值: 150KB/s
+[2026-05-30 06:53:12] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/624878440
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.39s | 阈值: 150KB/s
+[2026-05-30 06:53:12] ✅ 通过阈值 HTTP测速: http://107.150.60.122/live/cctv2hd.m3u8
+   速度: 197.27KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:12] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/624878440
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.38s | 阈值: 150KB/s
+[2026-05-30 06:53:12] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/624878440
+   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.43s | 阈值: 150KB/s
+[2026-05-30 06:53:13] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/2/index.m3u8
+   速度: 235.35KB/s | 数据量: 0.2KB | 总耗时: 0.52s | 阈值: 150KB/s
+[2026-05-30 06:53:13] ✅ 通过阈值 HTTP测速: http://222.214.208.34:59901/tsfile/live/0002_1.m3u8
+   速度: 408.20KB/s | 数据量: 0.4KB | 总耗时: 0.56s | 阈值: 150KB/s
+[2026-05-30 06:53:13] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/624878440
+   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.64s | 阈值: 150KB/s
+[2026-05-30 06:53:13] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/631780532
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.44s | 阈值: 150KB/s
+[2026-05-30 06:53:13] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/631780532
+   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.44s | 阈值: 150KB/s
+[2026-05-30 06:53:13] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/641886773
+   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.81s | 阈值: 150KB/s
+[2026-05-30 06:53:13] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/631780532
+   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.76s | 阈值: 150KB/s
+[2026-05-30 06:53:13] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/631780532
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.58s | 阈值: 150KB/s
+[2026-05-30 06:53:13] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.57s | 阈值: 150KB/s
+[2026-05-30 06:53:14] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/641886773
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.40s | 阈值: 150KB/s
+[2026-05-30 06:53:14] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.57s | 阈值: 150KB/s
+[2026-05-30 06:53:14] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/641886773
+   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.46s | 阈值: 150KB/s
+[2026-05-30 06:53:14] ✅ HTTPS测速成功: https://xykt-fix.github.io/play/a02e/index.m3u8
+   速度: 2456.05KB/s | 数据量: 2.5KB | 总耗时: 0.05s | 证书: 有效
+[2026-05-30 06:53:14] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/673168223
+   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.88s | 阈值: 150KB/s
+[2026-05-30 06:53:15] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/641886773
+   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.76s | 阈值: 150KB/s
+[2026-05-30 06:53:15] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/673168223
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.41s | 阈值: 150KB/s
+[2026-05-30 06:53:15] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/673168223
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.49s | 阈值: 150KB/s
+[2026-05-30 06:53:15] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/673168223
+   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.54s | 阈值: 150KB/s
+[2026-05-30 06:53:15] ✅ HTTPS测速成功: https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+   速度: 177.91KB/s | 数据量: 103.6KB | 总耗时: 1.64s | 证书: 有效
+[2026-05-30 06:53:16] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/673168223
+   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.62s | 阈值: 150KB/s
+[2026-05-30 06:53:16] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.73s | 阈值: 150KB/s
+[2026-05-30 06:53:16] ✅ 通过阈值 HTTP测速: http://27.12.12.31:1234/673168140
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.35s | 阈值: 150KB/s
+[2026-05-30 06:53:16] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/673168140
+   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.53s | 阈值: 150KB/s
+[2026-05-30 06:53:16] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/673168140
+   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.64s | 阈值: 150KB/s
+[2026-05-30 06:53:16] ✅ 通过阈值 HTTP测速: http://120.202.94.181:9446/tsfile/live/0009_1.m3u8?key=txiptv
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 0.44s | 阈值: 150KB/s
+[2026-05-30 06:53:16] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/673168140
+   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.50s | 阈值: 150KB/s
+[2026-05-30 06:53:16] ✅ 通过阈值 HTTP测速: http://222.223.41.27:8888/hls/9/index.m3u8
+   速度: 240.23KB/s | 数据量: 0.2KB | 总耗时: 0.58s | 阈值: 150KB/s
+[2026-05-30 06:53:16] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/673168140
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.39s | 阈值: 150KB/s
+[2026-05-30 06:53:16] ✅ 通过阈值 HTTP测速: http://222.223.41.27:8888/hls/8/index.m3u8
+   速度: 240.23KB/s | 数据量: 0.2KB | 总耗时: 0.55s | 阈值: 150KB/s
+[2026-05-30 06:53:17] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/8/index.m3u8
+   速度: 235.35KB/s | 数据量: 0.2KB | 总耗时: 0.52s | 阈值: 150KB/s
+[2026-05-30 06:53:17] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/624878356
+   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.61s | 阈值: 150KB/s
+[2026-05-30 06:53:17] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/673168140
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.47s | 阈值: 150KB/s
+[2026-05-30 06:53:17] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
+   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.21s | 阈值: 150KB/s
+[2026-05-30 06:53:17] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
+   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.21s | 阈值: 150KB/s
+[2026-05-30 06:53:17] ✅ 通过阈值 HTTP测速: http://183.11.239.36:808/hls/27/index.m3u8
+   速度: 227.54KB/s | 数据量: 0.2KB | 总耗时: 1.55s | 阈值: 150KB/s
+[2026-05-30 06:53:17] ✅ 通过阈值 HTTP测速: http://74.91.26.218:82/live/cctv8hd.m3u8
+   速度: 205.08KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:17] ❌ HTTP测速失败: http://101.66.199.101:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+   错误: HTTPConnectionPool(host='101.66.199.101', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.199.101
+[2026-05-30 06:53:18] ✅ 通过阈值 HTTP测速: http://27.12.12.31:1234/624878356
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.48s | 阈值: 150KB/s
+[2026-05-30 06:53:18] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/624878356
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.41s | 阈值: 150KB/s
+[2026-05-30 06:53:18] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/624878356
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.55s | 阈值: 150KB/s
+[2026-05-30 06:53:18] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/624878356
+   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.46s | 阈值: 150KB/s
+[2026-05-30 06:53:18] ✅ 通过阈值 HTTP测速: http://118.193.115.2:9901/tsfile/live/0008_1.m3u8?key=txiptv
+   速度: 408.20KB/s | 数据量: 0.4KB | 总耗时: 0.58s | 阈值: 150KB/s
+[2026-05-30 06:53:18] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.78s | 阈值: 150KB/s
+[2026-05-30 06:53:18] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/624878356
+   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.58s | 阈值: 150KB/s
+[2026-05-30 06:53:18] ✅ 通过阈值 HTTP测速: http://101.6.130.52:1234/624878356
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.49s | 阈值: 150KB/s
+[2026-05-30 06:53:18] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/673168256
+   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.67s | 阈值: 150KB/s
+[2026-05-30 06:53:18] ✅ 通过阈值 HTTP测速: http://192.151.150.154/live/sjdl.m3u8
+   速度: 188.48KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:18] ❌ HTTP测速失败: http://101.66.199.183:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+   错误: HTTPConnectionPool(host='101.66.199.183', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.199.183
+[2026-05-30 06:53:18] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+   速度: 188.48KB/s | 数据量: 0.2KB | 总耗时: 0.20s | 阈值: 150KB/s
+[2026-05-30 06:53:18] ✅ 通过阈值 HTTP测速: http://107.150.60.122/live/fyzq.m3u8
+   速度: 186.52KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:18] ✅ 通过阈值 HTTP测速: http://107.150.60.122/live/ysjp.m3u8
+   速度: 188.48KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:18] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/98/index.m3u8
+   速度: 235.35KB/s | 数据量: 0.2KB | 总耗时: 0.52s | 阈值: 150KB/s
+[2026-05-30 06:53:19] ✅ 通过阈值 HTTP测速: http://107.150.60.122/live/fyjc.m3u8
+   速度: 188.48KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:19] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
+   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.21s | 阈值: 150KB/s
+[2026-05-30 06:53:19] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+   速度: 186.52KB/s | 数据量: 0.2KB | 总耗时: 0.21s | 阈值: 150KB/s
+[2026-05-30 06:53:19] ✅ 通过阈值 HTTP测速: http://27.12.12.31:1234/673168256
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.41s | 阈值: 150KB/s
+[2026-05-30 06:53:19] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/673168256
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.43s | 阈值: 150KB/s
+[2026-05-30 06:53:19] ✅ 通过阈值 HTTP测速: http://192.151.150.154/live/dszn.m3u8
+   速度: 187.50KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:19] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/lgs.m3u8?auth=testpub
+   速度: 193.36KB/s | 数据量: 0.2KB | 总耗时: 0.21s | 阈值: 150KB/s
+[2026-05-30 06:53:19] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/fyjc.m3u8
+   速度: 382.81KB/s | 数据量: 0.4KB | 总耗时: 0.52s | 阈值: 150KB/s
+[2026-05-30 06:53:19] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/673168256
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.40s | 阈值: 150KB/s
+[2026-05-30 06:53:19] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+   速度: 188.48KB/s | 数据量: 0.2KB | 总耗时: 0.20s | 阈值: 150KB/s
+[2026-05-30 06:53:19] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/gefwq.m3u8
+   速度: 382.81KB/s | 数据量: 0.4KB | 总耗时: 0.87s | 阈值: 150KB/s
+[2026-05-30 06:53:19] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/673168256
+   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.50s | 阈值: 150KB/s
+[2026-05-30 06:53:19] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+   速度: 188.48KB/s | 数据量: 0.2KB | 总耗时: 0.20s | 阈值: 150KB/s
+[2026-05-30 06:53:19] ✅ HTTPS测速成功: https://xykt-fix.github.io/Y77.m3u8
+   速度: 1623.05KB/s | 数据量: 1.6KB | 总耗时: 0.05s | 证书: 有效
+[2026-05-30 06:53:19] ✅ 通过阈值 HTTP测速: http://107.150.60.122/live/cctv4k.m3u8
+   速度: 202.15KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:19] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+   速度: 188.48KB/s | 数据量: 0.2KB | 总耗时: 0.21s | 阈值: 150KB/s
+[2026-05-30 06:53:20] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/ystq.m3u8
+   速度: 383.79KB/s | 数据量: 0.4KB | 总耗时: 0.51s | 阈值: 150KB/s
+[2026-05-30 06:53:20] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/673168256
+   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.54s | 阈值: 150KB/s
+[2026-05-30 06:53:20] ✅ 通过阈值 HTTP测速: http://192.151.150.154/live/nxss.m3u8
+   速度: 188.48KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:20] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/608807416
+   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.54s | 阈值: 150KB/s
+[2026-05-30 06:53:20] ✅ 通过阈值 HTTP测速: http://192.151.150.154/live/cctv4k.m3u8
+   速度: 202.15KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:20] ✅ 通过阈值 HTTP测速: http://198.204.228.26/live/chcjt.m3u8
+   速度: 191.41KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:20] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
+   速度: 191.41KB/s | 数据量: 0.2KB | 总耗时: 0.21s | 阈值: 150KB/s
+[2026-05-30 06:53:20] ✅ 通过阈值 HTTP测速: http://192.151.150.154/live/chcdz.m3u8
+   速度: 195.31KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:20] ✅ 通过阈值 HTTP测速: http://198.204.228.26/live/chcdz.m3u8
+   速度: 195.31KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:20] ✅ 通过阈值 HTTP测速: http://107.150.60.122/live/fyyy.m3u8
+   速度: 163.09KB/s | 数据量: 0.2KB | 总耗时: 0.67s | 阈值: 150KB/s
+[2026-05-30 06:53:20] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/608807419
+   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.46s | 阈值: 150KB/s
+[2026-05-30 06:53:20] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/fyyy.m3u8
+   速度: 379.88KB/s | 数据量: 0.4KB | 总耗时: 0.60s | 阈值: 150KB/s
+[2026-05-30 06:53:20] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/dyjc.m3u8
+   速度: 167.97KB/s | 数据量: 0.2KB | 总耗时: 1.03s | 阈值: 150KB/s
+[2026-05-30 06:53:20] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
+   速度: 191.41KB/s | 数据量: 0.2KB | 总耗时: 0.20s | 阈值: 150KB/s
+[2026-05-30 06:53:20] ✅ 通过阈值 HTTP测速: http://192.151.150.154/live/chchd.m3u8
+   速度: 191.41KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:20] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/952383261
+   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.81s | 阈值: 150KB/s
+[2026-05-30 06:53:21] ✅ 通过阈值 HTTP测速: http://120.211.62.180:8000/hls/35/index.m3u8
+   速度: 235.35KB/s | 数据量: 0.2KB | 总耗时: 0.44s | 阈值: 150KB/s
+[2026-05-30 06:53:21] ✅ HTTPS测速成功: https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+   速度: 832.03KB/s | 数据量: 0.8KB | 总耗时: 0.52s | 证书: 有效
+[2026-05-30 06:53:21] ✅ HTTPS测速成功: https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001580/index.m3u8?streamid=87c13b6e841ed5039d4c2ce8f266f9ef&streamkey=0gNYRWDeQgJcsRRVxgX7CXzeeNfbK5b6jgfx2dUMMXpSOjJ6HaVTnXNZIvUs7ZjMVIipZGwSqsLBoB1csVGKjUersUPcVyHJvvzH9lv6u5pQ0BcM1SFtompQvPNMFD09b&token=1775754577-a16c17c5548559fa-0-23e1bb39b278d07d81f7441cf04c41ce
+   速度: 345.70KB/s | 数据量: 0.3KB | 总耗时: 0.40s | 证书: 有效
+[2026-05-30 06:53:21] ✅ 通过阈值 HTTP测速: http://101.6.130.52:1234/952383261
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.47s | 阈值: 150KB/s
+[2026-05-30 06:53:21] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/952383261
+   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.44s | 阈值: 150KB/s
+[2026-05-30 06:53:21] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.61s | 阈值: 150KB/s
+[2026-05-30 06:53:21] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/952383261
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.40s | 阈值: 150KB/s
+[2026-05-30 06:53:21] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/952383261
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.47s | 阈值: 150KB/s
+[2026-05-30 06:53:21] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/99/index.m3u8
+   速度: 236.33KB/s | 数据量: 0.2KB | 总耗时: 0.53s | 阈值: 150KB/s
+[2026-05-30 06:53:21] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/952383261
+   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.60s | 阈值: 150KB/s
+[2026-05-30 06:53:22] ✅ HTTPS测速成功: https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
+   速度: 1550.95KB/s | 数据量: 106.5KB | 总耗时: 0.58s | 证书: 有效
+[2026-05-30 06:53:22] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/20/index.m3u8
+   速度: 241.21KB/s | 数据量: 0.2KB | 总耗时: 0.53s | 阈值: 150KB/s
+[2026-05-30 06:53:22] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/630287636
+   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.53s | 阈值: 150KB/s
+[2026-05-30 06:53:22] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.50s | 阈值: 150KB/s
+[2026-05-30 06:53:22] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/956923145
+   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.80s | 阈值: 150KB/s
+[2026-05-30 06:53:23] ✅ 通过阈值 HTTP测速: http://27.12.12.31:1234/630287636
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.53s | 阈值: 150KB/s
+[2026-05-30 06:53:23] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/630287636
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.57s | 阈值: 150KB/s
+[2026-05-30 06:53:23] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/630287636
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.54s | 阈值: 150KB/s
+[2026-05-30 06:53:23] ✅ 通过阈值 HTTP测速: http://223.75.149.129:9906/tsfile/live/0122_1.m3u8?key=txiptv
+   速度: 641.60KB/s | 数据量: 0.6KB | 总耗时: 1.26s | 阈值: 150KB/s
+[2026-05-30 06:53:23] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/630287636
+   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.42s | 阈值: 150KB/s
+[2026-05-30 06:53:23] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/630287636
+   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.62s | 阈值: 150KB/s
+[2026-05-30 06:53:23] ✅ 通过阈值 HTTP测速: http://192.151.150.154/live/btws.m3u8
+   速度: 187.50KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:23] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/btws.m3u8?auth=testpub
+   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.21s | 阈值: 150KB/s
+[2026-05-30 06:53:23] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/956923145
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.49s | 阈值: 150KB/s
+[2026-05-30 06:53:23] ✅ HTTPS测速成功: https://liveout.xntv.tv/a65jur/96iln2.m3u8
+   速度: 265.62KB/s | 数据量: 0.3KB | 总耗时: 1.21s | 证书: 有效
+[2026-05-30 06:53:23] ✅ 通过阈值 HTTP测速: http://218.13.170.98:9901/tsfile/live/0115_1.m3u8
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.49s | 阈值: 150KB/s
+[2026-05-30 06:53:23] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/956923145
+   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.48s | 阈值: 150KB/s
+[2026-05-30 06:53:24] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/738910914
+   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.53s | 阈值: 150KB/s
+[2026-05-30 06:53:24] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/31/index.m3u8
+   速度: 235.35KB/s | 数据量: 0.2KB | 总耗时: 0.52s | 阈值: 150KB/s
+[2026-05-30 06:53:24] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.63s | 阈值: 150KB/s
+[2026-05-30 06:53:24] ✅ 通过阈值 HTTP测速: http://27.12.12.31:1234/956923145
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.40s | 阈值: 150KB/s
+[2026-05-30 06:53:24] ✅ 通过阈值 HTTP测速: http://221.226.51.220:50081/newlive/live/hls/28/live.m3u8
+   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.50s | 阈值: 150KB/s
+[2026-05-30 06:53:24] ✅ 通过阈值 HTTP测速: http://101.6.130.52:1234/956923145
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.50s | 阈值: 150KB/s
+[2026-05-30 06:53:24] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/956923145
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.53s | 阈值: 150KB/s
+[2026-05-30 06:53:24] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/956923145
+   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.59s | 阈值: 150KB/s
+[2026-05-30 06:53:25] ✅ 通过阈值 HTTP测速: http://101.6.130.52:1234/738910914
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.43s | 阈值: 150KB/s
+[2026-05-30 06:53:25] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/651632648
+   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.84s | 阈值: 150KB/s
+[2026-05-30 06:53:25] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.49s | 阈值: 150KB/s
+[2026-05-30 06:53:25] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/738910914
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.53s | 阈值: 150KB/s
+[2026-05-30 06:53:25] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/738910914
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.42s | 阈值: 150KB/s
+[2026-05-30 06:53:25] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/738910914
+   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.64s | 阈值: 150KB/s
+[2026-05-30 06:53:25] ✅ HTTPS测速成功: https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
+   速度: 8066.37KB/s | 数据量: 165.3KB | 总耗时: 0.16s | 证书: 有效
+[2026-05-30 06:53:25] 🚫 未达阈值 HTTP测速: http://27.12.12.31:1234/849116810
+   速度: 53.71KB/s | 数据量: 0.1KB | 总耗时: 0.53s | 阈值: 150KB/s
+[2026-05-30 06:53:25] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/651632648
+   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.58s | 阈值: 150KB/s
+[2026-05-30 06:53:25] 🚫 未达阈值 HTTP测速: http://47.104.178.59:3566/849116810
+   速度: 53.71KB/s | 数据量: 0.1KB | 总耗时: 0.51s | 阈值: 150KB/s
+[2026-05-30 06:53:25] 🚫 未达阈值 HTTP测速: http://8.135.27.147:1234/849116810
+   速度: 53.71KB/s | 数据量: 0.1KB | 总耗时: 0.51s | 阈值: 150KB/s
+[2026-05-30 06:53:26] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/651632648
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.36s | 阈值: 150KB/s
+[2026-05-30 06:53:26] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/651632648
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.44s | 阈值: 150KB/s
+[2026-05-30 06:53:26] 🚫 未达阈值 HTTP测速: http://119.118.88.58:7788/849116810
+   速度: 53.71KB/s | 数据量: 0.1KB | 总耗时: 0.54s | 阈值: 150KB/s
+[2026-05-30 06:53:26] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/21/index.m3u8
+   速度: 238.28KB/s | 数据量: 0.2KB | 总耗时: 0.51s | 阈值: 150KB/s
+[2026-05-30 06:53:26] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/608917627
+   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.53s | 阈值: 150KB/s
+[2026-05-30 06:53:26] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/651632648
+   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.59s | 阈值: 150KB/s
+[2026-05-30 06:53:26] ✅ 通过阈值 HTTP测速: http://218.206.193.218:8888/hls/67/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.42s | 阈值: 150KB/s
+[2026-05-30 06:53:26] ✅ 通过阈值 HTTP测速: http://221.7.175.154:8445/tsfile/live/1020_1.m3u8
+   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.51s | 阈值: 150KB/s
+[2026-05-30 06:53:26] ✅ 通过阈值 HTTP测速: http://122.152.202.33/s/81a8a44f/index.m3u8?id=15
+   速度: 187.50KB/s | 数据量: 0.2KB | 总耗时: 0.67s | 阈值: 150KB/s
+[2026-05-30 06:53:26] 🚫 未达阈值 HTTP测速: http://110.154.192.30:7788/849116810
+   速度: 53.71KB/s | 数据量: 0.1KB | 总耗时: 1.52s | 阈值: 150KB/s
+[2026-05-30 06:53:27] ✅ 通过阈值 HTTP测速: http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.57s | 阈值: 150KB/s
+[2026-05-30 06:53:27] ✅ 通过阈值 HTTP测速: http://183.237.95.108:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=0&authid=0
+   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.52s | 阈值: 150KB/s
+[2026-05-30 06:53:27] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/608917627
+   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.45s | 阈值: 150KB/s
+[2026-05-30 06:53:27] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/608917627
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.41s | 阈值: 150KB/s
+[2026-05-30 06:53:27] ✅ 通过阈值 HTTP测速: http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.52s | 阈值: 150KB/s
+[2026-05-30 06:53:27] ✅ 通过阈值 HTTP测速: http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 0.52s | 阈值: 150KB/s
+[2026-05-30 06:53:27] ✅ 通过阈值 HTTP测速: http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+   速度: 498.05KB/s | 数据量: 0.5KB | 总耗时: 2.21s | 阈值: 150KB/s
+[2026-05-30 06:53:27] ✅ 通过阈值 HTTP测速: http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.71s | 阈值: 150KB/s
+[2026-05-30 06:53:28] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/608831231
+   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.53s | 阈值: 150KB/s
+[2026-05-30 06:53:28] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/849119120
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.39s | 阈值: 150KB/s
+[2026-05-30 06:53:28] ✅ HTTPS测速成功: https://gcalic.v.myalicdn.com/gc/fhgcdgm_1/index.m3u8
+   速度: 324.22KB/s | 数据量: 0.3KB | 总耗时: 1.20s | 证书: 有效
+[2026-05-30 06:53:28] ✅ HTTPS测速成功: https://gcalic.v.myalicdn.com/gc/fhgcdnhs_1/index.m3u8
+   速度: 340.82KB/s | 数据量: 0.3KB | 总耗时: 1.24s | 证书: 有效
+[2026-05-30 06:53:28] ✅ 通过阈值 HTTP测速: http://14.153.176.89:1234/849119120
+   速度: 644.53KB/s | 数据量: 0.6KB | 总耗时: 1.36s | 阈值: 150KB/s
+[2026-05-30 06:53:28] ✅ 通过阈值 HTTP测速: http://192.151.150.154/live/gswshd.m3u8
+   速度: 188.48KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:29] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.49s | 阈值: 150KB/s
+[2026-05-30 06:53:29] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/849119120
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.42s | 阈值: 150KB/s
+[2026-05-30 06:53:29] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/608831231
+   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.46s | 阈值: 150KB/s
+[2026-05-30 06:53:29] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/gsws.m3u8
+   速度: 383.79KB/s | 数据量: 0.4KB | 总耗时: 0.51s | 阈值: 150KB/s
+[2026-05-30 06:53:29] ✅ 通过阈值 HTTP测速: http://113.25.252.226:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 422.85KB/s | 数据量: 0.4KB | 总耗时: 0.74s | 阈值: 150KB/s
+[2026-05-30 06:53:29] ✅ 通过阈值 HTTP测速: http://101.6.130.52:1234/608831231
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.57s | 阈值: 150KB/s
+[2026-05-30 06:53:30] ✅ HTTPS测速成功: https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
+   速度: 179.69KB/s | 数据量: 0.2KB | 总耗时: 0.31s | 证书: 有效
+[2026-05-30 06:53:30] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/608831231
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.45s | 阈值: 150KB/s
+[2026-05-30 06:53:30] ✅ HTTPS测速成功: https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
+   速度: 179.69KB/s | 数据量: 0.2KB | 总耗时: 0.59s | 证书: 有效
+[2026-05-30 06:53:30] ✅ 通过阈值 HTTP测速: http://120.202.94.181:9446/tsfile/live/0132_1.m3u8?key=txiptv
+   速度: 652.34KB/s | 数据量: 0.7KB | 总耗时: 0.45s | 阈值: 150KB/s
+[2026-05-30 06:53:30] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/29/index.m3u8
+   速度: 236.33KB/s | 数据量: 0.2KB | 总耗时: 0.52s | 阈值: 150KB/s
+[2026-05-30 06:53:30] ✅ 通过阈值 HTTP测速: http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.90s | 阈值: 150KB/s
+[2026-05-30 06:53:30] ✅ 通过阈值 HTTP测速: http://cssbyd.imwork.net:8082/hls/48/index.m3u8
+   速度: 234.38KB/s | 数据量: 0.2KB | 总耗时: 1.85s | 阈值: 150KB/s
+[2026-05-30 06:53:31] ✅ HTTPS测速成功: https://gd202.tv1288.xyz/tsfile/live/1023_1.m3u8
+   速度: 647.46KB/s | 数据量: 0.6KB | 总耗时: 1.06s | 证书: 有效
+[2026-05-30 06:53:31] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
+   速度: 188.48KB/s | 数据量: 0.2KB | 总耗时: 0.21s | 阈值: 150KB/s
+[2026-05-30 06:53:31] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/947472496
+   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.85s | 阈值: 150KB/s
+[2026-05-30 06:53:31] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/947472496
+   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.61s | 阈值: 150KB/s
+[2026-05-30 06:53:32] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/947472496
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.47s | 阈值: 150KB/s
+[2026-05-30 06:53:32] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/947472496
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.42s | 阈值: 150KB/s
+[2026-05-30 06:53:32] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/hbws.m3u8
+   速度: 167.97KB/s | 数据量: 0.2KB | 总耗时: 1.03s | 阈值: 150KB/s
+[2026-05-30 06:53:32] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/947472496
+   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.57s | 阈值: 150KB/s
+[2026-05-30 06:53:32] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.57s | 阈值: 150KB/s
+[2026-05-30 06:53:32] ✅ 通过阈值 HTTP测速: http://101.6.130.52:1234/947472496
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.41s | 阈值: 150KB/s
+[2026-05-30 06:53:32] ✅ 通过阈值 HTTP测速: http://59.39.89.130:60901/tsfile/live/0125_12.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.65s | 阈值: 150KB/s
+[2026-05-30 06:53:32] ✅ 通过阈值 HTTP测速: http://118.193.115.2:9901/tsfile/live/0132_1.m3u8?key=txiptv
+   速度: 417.97KB/s | 数据量: 0.4KB | 总耗时: 0.54s | 阈值: 150KB/s
+[2026-05-30 06:53:32] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/16/index.m3u8
+   速度: 235.35KB/s | 数据量: 0.2KB | 总耗时: 0.51s | 阈值: 150KB/s
+[2026-05-30 06:53:32] ✅ 通过阈值 HTTP测速: http://115.44.140.170:18180/TV00000000000000000024@HHZT
+   速度: 508.29KB/s | 数据量: 3072.0KB | 总耗时: 6.57s | 阈值: 150KB/s
+[2026-05-30 06:53:32] ✅ 通过阈值 HTTP测速: http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
+   速度: 383.79KB/s | 数据量: 0.4KB | 总耗时: 0.57s | 阈值: 150KB/s
+[2026-05-30 06:53:33] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.50s | 阈值: 150KB/s
+[2026-05-30 06:53:33] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/962042070
+   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.63s | 阈值: 150KB/s
+[2026-05-30 06:53:33] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.50s | 阈值: 150KB/s
+[2026-05-30 06:53:33] ✅ 通过阈值 HTTP测速: http://198.204.228.26/live/hljwshd.m3u8
+   速度: 199.22KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:33] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
+   速度: 190.43KB/s | 数据量: 0.2KB | 总耗时: 0.20s | 阈值: 150KB/s
+[2026-05-30 06:53:33] ✅ 通过阈值 HTTP测速: http://221.226.51.220:50081/newlive/live/hls/31/live.m3u8
+   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.51s | 阈值: 150KB/s
+[2026-05-30 06:53:33] ✅ 通过阈值 HTTP测速: http://192.151.150.154/live/hljwshd.m3u8
+   速度: 190.43KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:33] ✅ 通过阈值 HTTP测速: http://27.12.12.31:1234/962042070
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.41s | 阈值: 150KB/s
+[2026-05-30 06:53:33] ✅ HTTPS测速成功: https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
+   速度: 199925.99KB/s | 数据量: 1000448.0KB | 总耗时: 5.06s | 证书: 有效
+[2026-05-30 06:53:34] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/27/index.m3u8
+   速度: 235.35KB/s | 数据量: 0.2KB | 总耗时: 0.51s | 阈值: 150KB/s
+[2026-05-30 06:53:34] ✅ 通过阈值 HTTP测速: http://118.193.115.2:9901/tsfile/live/0117_1.m3u8?key=txiptv
+   速度: 417.97KB/s | 数据量: 0.4KB | 总耗时: 1.20s | 阈值: 150KB/s
+[2026-05-30 06:53:34] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/962042070
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.43s | 阈值: 150KB/s
+[2026-05-30 06:53:34] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
+   速度: 186.52KB/s | 数据量: 0.2KB | 总耗时: 0.21s | 阈值: 150KB/s
+[2026-05-30 06:53:34] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.48s | 阈值: 150KB/s
+[2026-05-30 06:53:34] ✅ 通过阈值 HTTP测速: http://223.75.149.129:9906/tsfile/live/0143_1.m3u8?key=txiptv
+   速度: 641.60KB/s | 数据量: 0.6KB | 总耗时: 0.63s | 阈值: 150KB/s
+[2026-05-30 06:53:34] ✅ 通过阈值 HTTP测速: http://115.44.140.170:18180/TV00000000000000000009@HHZT
+   速度: 459.68KB/s | 数据量: 3072.0KB | 总耗时: 7.20s | 阈值: 150KB/s
+[2026-05-30 06:53:34] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/17/index.m3u8
+   速度: 235.35KB/s | 数据量: 0.2KB | 总耗时: 0.52s | 阈值: 150KB/s
+[2026-05-30 06:53:34] ✅ 通过阈值 HTTP测速: http://222.214.208.34:59901/tsfile/live/0128_1.m3u8
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.56s | 阈值: 150KB/s
+[2026-05-30 06:53:34] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.50s | 阈值: 150KB/s
+[2026-05-30 06:53:34] ✅ 通过阈值 HTTP测速: http://115.44.140.170:18180/TV00000000000000000008@HHZT
+   速度: 421.42KB/s | 数据量: 3072.0KB | 总耗时: 7.81s | 阈值: 150KB/s
+[2026-05-30 06:53:34] ✅ 通过阈值 HTTP测速: http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
+   速度: 1969.73KB/s | 数据量: 2.0KB | 总耗时: 0.12s | 阈值: 150KB/s
+[2026-05-30 06:53:34] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/947472502
+   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.54s | 阈值: 150KB/s
+[2026-05-30 06:53:35] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/790187291
+   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.53s | 阈值: 150KB/s
+[2026-05-30 06:53:35] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/32/index.m3u8
+   速度: 236.33KB/s | 数据量: 0.2KB | 总耗时: 0.52s | 阈值: 150KB/s
+[2026-05-30 06:53:35] ✅ 通过阈值 HTTP测速: http://36.32.174.67:60080/newlive/live/hls/46/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.89s | 阈值: 150KB/s
+[2026-05-30 06:53:35] ✅ 通过阈值 HTTP测速: http://198.204.228.26/live/hawshd.m3u8
+   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:35] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/lyws.m3u8
+   速度: 168.95KB/s | 数据量: 0.2KB | 总耗时: 1.01s | 阈值: 150KB/s
+[2026-05-30 06:53:35] ✅ 通过阈值 HTTP测速: http://192.151.150.154/live/hawshd.m3u8
+   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:35] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/947472502
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.48s | 阈值: 150KB/s
+[2026-05-30 06:53:35] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/haws.m3u8
+   速度: 378.91KB/s | 数据量: 0.4KB | 总耗时: 0.51s | 阈值: 150KB/s
+[2026-05-30 06:53:36] ✅ 通过阈值 HTTP测速: http://cssbyd.imwork.net:8082/hls/31/index.m3u8
+   速度: 234.38KB/s | 数据量: 0.2KB | 总耗时: 1.59s | 阈值: 150KB/s
+[2026-05-30 06:53:36] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/790187291
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.46s | 阈值: 150KB/s
+[2026-05-30 06:53:36] ✅ 通过阈值 HTTP测速: http://101.6.130.52:1234/790187291
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.56s | 阈值: 150KB/s
+[2026-05-30 06:53:36] ✅ 通过阈值 HTTP测速: http://113.25.252.226:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 422.85KB/s | 数据量: 0.4KB | 总耗时: 0.58s | 阈值: 150KB/s
+[2026-05-30 06:53:36] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/947472500
+   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.54s | 阈值: 150KB/s
+[2026-05-30 06:53:36] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/790187291
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.40s | 阈值: 150KB/s
+[2026-05-30 06:53:36] ✅ 通过阈值 HTTP测速: http://1.94.31.214/php/hntv.php?id=hnws
+   速度: 349.61KB/s | 数据量: 0.3KB | 总耗时: 1.60s | 阈值: 150KB/s
+[2026-05-30 06:53:37] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/790187291
+   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.65s | 阈值: 150KB/s
+[2026-05-30 06:53:37] ✅ 通过阈值 HTTP测速: http://192.151.150.154/live/jlwshd.m3u8
+   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:37] ✅ 通过阈值 HTTP测速: http://107.150.60.122/live/jlwshd.m3u8
+   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.17s | 阈值: 150KB/s
+[2026-05-30 06:53:37] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/38/index.m3u8
+   速度: 235.35KB/s | 数据量: 0.2KB | 总耗时: 0.51s | 阈值: 150KB/s
+[2026-05-30 06:53:37] ✅ 通过阈值 HTTP测速: http://101.6.130.52:1234/947472500
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.50s | 阈值: 150KB/s
+[2026-05-30 06:53:37] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/jlws.m3u8
+   速度: 381.84KB/s | 数据量: 0.4KB | 总耗时: 0.60s | 阈值: 150KB/s
+[2026-05-30 06:53:37] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/947472500
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.42s | 阈值: 150KB/s
+[2026-05-30 06:53:37] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/947472500
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.38s | 阈值: 150KB/s
+[2026-05-30 06:53:38] ❌ HTTP测速失败: http://101.66.199.183:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
+   错误: HTTPConnectionPool(host='101.66.199.183', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.199.183
+[2026-05-30 06:53:38] ✅ 通过阈值 HTTP测速: http://cssbyd.imwork.net:8082/hls/41/index.m3u8
+   速度: 234.38KB/s | 数据量: 0.2KB | 总耗时: 1.86s | 阈值: 150KB/s
+[2026-05-30 06:53:38] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/947472500
+   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.57s | 阈值: 150KB/s
+[2026-05-30 06:53:38] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/623899368
+   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.52s | 阈值: 150KB/s
+[2026-05-30 06:53:38] ✅ 通过阈值 HTTP测速: http://59.39.89.130:60901/tsfile/live/0125_19.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 1.38s | 阈值: 150KB/s
+[2026-05-30 06:53:38] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/623899368
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.41s | 阈值: 150KB/s
+[2026-05-30 06:53:38] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/jsws.m3u8
+   速度: 168.95KB/s | 数据量: 0.2KB | 总耗时: 1.05s | 阈值: 150KB/s
+[2026-05-30 06:53:38] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/623899368
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.44s | 阈值: 150KB/s
+[2026-05-30 06:53:39] ✅ 通过阈值 HTTP测速: http://222.214.208.34:59901/tsfile/live/0138_1.m3u8
+   速度: 417.97KB/s | 数据量: 0.4KB | 总耗时: 0.55s | 阈值: 150KB/s
+[2026-05-30 06:53:39] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/623899368
+   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.55s | 阈值: 150KB/s
+[2026-05-30 06:53:39] ✅ 通过阈值 HTTP测速: http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+   速度: 292.97KB/s | 数据量: 0.3KB | 总耗时: 5.45s | 阈值: 150KB/s
+[2026-05-30 06:53:39] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/783847495
+   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.54s | 阈值: 150KB/s
+[2026-05-30 06:53:39] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/623899368
+   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.46s | 阈值: 150KB/s
+[2026-05-30 06:53:39] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/783847495
+   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.47s | 阈值: 150KB/s
+[2026-05-30 06:53:39] ✅ 通过阈值 HTTP测速: http://27.12.12.31:1234/783847495
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.36s | 阈值: 150KB/s
+[2026-05-30 06:53:39] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/783847495
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.53s | 阈值: 150KB/s
+[2026-05-30 06:53:39] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.51s | 阈值: 150KB/s
+[2026-05-30 06:53:40] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/630291707
+   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.53s | 阈值: 150KB/s
+[2026-05-30 06:53:40] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/28/index.m3u8
+   速度: 235.35KB/s | 数据量: 0.2KB | 总耗时: 0.52s | 阈值: 150KB/s
+[2026-05-30 06:53:40] ✅ 通过阈值 HTTP测速: http://198.204.228.26/live/lnwshd.m3u8
+   速度: 186.52KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:40] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/783847495
+   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.53s | 阈值: 150KB/s
+[2026-05-30 06:53:40] ✅ 通过阈值 HTTP测速: http://101.6.130.52:1234/783847495
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.51s | 阈值: 150KB/s
+[2026-05-30 06:53:40] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/783847495
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.49s | 阈值: 150KB/s
+[2026-05-30 06:53:40] 🚫 未达阈值 HTTP测速: http://8.138.7.223/%E3%80%90%E5%85%AC%E4%BC%97%E5%8F%B7%EF%BC%9A%E6%A6%B4%E8%8A%92%E7%94%B5%E8%A7%86%E3%80%91/%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86.m3u8
+   速度: 118.16KB/s | 数据量: 0.1KB | 总耗时: 0.50s | 阈值: 150KB/s
+[2026-05-30 06:53:40] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/630291707
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.47s | 阈值: 150KB/s
+[2026-05-30 06:53:40] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/630291707
+   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.55s | 阈值: 150KB/s
+[2026-05-30 06:53:40] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/nmgws.m3u8?auth=testpub
+   速度: 187.50KB/s | 数据量: 0.2KB | 总耗时: 0.20s | 阈值: 150KB/s
+[2026-05-30 06:53:41] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/630291707
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.39s | 阈值: 150KB/s
+[2026-05-30 06:53:41] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/630291707
+   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.58s | 阈值: 150KB/s
+[2026-05-30 06:53:41] ✅ 通过阈值 HTTP测速: http://112.27.235.94:8000/hls/49/index.m3u8
+   速度: 240.23KB/s | 数据量: 0.2KB | 总耗时: 0.43s | 阈值: 150KB/s
+[2026-05-30 06:53:41] ✅ 通过阈值 HTTP测速: http://101.6.130.52:1234/630291707
    速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.59s | 阈值: 150KB/s
-[2026-05-29 21:44:37] 🚫 未达阈值 HTTP测速: http://115.44.140.170:18180/TV00000000000000000024@HHZT
-   速度: 58.73KB/s | 数据量: 1024.0KB | 总耗时: 17.86s | 阈值: 150KB/s
-[2026-05-29 21:44:37] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/623899368
-   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.37s | 阈值: 150KB/s
-[2026-05-29 21:44:37] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/623899368
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.22s | 阈值: 150KB/s
-[2026-05-29 21:44:37] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/783847495
-   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.44s | 阈值: 150KB/s
-[2026-05-29 21:44:38] ✅ 通过阈值 HTTP测速: http://101.6.130.52:1234/947472500
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 3.70s | 阈值: 150KB/s
-[2026-05-29 21:44:38] ✅ 通过阈值 HTTP测速: http://27.12.12.31:1234/783847495
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.10s | 阈值: 150KB/s
-[2026-05-29 21:44:38] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/783847495
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.81s | 阈值: 150KB/s
-[2026-05-29 21:44:38] ✅ 通过阈值 HTTP测速: http://222.214.208.34:59901/tsfile/live/0138_1.m3u8
-   速度: 417.97KB/s | 数据量: 0.4KB | 总耗时: 1.47s | 阈值: 150KB/s
-[2026-05-29 21:44:38] ❌ HTTP测速失败: http://58.17.116.69:9903/tsfile/live/0121_2.m3u8?key=txiptv&playlive=0&authid=0
-   错误: HTTPConnectionPool(host='58.17.116.69', port=9903): Max retries exceeded with url: /tsfile/live/0121_2.m3u8?key=txiptv&playlive=0&authid=0 (Caused by NewConnectionError("HTTPConnection(host='58.17.116.69', port=9903): Failed to establish a new connection: [Errno 111] Connection refused")) | 域名: 58.17.116.69
-[2026-05-29 21:44:39] ✅ 通过阈值 HTTP测速: http://223.247.25.205:1234/623899368
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 3.24s | 阈值: 150KB/s
-[2026-05-29 21:44:39] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.89s | 阈值: 150KB/s
-[2026-05-29 21:44:39] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/783847495
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.10s | 阈值: 150KB/s
-[2026-05-29 21:44:39] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/630291707
-   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.45s | 阈值: 150KB/s
-[2026-05-29 21:44:39] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/28/index.m3u8
-   速度: 235.35KB/s | 数据量: 0.2KB | 总耗时: 0.43s | 阈值: 150KB/s
-[2026-05-29 21:44:40] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/783847495
-   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 2.26s | 阈值: 150KB/s
-[2026-05-29 21:44:40] ✅ 通过阈值 HTTP测速: http://101.6.130.52:1234/783847495
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 2.27s | 阈值: 150KB/s
-[2026-05-29 21:44:40] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/630291707
-   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.27s | 阈值: 150KB/s
-[2026-05-29 21:44:40] ✅ 通过阈值 HTTP测速: http://cssbyd.imwork.net:8082/hls/41/index.m3u8
-   速度: 234.38KB/s | 数据量: 0.2KB | 总耗时: 5.64s | 阈值: 150KB/s
-[2026-05-29 21:44:40] ✅ 通过阈值 HTTP测速: http://198.204.228.26/live/lnwshd.m3u8
-   速度: 191.41KB/s | 数据量: 0.2KB | 总耗时: 0.15s | 阈值: 150KB/s
-[2026-05-29 21:44:40] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/783847495
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 3.29s | 阈值: 150KB/s
-[2026-05-29 21:44:40] ❌ HTTP测速失败: http://223.247.25.205:1234/783847495
-   错误: HTTPConnectionPool(host='223.247.25.205', port=1234): Max retries exceeded with url: /783847495 (Caused by ConnectTimeoutError(<HTTPConnection(host='223.247.25.205', port=1234) at 0x7ff2e90a29c0>, 'Connection to 223.247.25.205 timed out. (connect timeout=3.05)')) | 域名: 223.247.25.205
-[2026-05-29 21:44:40] ✅ 通过阈值 HTTP测速: http://101.66.199.183:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 2868.16KB/s | 数据量: 2.9KB | 总耗时: 0.40s | 阈值: 150KB/s
-[2026-05-29 21:44:40] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/630291707
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.24s | 阈值: 150KB/s
-[2026-05-29 21:44:40] 🚫 未达阈值 HTTP测速: http://8.138.7.223/%E3%80%90%E5%85%AC%E4%BC%97%E5%8F%B7%EF%BC%9A%E6%A6%B4%E8%8A%92%E7%94%B5%E8%A7%86%E3%80%91/%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86.m3u8
-   速度: 118.16KB/s | 数据量: 0.1KB | 总耗时: 0.40s | 阈值: 150KB/s
-[2026-05-29 21:44:40] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/630291707
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.14s | 阈值: 150KB/s
-[2026-05-29 21:44:40] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/nmgws.m3u8?auth=testpub
-   速度: 191.41KB/s | 数据量: 0.2KB | 总耗时: 0.10s | 阈值: 150KB/s
-[2026-05-29 21:44:40] ✅ 通过阈值 HTTP测速: http://112.27.235.94:8000/hls/49/index.m3u8
-   速度: 240.23KB/s | 数据量: 0.2KB | 总耗时: 0.31s | 阈值: 150KB/s
-[2026-05-29 21:44:41] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/738910535
-   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.44s | 阈值: 150KB/s
-[2026-05-29 21:44:41] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/630291707
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 2.27s | 阈值: 150KB/s
-[2026-05-29 21:44:41] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/nmgws.m3u8
-   速度: 381.84KB/s | 数据量: 0.4KB | 总耗时: 0.73s | 阈值: 150KB/s
-[2026-05-29 21:44:41] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
-   速度: 195.31KB/s | 数据量: 0.2KB | 总耗时: 0.09s | 阈值: 150KB/s
-[2026-05-29 21:44:41] ✅ 通过阈值 HTTP测速: http://198.204.228.26/live/nxws.m3u8
-   速度: 195.31KB/s | 数据量: 0.2KB | 总耗时: 0.15s | 阈值: 150KB/s
-[2026-05-29 21:44:41] ✅ 通过阈值 HTTP测速: http://107.150.60.122/live/nxws.m3u8
-   速度: 195.31KB/s | 数据量: 0.2KB | 总耗时: 0.15s | 阈值: 150KB/s
-[2026-05-29 21:44:41] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/956904896
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.08s | 阈值: 150KB/s
-[2026-05-29 21:44:41] ✅ 通过阈值 HTTP测速: http://101.6.130.52:1234/956904896
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.14s | 阈值: 150KB/s
-[2026-05-29 21:44:41] ✅ 通过阈值 HTTP测速: http://192.151.150.154/live/nxws.m3u8
-   速度: 195.31KB/s | 数据量: 0.2KB | 总耗时: 0.15s | 阈值: 150KB/s
-[2026-05-29 21:44:41] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/nxws.m3u8
-   速度: 377.93KB/s | 数据量: 0.4KB | 总耗时: 0.53s | 阈值: 150KB/s
-[2026-05-29 21:44:41] ✅ 通过阈值 HTTP测速: http://101.6.130.52:1234/630291707
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 2.14s | 阈值: 150KB/s
-[2026-05-29 21:44:41] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/947472506
-   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.45s | 阈值: 150KB/s
-[2026-05-29 21:44:42] ✅ 通过阈值 HTTP测速: http://192.151.150.154/live/qhws.m3u8
-   速度: 186.52KB/s | 数据量: 0.2KB | 总耗时: 0.15s | 阈值: 150KB/s
-[2026-05-29 21:44:42] ✅ 通过阈值 HTTP测速: http://198.204.228.26/live/qhws.m3u8
-   速度: 186.52KB/s | 数据量: 0.2KB | 总耗时: 0.15s | 阈值: 150KB/s
-[2026-05-29 21:44:42] ✅ 通过阈值 HTTP测速: http://36.32.174.67:60080/newlive/live/hls/49/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.81s | 阈值: 150KB/s
-[2026-05-29 21:44:42] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/738910535
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.78s | 阈值: 150KB/s
-[2026-05-29 21:44:42] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/947472506
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.11s | 阈值: 150KB/s
-[2026-05-29 21:44:42] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/qhws.m3u8
-   速度: 378.91KB/s | 数据量: 0.4KB | 总耗时: 0.49s | 阈值: 150KB/s
-[2026-05-29 21:44:42] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/738910535
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.73s | 阈值: 150KB/s
-[2026-05-29 21:44:42] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/956904896
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 2.26s | 阈值: 150KB/s
-[2026-05-29 21:44:42] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
-   速度: 186.52KB/s | 数据量: 0.2KB | 总耗时: 0.10s | 阈值: 150KB/s
-[2026-05-29 21:44:42] ✅ 通过阈值 HTTP测速: http://113.25.252.226:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 422.85KB/s | 数据量: 0.4KB | 总耗时: 0.45s | 阈值: 150KB/s
-[2026-05-29 21:44:43] ✅ 通过阈值 HTTP测速: http://107.150.60.122/live/scwshd.m3u8
-   速度: 185.55KB/s | 数据量: 0.2KB | 总耗时: 0.14s | 阈值: 150KB/s
-[2026-05-29 21:44:43] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/30/index.m3u8
-   速度: 235.35KB/s | 数据量: 0.2KB | 总耗时: 0.43s | 阈值: 150KB/s
-[2026-05-29 21:44:43] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/scws.m3u8
-   速度: 377.93KB/s | 数据量: 0.4KB | 总耗时: 0.49s | 阈值: 150KB/s
-[2026-05-29 21:44:43] ✅ 通过阈值 HTTP测速: http://27.12.12.31:1234/947472506
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.21s | 阈值: 150KB/s
-[2026-05-29 21:44:43] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/738910535
-   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 2.17s | 阈值: 150KB/s
-[2026-05-29 21:44:43] ✅ 通过阈值 HTTP测速: http://59.39.89.130:60901/tsfile/live/0125_16.m3u8?key=txiptv&playlive=1&authid=0
+[2026-05-30 06:53:41] ✅ 通过阈值 HTTP测速: http://198.204.228.26/live/nxws.m3u8
+   速度: 195.31KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:41] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
+   速度: 195.31KB/s | 数据量: 0.2KB | 总耗时: 0.20s | 阈值: 150KB/s
+[2026-05-30 06:53:41] ✅ 通过阈值 HTTP测速: http://107.150.60.122/live/nxws.m3u8
+   速度: 195.31KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:41] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/738910535
+   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.56s | 阈值: 150KB/s
+[2026-05-30 06:53:41] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/nmgws.m3u8
+   速度: 376.95KB/s | 数据量: 0.4KB | 总耗时: 0.92s | 阈值: 150KB/s
+[2026-05-30 06:53:41] ✅ 通过阈值 HTTP测速: http://192.151.150.154/live/nxws.m3u8
+   速度: 195.31KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:41] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/956904896
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.44s | 阈值: 150KB/s
+[2026-05-30 06:53:41] ✅ 通过阈值 HTTP测速: http://101.6.130.52:1234/956904896
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.55s | 阈值: 150KB/s
+[2026-05-30 06:53:42] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/947472506
+   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.53s | 阈值: 150KB/s
+[2026-05-30 06:53:42] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/956904896
+   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.57s | 阈值: 150KB/s
+[2026-05-30 06:53:42] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/738910535
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.43s | 阈值: 150KB/s
+[2026-05-30 06:53:42] ✅ 通过阈值 HTTP测速: http://192.151.150.154/live/qhws.m3u8
+   速度: 185.55KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:42] ✅ 通过阈值 HTTP测速: http://198.204.228.26/live/qhws.m3u8
+   速度: 185.55KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:42] ✅ 通过阈值 HTTP测速: http://36.32.174.67:60080/newlive/live/hls/49/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.91s | 阈值: 150KB/s
+[2026-05-30 06:53:42] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/nxws.m3u8
+   速度: 167.97KB/s | 数据量: 0.2KB | 总耗时: 1.04s | 阈值: 150KB/s
+[2026-05-30 06:53:42] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/738910535
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.55s | 阈值: 150KB/s
+[2026-05-30 06:53:42] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
+   速度: 187.50KB/s | 数据量: 0.2KB | 总耗时: 0.21s | 阈值: 150KB/s
+[2026-05-30 06:53:42] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/qhws.m3u8
+   速度: 377.93KB/s | 数据量: 0.4KB | 总耗时: 0.60s | 阈值: 150KB/s
+[2026-05-30 06:53:43] ✅ 通过阈值 HTTP测速: http://113.25.252.226:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 422.85KB/s | 数据量: 0.4KB | 总耗时: 0.72s | 阈值: 150KB/s
+[2026-05-30 06:53:43] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/30/index.m3u8
+   速度: 235.35KB/s | 数据量: 0.2KB | 总耗时: 0.52s | 阈值: 150KB/s
+[2026-05-30 06:53:43] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/738910535
+   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.65s | 阈值: 150KB/s
+[2026-05-30 06:53:43] ✅ 通过阈值 HTTP测速: http://107.150.60.122/live/scwshd.m3u8
+   速度: 186.52KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:43] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.49s | 阈值: 150KB/s
+[2026-05-30 06:53:43] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/947472506
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.48s | 阈值: 150KB/s
+[2026-05-30 06:53:43] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/947472506
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.48s | 阈值: 150KB/s
+[2026-05-30 06:53:43] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/scws.m3u8
+   速度: 377.93KB/s | 数据量: 0.4KB | 总耗时: 0.51s | 阈值: 150KB/s
+[2026-05-30 06:53:43] ✅ 通过阈值 HTTP测速: http://27.12.12.31:1234/947472506
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.37s | 阈值: 150KB/s
+[2026-05-30 06:53:43] ✅ 通过阈值 HTTP测速: http://59.39.89.130:60901/tsfile/live/0125_16.m3u8?key=txiptv&playlive=1&authid=0
    速度: 422.85KB/s | 数据量: 0.4KB | 总耗时: 0.62s | 阈值: 150KB/s
-[2026-05-29 21:44:43] ✅ 通过阈值 HTTP测速: http://116.128.243.121:9905/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.92s | 阈值: 150KB/s
-[2026-05-29 21:44:43] ✅ 通过阈值 HTTP测速: http://223.247.25.205:1234/738910535
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 3.18s | 阈值: 150KB/s
-[2026-05-29 21:44:43] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/947472506
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 2.12s | 阈值: 150KB/s
-[2026-05-29 21:44:43] ✅ 通过阈值 HTTP测速: http://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
-   速度: 207.03KB/s | 数据量: 0.2KB | 总耗时: 0.88s | 阈值: 150KB/s
-[2026-05-29 21:44:44] ✅ 通过阈值 HTTP测速: http://223.247.25.205:1234/947472506
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 2.30s | 阈值: 150KB/s
-[2026-05-29 21:44:44] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/961023778
-   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.42s | 阈值: 150KB/s
-[2026-05-29 21:44:44] ✅ 通过阈值 HTTP测速: http://101.6.130.52:1234/609154353
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.09s | 阈值: 150KB/s
-[2026-05-29 21:44:44] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/609154353
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.12s | 阈值: 150KB/s
-[2026-05-29 21:44:44] ✅ 通过阈值 HTTP测速: http://107.150.60.122/live/sxwshd.m3u8
-   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.15s | 阈值: 150KB/s
-[2026-05-29 21:44:45] ✅ 通过阈值 HTTP测速: http://198.204.228.26/live/sxwshd.m3u8
-   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.14s | 阈值: 150KB/s
-[2026-05-29 21:44:45] ✅ 通过阈值 HTTP测速: http://27.12.12.31:1234/961023778
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.18s | 阈值: 150KB/s
-[2026-05-29 21:44:45] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/961023778
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.16s | 阈值: 150KB/s
-[2026-05-29 21:44:45] ✅ 通过阈值 HTTP测速: http://223.247.25.205:1234/609154353
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 2.30s | 阈值: 150KB/s
-[2026-05-29 21:44:45] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/961023778
-   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.23s | 阈值: 150KB/s
-[2026-05-29 21:44:45] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/609154353
-   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 2.05s | 阈值: 150KB/s
-[2026-05-29 21:44:45] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/961023778
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.14s | 阈值: 150KB/s
-[2026-05-29 21:44:45] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/738910838
-   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.44s | 阈值: 150KB/s
-[2026-05-29 21:44:45] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/609154353
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 2.19s | 阈值: 150KB/s
-[2026-05-29 21:44:45] ✅ 通过阈值 HTTP测速: http://36.32.174.67:60080/newlive/live/hls/43/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.83s | 阈值: 150KB/s
-[2026-05-29 21:44:45] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/947472506
-   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 3.38s | 阈值: 150KB/s
-[2026-05-29 21:44:46] ✅ 通过阈值 HTTP测速: http://101.6.130.52:1234/961023778
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 2.13s | 阈值: 150KB/s
-[2026-05-29 21:44:46] ✅ 通过阈值 HTTP测速: http://101.6.130.52:1234/738910838
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.27s | 阈值: 150KB/s
-[2026-05-29 21:44:46] ✅ 通过阈值 HTTP测速: http://cssbyd.imwork.net:8082/hls/42/index.m3u8
-   速度: 234.38KB/s | 数据量: 0.2KB | 总耗时: 0.71s | 阈值: 150KB/s
-[2026-05-29 21:44:46] ✅ 通过阈值 HTTP测速: http://27.12.12.31:1234/738910838
-   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.12s | 阈值: 150KB/s
-[2026-05-29 21:44:46] ✅ 通过阈值 HTTP测速: http://36.32.174.67:60080/newlive/live/hls/44/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.84s | 阈值: 150KB/s
-[2026-05-29 21:44:46] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/xmws.m3u8?auth=testpub
-   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.10s | 阈值: 150KB/s
-[2026-05-29 21:44:46] 🚫 未达阈值 HTTP测速: http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-   速度: 0.63KB/s | 数据量: 0.1KB | 总耗时: 0.92s | 阈值: 150KB/s
-[2026-05-29 21:44:46] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/738910838
-   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.21s | 阈值: 150KB/s
-[2026-05-29 21:44:46] ✅ 通过阈值 HTTP测速: http://107.150.60.122/live/xmws.m3u8
-   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.15s | 阈值: 150KB/s
-[2026-05-29 21:44:46] ✅ 通过阈值 HTTP测速: http://198.204.228.26/live/xmws.m3u8
-   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.15s | 阈值: 150KB/s
-[2026-05-29 21:44:46] ✅ 通过阈值 HTTP测速: http://192.151.150.154/live/xmws.m3u8
-   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.15s | 阈值: 150KB/s
-[2026-05-29 21:44:46] ✅ 通过阈值 HTTP测速: http://198.204.228.26/live/xzws.m3u8
-   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.15s | 阈值: 150KB/s
-[2026-05-29 21:44:47] ✅ 通过阈值 HTTP测速: http://113.25.252.226:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 422.85KB/s | 数据量: 0.4KB | 总耗时: 0.48s | 阈值: 150KB/s
-[2026-05-29 21:44:47] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/738910838
-   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.34s | 阈值: 150KB/s
-[2026-05-29 21:44:47] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/738910838
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.71s | 阈值: 150KB/s
-[2026-05-29 21:44:47] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/738910838
-   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.69s | 阈值: 150KB/s
-[2026-05-29 21:44:47] ✅ 通过阈值 HTTP测速: http://101.66.199.101:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 2855.47KB/s | 数据量: 2.9KB | 总耗时: 0.41s | 阈值: 150KB/s
-[2026-05-29 21:44:47] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
-   速度: 186.52KB/s | 数据量: 0.2KB | 总耗时: 0.10s | 阈值: 150KB/s
-[2026-05-29 21:44:47] ✅ 通过阈值 HTTP测速: http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.84s | 阈值: 150KB/s
-[2026-05-29 21:44:48] ✅ 通过阈值 HTTP测速: http://120.211.62.180:8000/hls/39/index.m3u8
-   速度: 229.49KB/s | 数据量: 0.2KB | 总耗时: 0.82s | 阈值: 150KB/s
-[2026-05-29 21:44:48] ✅ 通过阈值 HTTP测速: http://120.198.95.220:9901/tsfile/live/1007_1.m3u8?key=txiptv
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 0.50s | 阈值: 150KB/s
-[2026-05-29 21:44:48] ✅ 通过阈值 HTTP测速: http://live.wjyanghu.com/live/CH1.m3u8
-   速度: 264.65KB/s | 数据量: 0.3KB | 总耗时: 1.84s | 阈值: 150KB/s
-[2026-05-29 21:44:48] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/18/index.m3u8
-   速度: 235.35KB/s | 数据量: 0.2KB | 总耗时: 0.43s | 阈值: 150KB/s
-[2026-05-29 21:44:48] ✅ 通过阈值 HTTP测速: http://221.226.51.220:50081/newlive/live/hls/27/live.m3u8
-   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.46s | 阈值: 150KB/s
-[2026-05-29 21:44:48] ✅ 通过阈值 HTTP测速: http://36.32.174.67:60080/newlive/live/hls/45/live.m3u8
+[2026-05-30 06:53:43] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/961023778
+   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.52s | 阈值: 150KB/s
+[2026-05-30 06:53:44] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/947472506
+   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.54s | 阈值: 150KB/s
+[2026-05-30 06:53:44] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/609154353
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.40s | 阈值: 150KB/s
+[2026-05-30 06:53:44] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/609154353
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.43s | 阈值: 150KB/s
+[2026-05-30 06:53:44] ✅ 通过阈值 HTTP测速: http://101.6.130.52:1234/609154353
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.48s | 阈值: 150KB/s
+[2026-05-30 06:53:44] ✅ 通过阈值 HTTP测速: http://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
+   速度: 207.03KB/s | 数据量: 0.2KB | 总耗时: 1.53s | 阈值: 150KB/s
+[2026-05-30 06:53:44] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/609154353
+   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.61s | 阈值: 150KB/s
+[2026-05-30 06:53:44] ✅ 通过阈值 HTTP测速: http://198.204.228.26/live/sxwshd.m3u8
+   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:45] ✅ 通过阈值 HTTP测速: http://27.12.12.31:1234/961023778
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.40s | 阈值: 150KB/s
+[2026-05-30 06:53:45] ❌ HTTP测速失败: http://101.66.199.183:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
+   错误: HTTPConnectionPool(host='101.66.199.183', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.199.183
+[2026-05-30 06:53:45] ✅ 通过阈值 HTTP测速: http://101.6.130.52:1234/961023778
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.51s | 阈值: 150KB/s
+[2026-05-30 06:53:45] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/961023778
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.48s | 阈值: 150KB/s
+[2026-05-30 06:53:45] ✅ 通过阈值 HTTP测速: http://107.150.60.122/live/sxwshd.m3u8
+   速度: 162.11KB/s | 数据量: 0.2KB | 总耗时: 0.67s | 阈值: 150KB/s
+[2026-05-30 06:53:45] ✅ 通过阈值 HTTP测速: http://47.104.178.59:3566/738910838
+   速度: 7310.55KB/s | 数据量: 7.3KB | 总耗时: 0.54s | 阈值: 150KB/s
+[2026-05-30 06:53:45] ✅ 通过阈值 HTTP测速: http://36.32.174.67:60080/newlive/live/hls/43/live.m3u8
    速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.87s | 阈值: 150KB/s
-[2026-05-29 21:44:48] ✅ 通过阈值 HTTP测速: http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-   速度: 5136.72KB/s | 数据量: 5.1KB | 总耗时: 0.08s | 阈值: 150KB/s
-[2026-05-29 21:44:48] ✅ HTTPS测速成功: https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
-   速度: 114.26KB/s | 数据量: 0.1KB | 总耗时: 1.72s | 证书: 有效
-[2026-05-29 21:44:48] ✅ 通过阈值 HTTP测速: http://192.151.150.154/live/chcjt.m3u8
-   速度: 195.31KB/s | 数据量: 0.2KB | 总耗时: 0.15s | 阈值: 150KB/s
-[2026-05-29 21:44:48] ✅ 通过阈值 HTTP测速: http://223.75.149.129:9906/tsfile/live/0124_1.m3u8?key=txiptv
-   速度: 641.60KB/s | 数据量: 0.6KB | 总耗时: 0.57s | 阈值: 150KB/s
-[2026-05-29 21:44:48] ✅ 通过阈值 HTTP测速: http://gmxw.7766.org:808/hls/15/index.m3u8
-   速度: 239.26KB/s | 数据量: 0.2KB | 总耗时: 1.83s | 阈值: 150KB/s
-[2026-05-29 21:44:48] ✅ 通过阈值 HTTP测速: http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-   速度: 375.98KB/s | 数据量: 0.4KB | 总耗时: 0.07s | 阈值: 150KB/s
-[2026-05-29 21:44:49] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/ynws.m3u8
-   速度: 169.92KB/s | 数据量: 0.2KB | 总耗时: 1.84s | 阈值: 150KB/s
-[2026-05-29 21:44:49] ✅ 通过阈值 HTTP测速: http://107.150.60.122/live/chcjt.m3u8
-   速度: 164.06KB/s | 数据量: 0.2KB | 总耗时: 0.57s | 阈值: 150KB/s
-[2026-05-29 21:44:49] 🚫 未达阈值 HTTP测速: http://222.128.55.152:9080/live/hy.m3u8
-   速度: 0.42KB/s | 数据量: 0.1KB | 总耗时: 0.62s | 阈值: 150KB/s
-[2026-05-29 21:44:49] ✅ HTTPS测速成功: https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
-   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.38s | 证书: 有效
-[2026-05-29 21:44:49] ✅ HTTPS测速成功: https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
-   速度: 265.62KB/s | 数据量: 0.3KB | 总耗时: 1.04s | 证书: 有效
-[2026-05-29 21:44:49] ✅ HTTPS测速成功: https://srs.iyb983.cn:443/video/CYS/index.m3u8
-   速度: 511.72KB/s | 数据量: 0.5KB | 总耗时: 0.69s | 证书: 有效
-[2026-05-29 21:44:49] ✅ HTTPS测速成功: https://srs.iyb983.cn/video/CYS/index.m3u8
-   速度: 511.72KB/s | 数据量: 0.5KB | 总耗时: 0.70s | 证书: 有效
-[2026-05-29 21:44:49] ✅ 通过阈值 HTTP测速: http://utv1.hqtvzb.com:9999/hls/world.m3u8
-   速度: 250.98KB/s | 数据量: 0.3KB | 总耗时: 1.10s | 阈值: 150KB/s
-[2026-05-29 21:44:52] ✅ 通过阈值 HTTP测速: http://dassby.qqff.top:99/live/CHC动作电影/index.m3u8
-   速度: 161.13KB/s | 数据量: 0.2KB | 总耗时: 3.55s | 阈值: 150KB/s
-[2026-05-29 21:44:52] ✅ HTTPS测速成功: https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
-   速度: 325.20KB/s | 数据量: 0.3KB | 总耗时: 3.10s | 证书: 有效
+[2026-05-30 06:53:45] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/961023778
+   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.63s | 阈值: 150KB/s
+[2026-05-30 06:53:46] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/961023778
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.35s | 阈值: 150KB/s
+[2026-05-30 06:53:46] ✅ 通过阈值 HTTP测速: http://101.6.130.52:1234/738910838
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.54s | 阈值: 150KB/s
+[2026-05-30 06:53:46] ✅ 通过阈值 HTTP测速: http://36.32.174.67:60080/newlive/live/hls/44/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.86s | 阈值: 150KB/s
+[2026-05-30 06:53:46] ✅ 通过阈值 HTTP测速: http://27.12.12.31:1234/738910838
+   速度: 642.58KB/s | 数据量: 0.6KB | 总耗时: 1.53s | 阈值: 150KB/s
+[2026-05-30 06:53:46] ✅ 通过阈值 HTTP测速: http://119.118.88.58:7788/738910838
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.42s | 阈值: 150KB/s
+[2026-05-30 06:53:46] ✅ 通过阈值 HTTP测速: http://8.135.27.147:1234/738910838
+   速度: 643.55KB/s | 数据量: 0.6KB | 总耗时: 1.41s | 阈值: 150KB/s
+[2026-05-30 06:53:46] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/xmws.m3u8?auth=testpub
+   速度: 187.50KB/s | 数据量: 0.2KB | 总耗时: 0.20s | 阈值: 150KB/s
+[2026-05-30 06:53:46] ✅ 通过阈值 HTTP测速: http://107.150.60.122/live/xmws.m3u8
+   速度: 187.50KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:46] ✅ 通过阈值 HTTP测速: http://124.223.82.228:89/738910838
+   速度: 645.51KB/s | 数据量: 0.6KB | 总耗时: 1.45s | 阈值: 150KB/s
+[2026-05-30 06:53:46] ✅ 通过阈值 HTTP测速: http://198.204.228.26/live/xmws.m3u8
+   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:46] ✅ 通过阈值 HTTP测速: http://110.154.192.30:7788/738910838
+   速度: 659.18KB/s | 数据量: 0.7KB | 总耗时: 1.52s | 阈值: 150KB/s
+[2026-05-30 06:53:47] ✅ 通过阈值 HTTP测速: http://192.151.150.154/live/xmws.m3u8
+   速度: 187.50KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:47] ✅ 通过阈值 HTTP测速: http://198.204.228.26/live/xzws.m3u8
+   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:47] ✅ 通过阈值 HTTP测速: http://cssbyd.imwork.net:8082/hls/42/index.m3u8
+   速度: 234.38KB/s | 数据量: 0.2KB | 总耗时: 1.70s | 阈值: 150KB/s
+[2026-05-30 06:53:47] ✅ 通过阈值 HTTP测速: http://113.25.252.226:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 422.85KB/s | 数据量: 0.4KB | 总耗时: 0.70s | 阈值: 150KB/s
+[2026-05-30 06:53:47] 🚫 未达阈值 HTTP测速: http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+   速度: 0.15KB/s | 数据量: 0.1KB | 总耗时: 1.57s | 阈值: 150KB/s
+[2026-05-30 06:53:47] ✅ 通过阈值 HTTP测速: http://120.211.62.180:8000/hls/39/index.m3u8
+   速度: 229.49KB/s | 数据量: 0.2KB | 总耗时: 0.43s | 阈值: 150KB/s
+[2026-05-30 06:53:47] ✅ 通过阈值 HTTP测速: http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.84s | 阈值: 150KB/s
+[2026-05-30 06:53:47] ✅ 通过阈值 HTTP测速: http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
+   速度: 187.50KB/s | 数据量: 0.2KB | 总耗时: 0.21s | 阈值: 150KB/s
+[2026-05-30 06:53:48] ✅ 通过阈值 HTTP测速: http://120.198.95.220:9901/tsfile/live/1007_1.m3u8?key=txiptv
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 0.52s | 阈值: 150KB/s
+[2026-05-30 06:53:48] ✅ 通过阈值 HTTP测速: http://207.56.13.146:81/cdnlive/ynws.m3u8
+   速度: 168.95KB/s | 数据量: 0.2KB | 总耗时: 1.03s | 阈值: 150KB/s
+[2026-05-30 06:53:48] ✅ 通过阈值 HTTP测速: http://gmxw.7766.org:808/hls/15/index.m3u8
+   速度: 237.30KB/s | 数据量: 0.2KB | 总耗时: 1.47s | 阈值: 150KB/s
+[2026-05-30 06:53:48] ✅ HTTPS测速成功: https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
+   速度: 114.26KB/s | 数据量: 0.1KB | 总耗时: 1.61s | 证书: 有效
+[2026-05-30 06:53:48] ✅ 通过阈值 HTTP测速: http://36.32.174.67:60080/newlive/live/hls/45/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.85s | 阈值: 150KB/s
+[2026-05-30 06:53:48] ✅ 通过阈值 HTTP测速: http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+   速度: 5136.72KB/s | 数据量: 5.1KB | 总耗时: 0.04s | 阈值: 150KB/s
+[2026-05-30 06:53:48] ✅ 通过阈值 HTTP测速: http://221.226.51.220:50081/newlive/live/hls/27/live.m3u8
+   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.52s | 阈值: 150KB/s
+[2026-05-30 06:53:48] ✅ 通过阈值 HTTP测速: http://live.wjyanghu.com/live/CH1.m3u8
+   速度: 266.60KB/s | 数据量: 0.3KB | 总耗时: 2.34s | 阈值: 150KB/s
+[2026-05-30 06:53:48] ✅ 通过阈值 HTTP测速: http://60.10.139.113:8801/hls/18/index.m3u8
+   速度: 235.35KB/s | 数据量: 0.2KB | 总耗时: 0.53s | 阈值: 150KB/s
+[2026-05-30 06:53:48] ✅ 通过阈值 HTTP测速: http://107.150.60.122/live/chcjt.m3u8
+   速度: 191.41KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:48] ✅ 通过阈值 HTTP测速: http://192.151.150.154/live/chcjt.m3u8
+   速度: 191.41KB/s | 数据量: 0.2KB | 总耗时: 0.16s | 阈值: 150KB/s
+[2026-05-30 06:53:49] ✅ 通过阈值 HTTP测速: http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+   速度: 375.98KB/s | 数据量: 0.4KB | 总耗时: 0.14s | 阈值: 150KB/s
+[2026-05-30 06:53:49] ✅ 通过阈值 HTTP测速: http://223.75.149.129:9906/tsfile/live/0124_1.m3u8?key=txiptv
+   速度: 641.60KB/s | 数据量: 0.6KB | 总耗时: 0.60s | 阈值: 150KB/s
+[2026-05-30 06:53:49] ✅ HTTPS测速成功: https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
+   速度: 142.58KB/s | 数据量: 0.1KB | 总耗时: 0.06s | 证书: 有效
+[2026-05-30 06:53:49] ✅ 通过阈值 HTTP测速: http://dassby.qqff.top:99/live/CHC动作电影/index.m3u8
+   速度: 161.13KB/s | 数据量: 0.2KB | 总耗时: 0.80s | 阈值: 150KB/s
+[2026-05-30 06:53:49] 🚫 未达阈值 HTTP测速: http://222.128.55.152:9080/live/hy.m3u8
+   速度: 0.34KB/s | 数据量: 0.1KB | 总耗时: 0.77s | 阈值: 150KB/s
+[2026-05-30 06:53:49] ✅ 通过阈值 HTTP测速: http://utv1.hqtvzb.com:9999/hls/world.m3u8
+   速度: 271.48KB/s | 数据量: 0.3KB | 总耗时: 1.08s | 阈值: 150KB/s
+[2026-05-30 06:53:50] ✅ HTTPS测速成功: https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
+   速度: 265.62KB/s | 数据量: 0.3KB | 总耗时: 1.40s | 证书: 有效
+[2026-05-30 06:53:50] ✅ HTTPS测速成功: https://srs.iyb983.cn:443/video/CYS/index.m3u8
+   速度: 507.81KB/s | 数据量: 0.5KB | 总耗时: 1.24s | 证书: 有效
+[2026-05-30 06:53:50] ✅ HTTPS测速成功: https://srs.iyb983.cn/video/CYS/index.m3u8
+   速度: 507.81KB/s | 数据量: 0.5KB | 总耗时: 1.30s | 证书: 有效
+[2026-05-30 06:53:50] ✅ HTTPS测速成功: https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
+   速度: 313.48KB/s | 数据量: 0.3KB | 总耗时: 1.21s | 证书: 有效
+[2026-05-30 06:53:52] ❌ HTTP测速失败: http://101.66.199.101:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
+   错误: HTTPConnectionPool(host='101.66.199.101', port=9901): Read timed out. (read timeout=5) | 域名: 101.66.199.101
