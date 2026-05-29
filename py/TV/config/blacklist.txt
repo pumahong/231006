@@ -182,3 +182,5 @@ live.qthnews.org.cn:1935
 d12a2vxqkkh1bo.cloudfront.net:443
 live.ottiptv.cc:443
 116.52.173.97:1234
+49.234.31.101:7040
+36.249.56.81:30
