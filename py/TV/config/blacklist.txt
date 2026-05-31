@@ -109,3 +109,6 @@ live.ottiptv.cc:443
 222.95.12.2:4022
 shcm-stream-cf1.stream.264788.xyz:443
 1.197.250.73:9901
+27.12.12.31:1234
+tmpstream.hyrtv.cn:80
+59.110.175.70:10000
