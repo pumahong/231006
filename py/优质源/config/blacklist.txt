@@ -42,3 +42,4 @@ shcm-stream-cf1.stream.264788.xyz
 112.123.243.37
 tvcdn.stream3.hndt.com
 218.104.239.114
+116.52.173.144
