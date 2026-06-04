@@ -39,3 +39,6 @@ liveout.xntv.tv
 shcm-stream-cf1.stream.264788.xyz
 223.247.25.217
 124.77.202.8
+112.123.243.37
+tvcdn.stream3.hndt.com
+218.104.239.114
