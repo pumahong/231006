@@ -195,3 +195,5 @@ php.jdshipin.com:8880
 221.13.235.142:9901
 gcwbndali.v.myalicdn.com:443
 221.193.168.93:9901
+182.114.48.121:9901
+www.cdnstv.com:6398
