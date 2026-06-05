@@ -205,3 +205,8 @@ vip1.xinketongxun.fun:8082
 221.219.104.6:1193
 utv1.hqtvzb.com:9999
 221.7.175.154:8445
+www.goodiptv.club:80
+goodiptv.club:443
+121.230.179.192:8802
+113.65.124.131:9527
+stream1.freetv.fun:443
