@@ -219,3 +219,8 @@ stream1.freetv.fun:443
 d1t.alwaysdata.net:443
 p2.bdstatic.com:443
 182.114.49.147:9901
+dxtx.hntv.tv:443
+115.48.160.118:9901
+gctxyc.liveplay.myqcloud.com:443
+1.197.250.180:9901
+115.48.160.147:9901
