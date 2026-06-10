@@ -45,3 +45,5 @@ r.jdshipin.com
 222.214.208.34
 59.39.89.130
 l.cztvcloud.com
+shcm-stream-cf1.stream.264788.xyz
+115.44.140.170
