@@ -287,3 +287,5 @@ epg.pw:443
 221.13.234.210:9901
 jmp2.uk:443
 218.15.183.23:9901
+live-hls.macaulotustv.com:80
+pili-live-hls.wdit.com.cn:443
