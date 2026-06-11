@@ -289,3 +289,4 @@ jmp2.uk:443
 218.15.183.23:9901
 live-hls.macaulotustv.com:80
 pili-live-hls.wdit.com.cn:443
+43.152.143.193:80
