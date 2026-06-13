@@ -30,3 +30,5 @@ epg.pw
 lbds.us.ci
 14.153.176.157
 flvhspull2mgsplive.miguvideo.com
+l.cztvcloud.com
+113.141.220.55
