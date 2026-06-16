@@ -324,3 +324,7 @@ d12a2vxqkkh1bo.cloudfront.net:443
 hls.gstv.com.cn:443
 182.114.48.172:9901
 221.193.168.153:9901
+mytv.cdn.loc.cc:80
+antvlive.ab5c6921.cdnviet.com:80
+mytv.cdn.loc.cc:443
+223.86.170.98:4500
