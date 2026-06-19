@@ -350,3 +350,8 @@ qcfile.qcrmt.com:80
 221.193.168.103:9901
 222.134.245.16:9901
 182.114.49.197:9901
+222.140.13.12:1234
+27.18.85.136:1234
+gslbmgspvod.miguvideo.com:80
+m3u8.channel.dzsm.com:443
+stream.sun0769.com:443
