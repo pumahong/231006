@@ -365,3 +365,4 @@ hkstv.tv:443
 221.13.235.76:9901
 wfenf.x3322.net:7788
 tencentplay.gztv.com:443
+a.xiongnas.top:8888
