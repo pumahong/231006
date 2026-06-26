@@ -41,3 +41,5 @@ flvhspull2mgsplive.miguvideo.com
 116.52.173.172
 bp-resource-dfl.bestv.cn
 112.123.243.37
+113.25.252.226
+113.141.220.55
