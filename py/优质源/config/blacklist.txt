@@ -45,3 +45,8 @@ bp-resource-dfl.bestv.cn
 113.141.220.55
 222.223.41.27
 cssbyd.imwork.net
+epg.pw
+183.11.239.36
+goodiptv.club
+222.214.208.34
+223.75.149.129
