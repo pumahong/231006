@@ -463,3 +463,5 @@ jsmov2.a.yximgs.com:80
 101.66.199.29:9901
 221.13.234.16:9901
 221.193.168.128:9901
+gslbflvmgsplive.miguvideo.com:80
+flv-play.clouda.com:443
