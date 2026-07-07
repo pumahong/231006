@@ -526,8 +526,8 @@ CGTN外语纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 CHC影迷电影,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20260707160222&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=171.8.79.254&SecurityKey=20260707160222&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c2904b3713b6600bfe60a5fe0de08330&sv=10004&ct=android
 CHC影迷电影,https://d1t.alwaysdata.net/mgvt/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1
 CHC家庭影院,https://live.264788.xyz/channel/chcjiatingyingyuan?streamid=136f530a61d26dc0f670f39f05291586&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-CHC家庭影院,http://192.151.150.154/live/chcjt.m3u8
 CHC家庭影院,http://107.150.60.122/live/chcjt.m3u8
+CHC家庭影院,http://192.151.150.154/live/chcjt.m3u8
 CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8
 1905电影网(国内),http://8.138.7.223/tv/1905.php?id=LIVE8J4LTCXPI7QJ5
 1905电影网(国内),http://8.138.7.223/tv/1905.php?id=LIVEOYY31H24H48NE
@@ -556,6 +556,7 @@ CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8
 环球旅游,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/hqly/51/20250915/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022200&pid=2028597139&timestamp=20260707160226&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=958475356&ParentNodeID=-99&assertID=5910022200&client_ip=171.8.79.254&SecurityKey=20260707160226&promotionId=&mvid=5900006723&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=18050ce81169c6e3077c9a70338cfbad&sv=10004&ct=android
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
 ☘️轮播,#genre#
+周星驰,https://live.ottiptv.cc/huya/11342412
 赵本山经典小品,https://goodiptv.club/douyu/9817716
 冰冰影厅,https://goodiptv.club/douyu/74374
 橙記港剧✔原,https://goodiptv.club/douyu/4549169
@@ -568,8 +569,10 @@ CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8
 特辑电影,https://goodiptv.club/douyu/3637778
 贝爷贰厅,https://goodiptv.club/douyu/4332
 可乐影院,https://goodiptv.club/douyu/20415
+网神影厅,https://live.ottiptv.cc/douyu/508118
 网神影厅,https://goodiptv.club/douyu/508118
 贝贝影院,https://goodiptv.club/douyu/431460
+鬼片喜剧动作港剧,https://live.ottiptv.cc/yy/1355269576
 ☘️北京市,#genre#
 北京卫视4K,http://121.19.134.160:808/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视4K,http://121.19.134.126:808/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -612,8 +615,6 @@ CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8
 广州南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 广州南国都市,http://r.jdshipin.com/nWaZO
 广州竞赛,http://8.138.7.223/tv/gzjs.m3u8
-河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
 ☘️广西省,#genre#
@@ -984,17 +985,20 @@ VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 2021年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700831151909807_hlshd15.m3u8
 2022年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8
 2023年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
-2025年春晚,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
 2025年春晚,https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
+2025年春晚,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
 2026-07-07 07:12:29,http://kakaxi.indevs.in/Disclaimer.mp4
+2026-07-07 12:33:59,https://my9.ltd/momo-480.mp4
 2026-07-07_05:33:25,http://example.com/update_time.mp4
 24小时城市联赛轮播台,https://d1t.alwaysdata.net/mgvt/24%E5%B0%8F%E6%97%B6%E5%9F%8E%E5%B8%82%E8%81%94%E8%B5%9B%E8%BD%AE%E6%92%AD%E5%8F%B0
 24小时城市联赛轮播台,http://hlszymgsplive.miguvideo.com:8080/migu/lunbo/ouzhoubei/54/20240603/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5910022136&pid=2028597139&timestamp=20260707160213&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=915512915&ParentNodeID=-99&assertID=5910022136&client_ip=171.8.79.254&SecurityKey=20260707160213&promotionId=&mvid=5900006618&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ec45e1b10a140fca2e27306975a000f3&sv=10004&ct=android
 3030相声小品,https://goodiptv.club/douyu/9286868
+7喜先生,https://live.ottiptv.cc/huya/11342421
 ABC News Live,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
 Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 AXS TV Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+baby丶贝贝,https://live.ottiptv.cc/douyu/431460
 BBC,http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 BIG3 DMV三部曲VS休斯顿铁钻 全场回放（周鹏） 03:55,http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/627/384/5106627384/media/5106627384_5338933566_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806901&pid=2028597139&timestamp=20260707140214&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966002716&ParentNodeID=-99&assertID=5701806901&client_ip=171.8.79.254&SecurityKey=20260707140214&promotionId=&mvid=5106627384&mcid=1003&mpid=120000582018&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=123d45434dd3385d1252ad049a6b4404&sv=10004&ct=android
 BIG3 DMV三部曲VS休斯顿铁钻 全场回放（英文原声） 03:55,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/387/5106627387/media/5106627387_5338934769_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806902&pid=2028597139&timestamp=20260707140215&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966003558&ParentNodeID=-99&assertID=5701806902&client_ip=171.8.79.254&SecurityKey=20260707140215&promotionId=&mvid=5106627387&mcid=1003&mpid=120000582018&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4de213ffd5d19d997cf93fca4670149e&sv=10004&ct=android
@@ -1041,6 +1045,8 @@ NBA 篮网VS勇士蓝队 全场回放（王凯） 07:55,http://hlszymgspvod.migu
 NBA 雄鹿VS篮网 全场回放（英文原声） 02:55,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/344/5106627344/media/5106627344_5338933080_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806884&pid=2029000112&timestamp=20260707140213&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966001962&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806884&client_ip=171.8.79.254&SecurityKey=20260707140213&promotionId=&mvid=5106627344&mcid=1003&mpid=120000582027&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=4e5513d4e1a5c6ad2b9192120cc79f2a&sv=10004&ct=android
 NBA 马刺VS湖人 全场回放（孙博） 07:25,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/628/929/5106628929/media/5106628929_5338999364_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701807960&pid=2029000643&timestamp=20260707140221&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966032269&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701807960&client_ip=171.8.79.254&SecurityKey=20260707140221&promotionId=&mvid=5106628929&mcid=1003&mpid=120000582023&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=13b76f78783aec937129ff3d7a02e6ef&sv=10004&ct=android
 NBC,https://jmp2.uk/sam-GBBB1500004LG.m3u8
+Only丶邵氏,https://live.ottiptv.cc/douyu/4246519
+Poison丶冰冰,https://live.ottiptv.cc/douyu/74374
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 RHK 31,http://api.kkitv.itv888.vip:8080/streams/au9u4ktua3t/index.m3u8
 RHK 32,http://api.kkitv.itv888.vip:8080/streams/emzampd6m1i/index.m3u8
@@ -1066,8 +1072,11 @@ WTT 孙颖莎4-1王艺迪 蒯曼七局力克美和 全场回放（英文解说�
 WTT 孙颖莎女单夺冠 松岛辉空问鼎男单 【女双决赛】王曼昱/蒯曼3-1张本美和/早田希娜 10:00,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/931/5106626931/media/5106626931_5338889781_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806284&pid=2028593549&timestamp=20260707140218&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965976447&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806284&client_ip=171.8.79.254&SecurityKey=20260707140218&promotionId=&mvid=5106626931&mcid=1003&mpid=120000580363&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=a5b1e0956d4be56b000f51438b4d1752&sv=10004&ct=android
 WTT 孙颖莎女单夺冠 松岛辉空问鼎男单 【混双决赛】林仲勋/申裕斌3-2王楚钦/孙颖莎 10:00,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/626/413/5106626413/media/5106626413_5338845875_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701805598&pid=2028593549&timestamp=20260707160227&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965952156&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701805598&client_ip=171.8.79.254&SecurityKey=20260707160227&promotionId=&mvid=5106626413&mcid=1003&mpid=120000580362&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=aa9ef97770af9a762194d2475da3f1a2&sv=10004&ct=android
 WTT 孙颖莎女单夺冠 松岛辉空问鼎男单 【男双决赛】林诗栋/黄友政2-3温瑞博/袁励岑 10:00,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/200/5106627200/media/5106627200_5338902952_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806485&pid=2028593549&timestamp=20260707140218&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965986579&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806485&client_ip=171.8.79.254&SecurityKey=20260707140218&promotionId=&mvid=5106627200&mcid=1003&mpid=120000580364&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=fe6a62c16f1740140fae416121fa97a7&sv=10004&ct=android
+【周星驰】搞笑电影,https://live.ottiptv.cc/yy/38670875
+万事通熊猫,https://live.ottiptv.cc/douyu/7812810
 万合出品,https://goodiptv.club/douyu/9220456
 三明综合,http://8.138.7.223/tv/fjtv1.php?id=sm1
+世界未解之谜M,https://live.ottiptv.cc/douyu/9369468
 世界杯 墨西哥VS英格兰 全场回放（智能解说） 07:00,http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/627/465/5106627465/media/5106627465_5338951685_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701807249&pid=2028597139&timestamp=20260707140217&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966010834&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701807249&client_ip=171.8.79.254&SecurityKey=20260707140217&promotionId=&mvid=5106627465&mcid=1003&mpid=120000575605&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=904e94048ff078dc5f294a2d870f2517&sv=10004&ct=android
 世界杯 墨西哥VS英格兰 全场回放（梁祥宇、贺宇） 07:00,http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/627/466/5106627466/media/5106627466_5338950764_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701807244&pid=2028597139&timestamp=20260707140216&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966010828&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701807244&client_ip=171.8.79.254&SecurityKey=20260707140216&promotionId=&mvid=5106627466&mcid=1003&mpid=120000575605&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7255d3ed4338a63c227a460489db23a8&sv=10004&ct=android
 世界杯 墨西哥VS英格兰 全场回放（沈云怡、林梦鸽） 07:00,http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/627/457/5106627457/media/5106627457_5338949566_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701807217&pid=2028597139&timestamp=20260707140217&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966010327&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701807217&client_ip=171.8.79.254&SecurityKey=20260707140217&promotionId=&mvid=5106627457&mcid=1003&mpid=120000575605&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=eadc8b2c433e4e5b582d292c1f81ee6e&sv=10004&ct=android
@@ -1091,6 +1100,7 @@ WTT 孙颖莎女单夺冠 松岛辉空问鼎男单 【男双决赛】林诗栋/�
 中国围棋协会系列赛事 第三届晋城全国职业围棋公开赛 第三届晋城全国职业围棋公开赛决赛全场回放（官方解说） 14:30,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/904/5106627904/media/5106627904_5338978632_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701807495&pid=2028597139&timestamp=20260707160230&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966021759&ParentNodeID=-99&assertID=5701807495&client_ip=171.8.79.254&SecurityKey=20260707160230&promotionId=&mvid=5106627904&mcid=1003&mpid=120000582159&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4e544e296973fb44df1a176d92897fd6&sv=10004&ct=android
 中国航天“逆袭”之路,https://d1t.alwaysdata.net/mgvt/%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E2%80%9C%E9%80%86%E8%A2%AD%E2%80%9D%E4%B9%8B%E8%B7%AF
 云南卫视-,http://60.10.139.113:8801/hls/51/index.m3u8
+伊太刀刀,https://live.ottiptv.cc/douyu/747764
 体坛名栏汇,https://d1t.alwaysdata.net/mgvt/%E4%BD%93%E5%9D%9B%E5%90%8D%E6%A0%8F%E6%B1%87
 体坛名栏汇,http://mgsp-cty2.live.miguvideo.com:8088/migu/kailu/titanminglan/51/20250514/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5500315687&pid=2028597139&timestamp=20260707160212&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=629943305&ParentNodeID=-99&assertID=5500315687&client_ip=171.8.79.254&SecurityKey=20260707160212&promotionId=&mvid=5101034219&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f7210e3fa051b95b28ccfc1ea426bf1a&sv=10004&ct=android
 体育休闲频道,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jstiyu/600/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500260554&pid=2028597139&timestamp=20260707140207&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=626064707&ParentNodeID=-99&assertID=5500260554&client_ip=171.8.79.254&SecurityKey=20260707140207&promotionId=&mvid=5100186459&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=423c7d40f17497959cc4e6492f2b1952&sv=10004&ct=android
@@ -1099,44 +1109,64 @@ WTT 孙颖莎女单夺冠 松岛辉空问鼎男单 【男双决赛】林诗栋/�
 公共新闻频道,https://d1t.alwaysdata.net/mgvt/%E5%85%AC%E5%85%B1%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93
 凤凰古城东关门,https://gcalic.v.myalicdn.com/gc/fhgcdgm_1/index.m3u8
 凤凰古城南华山,https://gcalic.v.myalicdn.com/gc/fhgcdnhs_1/index.m3u8
+刘哔电影,https://live.ottiptv.cc/douyu/2632223
 北京怀柔黄花城水长城,https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8
 南平综合,http://8.138.7.223/tv/fjtv1.php?id=np1
 南方影视,https://d1t.alwaysdata.net/mgvt/%E5%8D%97%E6%96%B9%E5%BD%B1%E8%A7%86
+古惑仔,https://live.ottiptv.cc/yy/1458015189
+周星驰的直播间,https://live.ottiptv.cc/douyu/8257039
 和美乡途轮播台,https://d1t.alwaysdata.net/mgvt/%E5%92%8C%E7%BE%8E%E4%B9%A1%E9%80%94%E8%BD%AE%E6%92%AD%E5%8F%B0
 和美乡途轮播台,http://mgsp-cty2.live.miguvideo.com:8088/migu/virtuallive2/5900002411/51/20210706/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5910019525&pid=2028597139&timestamp=20260707160223&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=713591450&ParentNodeID=-99&assertID=5910019525&client_ip=171.8.79.254&SecurityKey=20260707160223&promotionId=&mvid=5900002421&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8db5843968917a497a8afbed14152790&sv=10004&ct=android
 咪咕视频4K,http://r.jdshipin.com/ln4xk
 咪咕视频4K-2,http://r.jdshipin.com/Lqdwf
 四海垂钓,http://121.19.134.126:808/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
+奇光主播,https://live.ottiptv.cc/douyu/8009547
 奇光主播,https://goodiptv.club/douyu/8009547
+奇光主播e,https://live.ottiptv.cc/douyu/11849873
 奇光主播e,https://goodiptv.club/douyu/11849873
+奇光主播q,https://live.ottiptv.cc/douyu/12560807
+奇兮兮悄陌,https://live.ottiptv.cc/douyu/953193
 女神金,https://goodiptv.club/douyu/747764
 宁夏卫视-,http://60.10.139.113:8801/hls/57/index.m3u8
 宁德新闻综合,http://8.138.7.223/tv/fjtv1.php?id=nd1
+宇宙探索飞船,https://live.ottiptv.cc/douyu/9456028
 宋小宝经典小品,https://goodiptv.club/douyu/9817729
+小毅主播e,https://live.ottiptv.cc/douyu/11851549
 小毅主播e,https://goodiptv.club/douyu/11851549
+小毅主播q,https://live.ottiptv.cc/douyu/6906628
 小毅主播q,https://goodiptv.club/douyu/6906628
+小涛讲电影V,https://live.ottiptv.cc/douyu/8415464
 山东青岛艾山天文台,https://gcalic.v.myalicdn.com/gc/jhs01_1/index.m3u8
 山西卫视-,http://60.10.139.113:8801/hls/54/index.m3u8
 平潭综合,http://8.138.7.223/tv/fjtv1.php?id=pttv
 建党105周年巡礼,http://hlszymgsplive.miguvideo.com:8080/migu/virtuallive2/5900002413/51/20210706/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5910019527&pid=2028597139&timestamp=20260707160222&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=713600957&ParentNodeID=-99&assertID=5910019527&client_ip=171.8.79.254&SecurityKey=20260707160222&promotionId=&mvid=5900002443&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2609b9e649152308c5bee6775f12be3d&sv=10004&ct=android
 开心锤锤,https://goodiptv.club/douyu/9018297
+影迷心公社,https://live.ottiptv.cc/huya/30522289
+怡宝妹妹丶,https://live.ottiptv.cc/douyu/434971
+怪兽马提尼电影,https://live.ottiptv.cc/douyu/9075333
+恐怖电影,https://live.ottiptv.cc/yy/24066336
+悠悠爱电影,https://live.ottiptv.cc/huya/30611864
+懒猫是只喵,https://live.ottiptv.cc/douyu/260322
 抗战经典影片,https://d1t.alwaysdata.net/mgvt/%E6%8A%97%E6%88%98%E7%BB%8F%E5%85%B8%E5%BD%B1%E7%89%87
 新动力量创一流,https://d1t.alwaysdata.net/mgvt/%E6%96%B0%E5%8A%A8%E5%8A%9B%E9%87%8F%E5%88%9B%E4%B8%80%E6%B5%81
 旅游卫视,http://36.136.38.87:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
 日本女子摔角,https://goodiptv.club/douyu/425809
 星光影视,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 最强综艺趴,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/zuiqiangzongyi/51/20250514/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5500315654&pid=2028597139&timestamp=20260707160225&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=629942228&ParentNodeID=-99&assertID=5500315654&client_ip=171.8.79.254&SecurityKey=20260707160225&promotionId=&mvid=5101034202&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=975c39b4f4d5ba84ddae58f04925f60c&sv=10004&ct=android
+未知频道,http://live.wanyuannews.com/wytv/hd/live.m3u8?zsicd
 未知频道,http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
 未知频道,http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
 未知频道,http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
 未知频道,http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
-未知频道,http://live.wanyuannews.com/wytv/hd/live.m3u8?zsicd
-未知频道,http://120.76.248.139/live/bfgd/4200000153.m3u8
-未知频道,http://120.76.248.139/live/bfgd/4200000158.m3u8
-未知频道,http://120.76.248.139/live/bfgd/4200000149.m3u8
-未知频道,http://120.76.248.139/live/bfgd/4200000229.m3u8
-未知频道,http://120.76.248.139/live/bfgd/4200000146.m3u8
+未知频道,https://live.ottiptv.cc/huya/11601966
+未知频道,https://live.ottiptv.cc/yy/1382735626
+未知频道,https://live.ottiptv.cc/huya/11601963
+未知频道,https://live.ottiptv.cc/huya/11352879
+未知频道,https://live.ottiptv.cc/bilibili/30837590
+林正英经典,https://live.ottiptv.cc/yy/1351505899
+橙記Orange丶,https://live.ottiptv.cc/douyu/4549169
+武林萌主唐小姐,https://live.ottiptv.cc/huya/11336726
 求索纪录,http://tvbox6.icu/tv/gdmzyd.php?id=104
 江苏体育休闲,https://stream1.freetv.fun/af1087a1c24fff7af556ac8e6c5c623303d52966f67a998cefb52c17811b09a2.ctv
 沙湾融媒,http://tvfile.swrmt.com:80/nmip-media/channellive/channel100064/playlist.m3u8
@@ -1159,6 +1189,9 @@ WTT 孙颖莎女单夺冠 松岛辉空问鼎男单 【男双决赛】林诗栋/�
 浙江舟山东极岛,https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8
 海南广播电视总台新闻频道,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/lnysj/51/20251225/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022326&pid=2028597139&timestamp=20260707160221&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=962067517&ParentNodeID=-99&assertID=5910022326&client_ip=171.8.79.254&SecurityKey=20260707160221&promotionId=&mvid=5900006789&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b5489a12b78b433177bddb758d7cc883&sv=10004&ct=android
 海南广播电视总台社会与法频道,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/lngg/51/20251225/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022323&pid=2028597139&timestamp=20260707160221&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=962045223&ParentNodeID=-99&assertID=5910022323&client_ip=171.8.79.254&SecurityKey=20260707160221&promotionId=&mvid=5900006791&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=902885f3c0f0472455c6a91b0ec64a41&sv=10004&ct=android
+涂涂观影团,https://live.ottiptv.cc/huya/30513350
+港片 喜剧 动作,https://live.ottiptv.cc/yy/1355480591
+火龙果讲电影本人,https://live.ottiptv.cc/douyu/2039501
 熊猫直播,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 熊猫频道01高清,http://hlszymgsplive.miguvideo.com:8080/ws_x/2018/xiongmao/HD/2000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2202634723&pid=2028597139&timestamp=20260707160224&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609158151&ParentNodeID=-99&assertID=2202634723&client_ip=171.8.79.254&SecurityKey=20260707160224&promotionId=&mvid=2202634723&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3de675c0551b3f46679e043609879be1&sv=10004&ct=android
 熊猫频道1,http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao01/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200200699&pid=2028597139&timestamp=20260707160224&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608933610&ParentNodeID=-99&assertID=2200200699&client_ip=171.8.79.254&SecurityKey=20260707160224&promotionId=&mvid=2200200699&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1f7f4af811be99dfcff4446ec729b50d&sv=10004&ct=android
@@ -1167,6 +1200,9 @@ WTT 孙颖莎女单夺冠 松岛辉空问鼎男单 【男双决赛】林诗栋/�
 熊猫频道4,http://mgsp-cty2.live.miguvideo.com:8088/envivo_x/2018/SD/xiongmao04/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200200771&pid=2028597139&timestamp=20260707140208&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608934721&ParentNodeID=-99&assertID=2200200771&client_ip=171.8.79.254&SecurityKey=20260707140208&promotionId=&mvid=2200200771&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c3bcc7e80cdb1bb5774df64d73d8105b&sv=10004&ct=android
 熊猫频道8,http://hlszymgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao08/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200192881&pid=2028597139&timestamp=20260707140209&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609169287&ParentNodeID=-99&assertID=2200192881&client_ip=171.8.79.254&SecurityKey=20260707140209&promotionId=&mvid=2200192881&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=23c89fde27dca17b918180dc33f5f8c6&sv=10004&ct=android
 熊猫频道9,http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao09/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200192899&pid=2028597139&timestamp=20260707160224&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609169226&ParentNodeID=-99&assertID=2200192899&client_ip=171.8.79.254&SecurityKey=20260707160224&promotionId=&mvid=2200192899&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ce73ed8ddda450ff6cb9100cb8a6a425&sv=10004&ct=android
+牛叔说电影,https://live.ottiptv.cc/douyu/2758565
+王坑坑聊电影,https://live.ottiptv.cc/douyu/9402110
+电影迷小雅,https://live.ottiptv.cc/douyu/9639225
 男篮世预赛 中国VS中国台北 全场回放（杨健、杨毅、郭艾伦、金佳悦） 13:50,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/512/5106627512/media/5106627512_5338972133_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701807442&pid=2028597139&timestamp=20260707160229&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966019863&ParentNodeID=-99&assertID=5701807442&client_ip=171.8.79.254&SecurityKey=20260707160229&promotionId=&mvid=5106627512&mcid=1003&mpid=120000563045&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0e79130973a449c37c14a42e258eabc9&sv=10004&ct=android
 男篮世预赛 中国VS中国台北 全场回放（赛场原声） 13:50,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/516/5106627516/media/5106627516_5338974191_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701807443&pid=2028597139&timestamp=20260707160230&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966020503&ParentNodeID=-99&assertID=5701807443&client_ip=171.8.79.254&SecurityKey=20260707160230&promotionId=&mvid=5106627516&mcid=1003&mpid=120000563045&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a06395bb939804c01c704fbec97e183e&sv=10004&ct=android
 男篮世预赛 中国VS中国台北 全场回放（郭艾伦专属视角） 13:50,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/518/5106627518/media/5106627518_5338975074_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701807444&pid=2028597139&timestamp=20260707160230&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966020690&ParentNodeID=-99&assertID=5701807444&client_ip=171.8.79.254&SecurityKey=20260707160230&promotionId=&mvid=5106627518&mcid=1003&mpid=120000563045&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a5e808d583bc52a1703dd9fa97738c19&sv=10004&ct=android
@@ -1188,7 +1224,11 @@ WTT 孙颖莎女单夺冠 松岛辉空问鼎男单 【男双决赛】林诗栋/�
 男篮世预赛 澳大利亚VS菲律宾 全场回放（赛场原声） 18:20,http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/628/316/5106628316/media/5106628316_5338983321_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701807558&pid=2028600720&timestamp=20260707160231&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966024093&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701807558&client_ip=171.8.79.254&SecurityKey=20260707160231&promotionId=&mvid=5106628316&mcid=1003&mpid=120000563032&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=534675262e43f5b28e610da45cfc828d&sv=10004&ct=android
 男篮世预赛 约旦VS伊拉克 全场回放（赛场原声） 00:20,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/627/382/5106627382/media/5106627382_5338929673_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701806806&pid=2028600720&timestamp=20260707140209&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966000332&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701806806&client_ip=171.8.79.254&SecurityKey=20260707140209&promotionId=&mvid=5106627382&mcid=1003&mpid=120000563057&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=637485ec8fbb19ab6760960b86cf31cc&sv=10004&ct=android
 男篮世预赛 韩国VS日本 全场回放（赛场原声） 18:20,http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/628/313/5106628313/media/5106628313_5338983891_594.mg001.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701807557&pid=2028600720&timestamp=20260707160231&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966024360&ParentNodeID=-99&preview=1&playseek=000000-000600&assertID=5701807557&client_ip=171.8.79.254&SecurityKey=20260707160231&promotionId=&mvid=5106628313&mcid=1003&mpid=120000563044&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=1&encrypt=6c9dc8c0b2915a8b335243ae3d8cffcc&sv=10004&ct=android
+白了个痴,https://live.ottiptv.cc/douyu/319576
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+相识不可缓也,https://live.ottiptv.cc/huya/30984527
+竹叶的熊猫,https://live.ottiptv.cc/douyu/3870925
+米尼影院,https://live.ottiptv.cc/douyu/7642724
 粤BA 东莞VS中山 2026赛季广东省城市篮球联赛半决赛第二轮: 东莞VS中山 19:30,http://flvctypull2mgsplive.miguvideo.com:80/mglive/mgss132_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510503533&pid=2028597139&timestamp=20260707160240&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965798957&ParentNodeID=-99&assertID=7510503533&client_ip=171.8.79.254&SecurityKey=20260707160240&promotionId=&mvid=7510251432&mcid=500020&mpid=120000581715&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=85ce616a9c11609608e3dc8915245bc8&sv=10004&ct=android
 粤BA 深圳VS广州 2026赛季广东省城市篮球联赛半决赛第二轮: 深圳VS广州 19:30,http://flvctypull2mgsplive.miguvideo.com:80/mglive/mgss131_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510503531&pid=2028597139&timestamp=20260707160240&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965798940&ParentNodeID=-99&assertID=7510503531&client_ip=171.8.79.254&SecurityKey=20260707160240&promotionId=&mvid=7510251431&mcid=500020&mpid=120000581714&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e8c466916c2efb9262473056b63d0453&sv=10004&ct=android
 粤语电影,https://goodiptv.club/douyu/1226741
@@ -1196,13 +1236,23 @@ WTT 孙颖莎女单夺冠 松岛辉空问鼎男单 【男双决赛】林诗栋/�
 经典,https://goodiptv.club/douyu/6091425
 经典动画大集合,https://d1t.alwaysdata.net/mgvt/%E7%BB%8F%E5%85%B8%E5%8A%A8%E7%94%BB%E5%A4%A7%E9%9B%86%E5%90%88
 经典小品,https://goodiptv.club/douyu/9067836
+经典电影重温,https://live.ottiptv.cc/yy/1382793140
+老烟斗鬼故事,https://live.ottiptv.cc/douyu/2337939
+老高与小茉的死忠粉,https://live.ottiptv.cc/douyu/236461
+苹果Zei妖,https://live.ottiptv.cc/douyu/2793084
+苹果Zei甜,https://live.ottiptv.cc/douyu/1174353
+蓝翔新三国,https://live.ottiptv.cc/douyu/5908256
+贝爷求生影视,https://live.ottiptv.cc/douyu/9661369
 财富天下,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cftx/51/20250804/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022193&pid=2028597139&timestamp=20260707160220&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=956923159&ParentNodeID=-99&assertID=5910022193&client_ip=171.8.79.254&SecurityKey=20260707160220&promotionId=&mvid=5900006715&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=476ed9dffed5656782e8a6473875d013&sv=10004&ct=android
 财富天下,https://d1t.alwaysdata.net/mgvt/%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B
 贵州村超 场坝龙泉井村队VS大利村 赛场原声 19:00,http://flvctypull2mgsplive.miguvideo.com:80/mglive/mgss281_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510506841&pid=2028597139&timestamp=20260707160240&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966020077&ParentNodeID=-99&assertID=7510506841&client_ip=171.8.79.254&SecurityKey=20260707160240&promotionId=&mvid=7510253086&mcid=500020&mpid=120000582375&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=58e911d40ab9dbc8c45c992801eb14ce&sv=10004&ct=android
 赛事最经典,https://d1t.alwaysdata.net/mgvt/%E8%B5%9B%E4%BA%8B%E6%9C%80%E7%BB%8F%E5%85%B8
 赵本删不删,https://goodiptv.club/douyu/9837104
+都爱看,https://live.ottiptv.cc/huya/26058097
+铁甲影院,https://live.ottiptv.cc/douyu/1274132
 阿七点歌台,https://goodiptv.club/douyu/3186217
 青海卫视-,http://60.10.139.113:8801/hls/56/index.m3u8
 靓彩河北,http://121.19.134.126:808/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 鹿泉二套,https://jwcdnqx.hebyun.com.cn/live/luquaner/1500k/tzwj_video.m3u8
 黄龙,https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
+龍組队长天昊,https://live.ottiptv.cc/douyu/1487654
