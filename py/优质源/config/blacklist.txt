@@ -41,3 +41,7 @@ lbds.us.ci
 183.129.255.66
 60.10.139.113
 jwcdnqx.hebyun.com.cn
+119.88.243.98
+27.12.12.29
+14.153.176.183
+www.negative.top
