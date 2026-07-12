@@ -129,3 +129,7 @@ p2.bdstatic.com:443
 cdn9.163189.xyz:80
 svip.high24-playback.com:443
 p.ytelc.com:80
+221.193.168.182:9901
+171.213.146.15:8899
+tpc.x3322.net:9901
+125.42.148.50:9901
