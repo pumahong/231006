@@ -124,3 +124,6 @@ www.negative.top:50000
 111.231.6.102:1234
 hsplay-360.v.btime.com:443
 ali-m-l.cztv.com:443
+8.153.110.51:3020
+p2.bdstatic.com:443
+cdn9.163189.xyz:80
