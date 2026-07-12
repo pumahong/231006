@@ -127,3 +127,5 @@ ali-m-l.cztv.com:443
 8.153.110.51:3020
 p2.bdstatic.com:443
 cdn9.163189.xyz:80
+svip.high24-playback.com:443
+p.ytelc.com:80
