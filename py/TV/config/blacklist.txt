@@ -118,3 +118,7 @@ live.tvfix.org:443
 1.24.39.180:9003
 183.129.255.66:8480
 video.epaper.pybtv.cn:8080
+182.114.49.96:9901
+110.154.192.66:7788
+gslbflvmgsplive.miguvideo.com:80
+gslbmgspvod.miguvideo.com:80
