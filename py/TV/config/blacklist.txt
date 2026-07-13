@@ -123,3 +123,5 @@ video.epaper.pybtv.cn:8080
 gslbflvmgsplive.miguvideo.com:80
 gslbmgspvod.miguvideo.com:80
 play-qukan.cztv.com:443
+txmov2.a.kwimgs.com:80
+123.130.84.106:8154
