@@ -125,3 +125,5 @@ gslbmgspvod.miguvideo.com:80
 play-qukan.cztv.com:443
 txmov2.a.kwimgs.com:80
 123.130.84.106:8154
+221.193.168.41:9901
+bp-resource-dfl.bestv.cn:80
