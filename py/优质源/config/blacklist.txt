@@ -32,3 +32,4 @@ d1t.alwaysdata.net
 101.6.130.52
 119.88.243.98
 14.153.176.183
+bp-resource-dfl.bestv.cn
