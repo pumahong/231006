@@ -142,3 +142,4 @@ webcast.hkstv.tv:80
 flvalipull2mgsplive.miguvideo.com:80
 113.25.252.226:9901
 123.160.235.67:9901
+ali-m-l.cztv.com:443
