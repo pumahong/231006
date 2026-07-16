@@ -38,3 +38,5 @@ bp-resource-dfl.bestv.cn
 58.56.162.102
 118.193.115.2
 110.154.192.66
+epg.pw
+l.cztvcloud.com
