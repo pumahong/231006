@@ -100,3 +100,6 @@ zhibo.hkstv.tv:80
 111.22.153.159:35455
 rt-arb.rttv.com:443
 182.61.15.163:80
+p.ytelc.com:80
+123.160.235.212:9901
+pull-hls-f1.douyinliving.com:80
