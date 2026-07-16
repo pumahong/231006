@@ -125,3 +125,5 @@ live.264788.xyz:443
 1.24.39.180:9003
 r.jdshipin.com:80
 tmpstream.hyrtv.cn:80
+124.116.183.146:9901
+bp-resource-dfl.bestv.cn:443
