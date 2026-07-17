@@ -40,3 +40,6 @@ bp-resource-dfl.bestv.cn
 110.154.192.66
 epg.pw
 l.cztvcloud.com
+124.116.183.146
+jwcdnqx.hebyun.com.cn
+222.169.85.8
