@@ -138,3 +138,4 @@ dxtx.hntv.tv:443
 8.153.110.51:3020
 www.negative.top:50000
 221.13.235.114:9901
+fl2.moveonjoy.com:80
