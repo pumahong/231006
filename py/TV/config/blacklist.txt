@@ -165,3 +165,5 @@ m3u8channel-yj.yunxya.com:443
 jsv-live-play.sfccn.com:443
 101.66.198.242:9901
 tvbox6.icu:80
+english-livetx.cgtn.com:80
+english-livetx.cgtn.com:443
