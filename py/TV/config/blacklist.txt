@@ -175,3 +175,8 @@ english-livetx.cgtn.com:443
 125.42.148.232:9901
 125.42.148.209:9901
 live1.gatv.com.cn:85
+59.175.11.109:1234
+gslbflvmgsplive.miguvideo.com:80
+116.52.173.134:1234
+gslbmgspvod.miguvideo.com:80
+60.168.105.87:5008
