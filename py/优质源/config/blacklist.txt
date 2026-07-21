@@ -32,3 +32,7 @@ gd202.tv1288.xyz
 116.52.173.5
 epg.pw
 222.214.208.34
+1.24.39.180
+tvcdn.stream3.hndt.com
+jsv-live-play.sfccn.com
+111.8.224.6
