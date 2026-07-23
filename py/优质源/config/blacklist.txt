@@ -47,3 +47,6 @@ flvalipull2mgsplive.miguvideo.com
 l.cztvcloud.com
 120.202.94.181
 59.175.11.109
+101.66.194.150
+218.206.193.218
+zmgd.zyrnet.com
