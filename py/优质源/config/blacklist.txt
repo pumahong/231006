@@ -50,3 +50,5 @@ l.cztvcloud.com
 101.66.194.150
 218.206.193.218
 zmgd.zyrnet.com
+218.13.170.98
+tx-origin.pull.yximgs.com
