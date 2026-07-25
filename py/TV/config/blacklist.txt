@@ -217,3 +217,4 @@ live.chinacert.cftest5.cn:443
 liveout.xntv.tv:443
 221.193.168.19:9901
 115.48.160.187:9901
+jwcdnqx.hebyun.com.cn:443
