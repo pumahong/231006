@@ -91,3 +91,16 @@ qjrhc.jydjd.top:2911
 www.lizhinas.top:1009
 222.134.245.16:9901
 222.128.26.62:4001
+event.pull.hebtv.com:80
+jwcdnqx.hebyun.com.cn:443
+182.127.153.79:1234
+27.12.12.189:1234
+116.236.204.18:1234
+gslbmgsplive.miguvideo.com:80
+182.61.15.163:80
+d1t.alwaysdata.net:443
+119.88.243.98:17231
+live.tvfix.org:443
+api.kkitv.itv888.vip:8080
+42.94.210.57:7788
+60.168.105.138:5008
