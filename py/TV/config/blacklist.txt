@@ -89,3 +89,5 @@ streamsy.online:2999
 d12a2vxqkkh1bo.cloudfront.net:443
 qjrhc.jydjd.top:2911
 www.lizhinas.top:1009
+222.134.245.16:9901
+222.128.26.62:4001
