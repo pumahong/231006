@@ -112,3 +112,6 @@ m3u8.channel.dzsm.com:443
 stream.sun0769.com:443
 t.061899.xyz:80
 221.193.168.22:9901
+stream1.freetv.fun:443
+epg.pw:443
+dxtx.hntv.tv:443
