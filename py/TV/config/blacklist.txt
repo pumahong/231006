@@ -120,3 +120,4 @@ p2.vzan.com:80
 hls.ningxiahuangheyun.com:443
 www.lwfz.fun:8800
 pull-hls-f1.douyincdn.com:80
+ali-m-l.cztv.com:443
