@@ -94,3 +94,4 @@ r.jdshipin.com:80
 gslbmgsplive.miguvideo.com:80
 d1t.alwaysdata.net:443
 49.234.31.101:7040
+91.247.68.229:8000
