@@ -87,3 +87,10 @@ wouu.net:9977
 106.53.99.30:80
 p.ytelc.com:80
 smart.pendy.dpdns.org:443
+r.jdshipin.com:80
+222.169.85.8:9901
+59.35.185.47:8188
+112.123.243.37:50085
+gslbmgsplive.miguvideo.com:80
+d1t.alwaysdata.net:443
+49.234.31.101:7040
