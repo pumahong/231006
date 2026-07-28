@@ -117,3 +117,9 @@ tpc.x3322.net:9901
 dassby.qqff.top:99
 221.193.168.128:9901
 vip1.xinketongxun.fun:8082
+bp-resource-dfl.bestv.cn:443
+mg.cttv.vip:80
+183.129.255.66:8480
+lxajh.top:80
+genglei.8866.org:9901
+bp-resource-dfl.bestv.cn:80
