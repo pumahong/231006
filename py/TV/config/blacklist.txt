@@ -146,3 +146,5 @@ ali.hlspull.yximgs.com:80
 202.105.239.77:8188
 125.42.150.231:9901
 221.193.168.196:9901
+dxtx.hntv.tv:443
+gcwbndali.v.myalicdn.com:443
