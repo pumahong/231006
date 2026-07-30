@@ -192,3 +192,4 @@ gcalic.v.myalicdn.com:443
 p2.vzan.com:80
 play-live-hls.jxtvcn.com.cn:80
 221.193.168.135:9901
+zmgd.zyrnet.com:8888
