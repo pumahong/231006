@@ -136,3 +136,5 @@ dxtx.hntv.tv:443
 l.cztvcloud.com:80
 gcalic.v.myalicdn.com:443
 my9.ltd:443
+jsmov2.a.yximgs.com:80
+182.127.153.128:1234
