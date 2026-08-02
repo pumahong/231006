@@ -134,3 +134,5 @@ bp-resource-dfl.bestv.cn:80
 dxtx.hntv.tv:443
 182.150.115.21:8030
 l.cztvcloud.com:80
+gcalic.v.myalicdn.com:443
+my9.ltd:443
