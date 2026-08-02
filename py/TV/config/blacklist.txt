@@ -116,3 +116,6 @@ gslbmgsplive.miguvideo.com:80
 113.120.243.10:7788
 116.236.204.18:1234
 cdn9.163189.xyz:80
+shcm-stream-cf1.stream.264788.xyz:443
+218.13.170.98:9901
+live.tvfix.org:443
