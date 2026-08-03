@@ -124,3 +124,8 @@ live.tvfix.org:443
 124.116.183.146:9901
 218.13.170.98:9901
 183.223.157.33:9901
+shcm-stream-cf1.stream.264788.xyz:443
+bp-resource-dfl.bestv.cn:80
+182.114.49.42:9901
+101.66.194.115:9901
+bp-resource-dfl.bestv.cn:443
