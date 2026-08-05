@@ -160,3 +160,5 @@ m3u8.channel.dzsm.com:443
 russian-livews.cgtn.com:80
 183.129.255.66:8480
 liveout.xntv.tv:443
+live.jinchuanrmt.com:90
+115.48.160.177:9901
