@@ -162,3 +162,6 @@ russian-livews.cgtn.com:80
 liveout.xntv.tv:443
 live.jinchuanrmt.com:90
 115.48.160.177:9901
+221.193.168.16:9901
+cdn.jdshipin.com:8880
+l.cztvcloud.com:80
