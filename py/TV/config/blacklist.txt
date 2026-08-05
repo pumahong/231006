@@ -165,3 +165,4 @@ live.jinchuanrmt.com:90
 221.193.168.16:9901
 cdn.jdshipin.com:8880
 l.cztvcloud.com:80
+v3.mediacast.hk:443
