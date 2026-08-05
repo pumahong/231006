@@ -156,3 +156,5 @@ r.jdshipin.com:80
 221.193.168.171:9901
 118.193.115.2:9901
 182.114.49.15:9901
+m3u8.channel.dzsm.com:443
+russian-livews.cgtn.com:80
