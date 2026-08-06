@@ -166,3 +166,5 @@ live.jinchuanrmt.com:90
 cdn.jdshipin.com:8880
 l.cztvcloud.com:80
 v3.mediacast.hk:443
+pili-live-hls-sjxgz2024.sobeylive.com:443
+gmxw.7766.org:808
