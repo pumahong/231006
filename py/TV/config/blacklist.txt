@@ -116,3 +116,6 @@ gslbmgsplive.miguvideo.com:80
 111.228.4.117:6789
 27.12.12.201:1234
 61.178.227.57:9901
+bp-resource-dfl.bestv.cn:80
+139.227.21.22:9901
+bp-resource-dfl.bestv.cn:443
