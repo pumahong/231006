@@ -30,3 +30,6 @@ bp-resource-dfl.bestv.cn
 8.135.27.147
 223.78.65.165
 epg.pw
+111.4.59.41
+lbds.us.ci
+gcalic.v.myalicdn.com
