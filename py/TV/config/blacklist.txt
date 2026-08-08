@@ -119,3 +119,6 @@ gslbmgsplive.miguvideo.com:80
 bp-resource-dfl.bestv.cn:80
 139.227.21.22:9901
 bp-resource-dfl.bestv.cn:443
+111.8.224.6:9999
+my9.ltd:443
+live.ottiptv.cc:443
