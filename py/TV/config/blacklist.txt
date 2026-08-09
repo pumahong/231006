@@ -118,3 +118,4 @@ www.lwfz.fun:8800
 bp-resource-dfl.bestv.cn:443
 bp-resource-dfl.bestv.cn:80
 ali-m-l.cztv.com:443
+hls.ningxiahuangheyun.com:443
