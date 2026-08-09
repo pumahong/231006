@@ -115,3 +115,6 @@ www.lwfz.fun:8800
 139.227.21.22:9901
 183.236.43.98:4013
 183.220.20.17:4321
+bp-resource-dfl.bestv.cn:443
+bp-resource-dfl.bestv.cn:80
+ali-m-l.cztv.com:443
