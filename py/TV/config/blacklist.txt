@@ -117,3 +117,8 @@ d1t.alwaysdata.net:443
 14.153.176.108:1234
 182.150.115.21:8030
 119.39.9.8:9901
+bp-resource-dfl.bestv.cn:443
+183.129.255.66:8480
+bp-resource-dfl.bestv.cn:80
+txmov2.a.kwimgs.com:80
+222.169.85.8:9901
