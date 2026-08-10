@@ -125,3 +125,5 @@ txmov2.a.kwimgs.com:80
 ali.hlspull.yximgs.com:80
 fuxin.yunjifei.top:999
 www.cdnstv.com:6398
+61.136.172.236:9901
+t.061899.xyz:80
