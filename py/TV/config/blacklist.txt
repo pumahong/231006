@@ -122,3 +122,6 @@ bp-resource-dfl.bestv.cn:443
 bp-resource-dfl.bestv.cn:80
 txmov2.a.kwimgs.com:80
 222.169.85.8:9901
+ali.hlspull.yximgs.com:80
+fuxin.yunjifei.top:999
+www.cdnstv.com:6398
