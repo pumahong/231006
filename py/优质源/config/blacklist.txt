@@ -34,3 +34,4 @@ epg.pw
 lbds.us.ci
 gcalic.v.myalicdn.com
 139.227.21.22
+222.169.85.8
