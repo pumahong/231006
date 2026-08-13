@@ -123,3 +123,5 @@ gslbmgsplive.miguvideo.com:80
 d1t.alwaysdata.net:443
 116.52.173.67:1234
 113.120.243.10:7788
+112.123.243.37:50085
+lxajh.top:80
