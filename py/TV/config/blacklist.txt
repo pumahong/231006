@@ -133,3 +133,12 @@ bp-resource-dfl.bestv.cn:443
 live.tvfix.org:443
 123.118.55.165:45237
 122.224.58.42:85
+vip.ffzy-online.com:443
+vip.ffzy-play.com:443
+vip.ffzy-play1.com:443
+vip.ffzy-play6.com:443
+svip.high24-playback.com:443
+119.39.9.8:9901
+vip.ffzy-play7.com:443
+my9.ltd:443
+svipsvip.ffzyread1.com:443
