@@ -130,3 +130,6 @@ bp-resource-dfl.bestv.cn:80
 m3u8.channel.dzsm.com:443
 bp-resource-dfl.bestv.cn:443
 123.118.53.84:45237
+live.tvfix.org:443
+123.118.55.165:45237
+122.224.58.42:85
