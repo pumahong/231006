@@ -149,3 +149,5 @@ test1.live.sdetv.com.cn:443
 test1.live.sdetv.com.cn:80
 39.164.143.66:13994
 121.230.179.192:8802
+gcalic.v.myalicdn.com:443
+live.eac-news.com:443
