@@ -145,3 +145,7 @@ svipsvip.ffzyread1.com:443
 101.66.199.234:9901
 ali-m-l.cztv.com:443
 1.192.152.76:9901
+test1.live.sdetv.com.cn:443
+test1.live.sdetv.com.cn:80
+39.164.143.66:13994
+121.230.179.192:8802
