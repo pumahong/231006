@@ -139,3 +139,8 @@ gslbmgsplive.miguvideo.com:80
 123.118.53.84:45237
 47.104.178.59:3566
 112.123.243.37:50085
+91.247.68.229:8000
+bp-resource-dfl.bestv.cn:80
+bp-resource-dfl.bestv.cn:443
+111.8.224.6:9999
+rt-glb.rttv.com:443
