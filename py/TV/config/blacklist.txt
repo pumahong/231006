@@ -161,3 +161,13 @@ fl2.moveonjoy.com:80
 101.66.195.96:9901
 101.66.199.234:9901
 139.214.181.174:9901
+cdn6.163189.xyz:443
+27.39.122.2:9901
+cdn5.163189.xyz:443
+cdn8.163189.xyz:443
+cdn2.163189.xyz:80
+cdn6.163189.xyz:80
+bp-resource-dfl.bestv.cn:443
+bp-resource-dfl.bestv.cn:80
+ali.hlspull.yximgs.com:80
+cdn.163189.xyz:80
