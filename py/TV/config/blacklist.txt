@@ -147,3 +147,7 @@ txmov2.a.kwimgs.com:443
 jwcdnqx.hebyun.com.cn:443
 txmov2.a.kwimgs.com:80
 livestream-bt.nmtv.cn:443
+222.169.85.8:9901
+139.227.21.22:9901
+ali-m-l.cztv.com:443
+183.142.200.28:9901
