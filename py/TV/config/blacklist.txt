@@ -173,3 +173,5 @@ ali.hlspull.yximgs.com:80
 cdn.163189.xyz:80
 121.19.134.101:808
 gmxw.7766.org:808
+event.pull.hebtv.com:443
+cdn9.163189.xyz:80
