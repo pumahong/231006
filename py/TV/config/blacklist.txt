@@ -134,3 +134,5 @@ d1t.alwaysdata.net:443
 gslbmgsplive.miguvideo.com:80
 113.120.243.10:7788
 183.236.43.98:4013
+118.193.115.2:9901
+p2.vzan.com:80
