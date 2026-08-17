@@ -141,3 +141,5 @@ bp-resource-dfl.bestv.cn:443
 bp-resource-dfl.bestv.cn:80
 111.8.224.6:9999
 106.111.244.12:58099
+live.ottiptv.cc:443
+rt-glb.rttv.com:443
