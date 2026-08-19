@@ -16,3 +16,4 @@ bp-resource-dfl.bestv.cn
 27.39.122.2
 111.76.19.197
 112.123.243.37
+lbds.us.ci
