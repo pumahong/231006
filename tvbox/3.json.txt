@@ -1,0 +1,108 @@
+{
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+  "wallpaper": "https://api.likepoems.com/img/bing",
+  "lives": [
+    {
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "live",
+          "urls": [
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5Lm5ldC9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vRm9uZ01pL0NhdFZvZFNwaWRlci9tYWluL2xpdmUvbGl2ZS50eHQ="
+          ]
+        }
+      ]
+    }
+  ],
+  "sites": [
+    {
+      "key": "YouTube",
+      "name": "📺 YouTube (需配置Cookie)",
+      "type": 3,
+      "api": "csp_YouTube",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "",
+        "cookie": "CgtldkdWdUxLMFNZcyjOwZnUBjIKCgJJUhIEGgAgUGLfAgrcAjIxLllUPWNzOWRTaUJCZkt0T1JVb2F2MFpCRXNDMGVLVDZxWVdnNW43YWlUblh2eDhzMFpwaEY3RzIwU3g0WVJtaS1OczNrTzNJZk1VVy12NU9aNG10YlJXT29GQ05UR2JpcjE1Q0xwWHlBM0RuRi1DQ1BCQ2ZVY252V05TcEUzYXBaRF8wQURhZlBmcy1RYjZPcGlaSHFHM1U0SFlQRWFoaW5ZQm1fUWk0amc0WnFhMVJEM1kxM3plblowTm1GUW1kNUNzT2UtU05pamV3eExEcS1hYkxoVkFqdFJoeVBWcEtGak1TdVBxMTFhSENMamxERERGYmY1cndGdHlqUEVmMVFzWEZXRXQ4VHFCSDhzYXdCOXlHLWhPXzhXRFBKWW40Nk9PMGFTQ0hUMy14dTdUVWtzQW1PNEVlbkZyY0x3UGx3S1htY3A4ZjIyMXQ4S1VIOG9tVkVDV1c4UQ%3D%3D
+",
+        "channelId": ""
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.77
+      }
+    },
+    {
+      "key": "YouTube_Custom_1",
+      "name": "民视戏剧",
+      "type": 3,
+      "api": "csp_YouTube",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": {
+        "channelId": "UCiMiEL1XRXANaypB2wEdr5w",
+        "cookie": "CgtldkdWdUxLMFNZcyjOwZnUBjIKCgJJUhIEGgAgUGLfAgrcAjIxLllUPWNzOWRTaUJCZkt0T1JVb2F2MFpCRXNDMGVLVDZxWVdnNW43YWlUblh2eDhzMFpwaEY3RzIwU3g0WVJtaS1OczNrTzNJZk1VVy12NU9aNG10YlJXT29GQ05UR2JpcjE1Q0xwWHlBM0RuRi1DQ1BCQ2ZVY252V05TcEUzYXBaRF8wQURhZlBmcy1RYjZPcGlaSHFHM1U0SFlQRWFoaW5ZQm1fUWk0amc0WnFhMVJEM1kxM3plblowTm1GUW1kNUNzT2UtU05pamV3eExEcS1hYkxoVkFqdFJoeVBWcEtGak1TdVBxMTFhSENMamxERERGYmY1cndGdHlqUEVmMVFzWEZXRXQ4VHFCSDhzYXdCOXlHLWhPXzhXRFBKWW40Nk9PMGFTQ0hUMy14dTdUVWtzQW1PNEVlbkZyY0x3UGx3S1htY3A4ZjIyMXQ4S1VIOG9tVkVDV1c4UQ%3D%3D
+"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.77
+      }
+    },
+    {
+      "key": "Bili",
+      "name": "🅱️ Bilibili",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "json": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.77
+      }
+    }
+  ],
+  "parses": [
+    {
+      "name": "Json并发",
+      "type": 2,
+      "url": "Sequence"
+    },
+    {
+      "name": "Json轮询",
+      "type": 2,
+      "url": "Parallel"
+    }
+  ],
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "wasu",
+    "bilibili",
+    "youtube"
+  ],
+  "rules": [
+    {
+      "name": "proxy",
+      "hosts": [
+        "raw.githubusercontent.com",
+        "googlevideo.com",
+        "youtube.com"
+      ]
+    }
+  ]
+}
