@@ -94,3 +94,10 @@ live.tvfix.org:443
 125.42.150.58:9901
 ali.hlspull.yximgs.com:80
 221.193.168.224:9901
+111.59.24.227:8181
+gslbmgsplive.miguvideo.com:80
+d1t.alwaysdata.net:443
+171.117.34.130:9999
+bp-resource-dfl.bestv.cn:443
+113.65.7.6:7088
+bp-resource-dfl.bestv.cn:80
