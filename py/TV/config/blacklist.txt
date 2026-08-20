@@ -89,3 +89,8 @@ gdfire2.67890123.cn:8088
 sansat.net:88
 iptv.huuc.edu.cn:80
 genglei.8866.org:9901
+45.192.97.170:8880
+live.tvfix.org:443
+125.42.150.58:9901
+ali.hlspull.yximgs.com:80
+221.193.168.224:9901
