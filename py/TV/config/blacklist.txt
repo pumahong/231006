@@ -118,3 +118,4 @@ m3u8.channel.dzsm.com:443
 106.118.70.198:9901
 111.8.242.142:9999
 m3u8channel-yj.yunxya.com:443
+my9.ltd:443
