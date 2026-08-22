@@ -140,3 +140,5 @@ ali-m-l.cztv.com:80
 118.77.43.56:8085
 live.jinchuanrmt.com:90
 tencentplay.gztv.com:443
+117.86.76.172:55555
+49.73.29.217:9999
