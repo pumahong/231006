@@ -137,3 +137,6 @@ ali-m-l.cztv.com:80
 104.152.209.49:8181
 121.19.134.145:808
 221.13.235.34:9901
+118.77.43.56:8085
+live.jinchuanrmt.com:90
+tencentplay.gztv.com:443
