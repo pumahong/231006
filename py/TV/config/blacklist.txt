@@ -92,3 +92,7 @@ live-hls-web-aje.getaj.net:80
 hdl-vip-ws.qf.56.com:443
 nhkwlive-ojp.akamaized.net:443
 streamsy.online:2999
+russian-livews.cgtn.com:80
+221.193.168.249:9901
+live.tvfix.org:443
+218.81.49.34:10010
