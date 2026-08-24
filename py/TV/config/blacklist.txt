@@ -110,3 +110,4 @@ vip.lqcc.xyz:15511
 bp-resource-dfl.bestv.cn:443
 125.42.150.128:9901
 bp-resource-dfl.bestv.cn:80
+tpc.x3322.net:9901
