@@ -106,3 +106,7 @@ tvbox6.icu:80
 www.lizhinas.top:1009
 2409:8087:1:20:20::2c:80
 vip.lqcc.xyz:15511
+221.193.168.18:9901
+bp-resource-dfl.bestv.cn:443
+125.42.150.128:9901
+bp-resource-dfl.bestv.cn:80
