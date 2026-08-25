@@ -127,3 +127,5 @@ live.ottiptv.cc:443
 123.118.55.165:45237
 118.193.115.2:9901
 stream1.freetv.fun:443
+dxtx.hntv.tv:443
+ali.hlspull.yximgs.com:80
