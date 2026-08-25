@@ -111,3 +111,4 @@ bp-resource-dfl.bestv.cn:443
 125.42.150.128:9901
 bp-resource-dfl.bestv.cn:80
 tpc.x3322.net:9901
+1.28.123.148:9901
