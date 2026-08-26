@@ -120,3 +120,8 @@ liveout.xntv.tv:443
 101.66.198.50:9901
 epg.pw:443
 gcwbndali.v.myalicdn.com:443
+dxtx.hntv.tv:443
+ali-m-l.cztv.com:443
+111.59.24.227:8181
+124.165.232.26:8082
+gd202.tv1288.xyz:443
