@@ -101,3 +101,6 @@ vip.lqcc.xyz:15511
 221.193.168.93:9901
 live.tvfix.org:443
 tpc.x3322.net:9901
+bp-resource-dfl.bestv.cn:443
+119.39.9.8:9901
+223.78.65.165:9901
