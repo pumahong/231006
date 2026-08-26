@@ -114,3 +114,9 @@ gcalic.v.myalicdn.com:443
 ali.hlspull.yximgs.com:80
 222.169.85.8:9901
 61.178.227.57:9901
+stream1.freetv.fun:443
+liveout.xntv.tv:443
+112.123.243.37:50085
+101.66.198.50:9901
+epg.pw:443
+gcwbndali.v.myalicdn.com:443
