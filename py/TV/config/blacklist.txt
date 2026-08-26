@@ -110,3 +110,4 @@ bp-resource-dfl.bestv.cn:443
 gcalic.v.myalicdn.com:443
 58.56.162.102:4466
 112.27.5.218:9901
+113.90.154.189:9901
