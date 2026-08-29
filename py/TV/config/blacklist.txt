@@ -136,3 +136,7 @@ dassby.qqff.top:99
 live.wanyuannews.com:80
 175.0.71.111:8888
 live.chinacert.cftest5.cn:443
+221.13.234.122:9901
+101.81.77.3:9999
+l.cztvcloud.com:80
+175.9.162.246:4022
