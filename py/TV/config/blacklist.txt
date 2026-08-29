@@ -132,3 +132,7 @@ tpc.x3322.net:9901
 27.12.12.174:1234
 dassby.qqff.top:99
 117.63.79.182:1234
+121.19.134.145:808
+live.wanyuannews.com:80
+175.0.71.111:8888
+live.chinacert.cftest5.cn:443
