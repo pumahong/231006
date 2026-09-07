@@ -230,3 +230,4 @@ live.ottiptv.cc:80
 gcalic.v.myalicdn.com:443
 epg.pw:443
 222.134.245.16:9901
+122.224.58.42:85
