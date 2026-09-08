@@ -12,3 +12,5 @@ dxtx.hntv.tv
 bp-resource-dfl.bestv.cn
 hkstv.tv
 122.224.58.42
+ali-xwl.cztv.com
+event.pull.hebtv.com
