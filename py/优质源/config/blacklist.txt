@@ -14,3 +14,5 @@ hkstv.tv
 122.224.58.42
 ali-xwl.cztv.com
 event.pull.hebtv.com
+goodiptv.club
+112.27.5.218
