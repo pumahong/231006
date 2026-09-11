@@ -257,3 +257,4 @@ rihou.cc:555
 111.76.19.251:1234
 p.ytelc.com:80
 liveout.xntv.tv:443
+r.jdshipin.com:80
