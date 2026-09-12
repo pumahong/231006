@@ -9,3 +9,5 @@ bztv.tvbus.cc
 lbds.us.ci
 119.39.9.8
 dxtx.hntv.tv
+d1t.alwaysdata.net
+live.chinacert.cftest5.cn
