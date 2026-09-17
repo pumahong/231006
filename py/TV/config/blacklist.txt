@@ -303,3 +303,5 @@ tvcdn.stream3.hndt.com:80
 110.154.192.86:7788
 hls.ningxiahuangheyun.com:443
 182.140.125.47:808
+v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com:443
+txmov2.a.kwimgs.com:80
