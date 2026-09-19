@@ -9,3 +9,5 @@ lbds.us.ci
 bp-resource-dfl.bestv.cn
 epg.pw
 123.163.114.241
+dxtx.hntv.tv
+221.7.175.154
