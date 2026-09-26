@@ -9,3 +9,5 @@ epg.pw
 112.27.5.218
 d1t.alwaysdata.net
 111.59.139.82
+bztv.tvbus.cc
+207.56.13.146
