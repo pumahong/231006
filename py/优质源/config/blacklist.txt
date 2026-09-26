@@ -11,3 +11,5 @@ d1t.alwaysdata.net
 111.59.139.82
 bztv.tvbus.cc
 207.56.13.146
+112.30.73.119
+bp-resource-dfl.bestv.cn
