@@ -408,3 +408,5 @@ smzb.bypbwxx.top:80
 182.114.49.222:9901
 119.129.172.127:9901
 fl2.moveonjoy.com:80
+jwcdnqx.hebyun.com.cn:443
+drive.mxmy.net:8888
