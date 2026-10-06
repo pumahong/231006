@@ -410,3 +410,5 @@ smzb.bypbwxx.top:80
 fl2.moveonjoy.com:80
 jwcdnqx.hebyun.com.cn:443
 drive.mxmy.net:8888
+121.19.134.202:808
+live.zohi.tv:80
